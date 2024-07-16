@@ -1,0 +1,11 @@
+### VisualStudioCode ###
+.vscode/
+
+/checkpoints/*
+/exp_sampling/*
+/result/*
+/samples/sample_data
+/samples/Cross
+/temp/*
+
+/img
