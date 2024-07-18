@@ -7,7 +7,7 @@ The goal was improve the generalization of prediction models in the context of p
 
 The code contains implementations from different sources. The implementations are closely following the original code with small adaptions, so that the different parts work together.
 
-Detailed results can be found in the folder "results", including a csv-file summarizing all executions.
+Detailed results can be found in the folder "results", including a xlsx-file summarizing all executions.
 
 
 ### How to run the code
@@ -34,12 +34,13 @@ Detailed results can be found in the folder "results", including a csv-file summ
         - *--resource_p*: "True" if you want to use resource as features, "False" otherwise (default: False),
         - *--data_p*: "True" if you want to use data as features, "False" otherwise (default: False),
         - *--result_dir*: directory where the experimental results are saved
-        - *--sampling_technique*: the desired sampling technique ("random", "relevance", "variant", "none").
-                                  - If you want to use variant-based sampling please provide the sampled event log with the following name: *dataset*_variant, e.g., "bpi2012_variant"
+        - *--sampling_technique*: the desired sampling technique ("random", "relevance", "variant", "none", default = "none").
+                                  - If you want to use variant-based sampling please provide the sampled event log with the following name: *dataset*_variant_samplesize.xes, e.g., "bpi2012_variant_50.xes"
                                   - If you want to use relevance-based sampling please provide the evetn log as a xes-file and a petri net of your event log, 
                                   e.g., bpi2012.xes and bpi2012.pnml
+         - *--sample_size*: the desired sample size (default=1.0)              
       - e.g., 
-        - ```python lstm.py --task "next_activity" --contextual_info False --learning_rate 0.002 --num_epochs 15 --batch_size 128 --data_dir "./samples/" --data_set "helpdesk" --checkpoint_dir "./checkpoints/" --control_flow_p True --time_p False --resource_p False --data_p False --transition False --result_dir "./result/" --sampling_technique "relevance"``
+        - ```python lstm.py --task "next_activity" --contextual_info False --learning_rate 0.002 --num_epochs 15 --batch_size 128 --data_dir "./samples/" --data_set "helpdesk" --checkpoint_dir "./checkpoints/" --control_flow_p True --time_p False --resource_p False --data_p False --transition False --result_dir "./result/" --sampling_technique "relevance"  --sample_size 0.5"``
 
 
 ### Citations:
@@ -55,7 +56,7 @@ Kabierski, M., Nguyen, H. L., Grunske, L., & Weidlich, M. (2021). Sampling What 
 2021.9576875
 
 Variant-based Sampling:
-Plug-In in ProM - Package LogFiltering
+Plug-In in ProM - Package LogFiltering - action: Variant Sampling
 Fani Sani, M., Vazifehdoostirani, M., Park, G., Pegoraro, M., van Zelst, S. J., & van der Aalst, W. M. (2021). Event log sampling for predictive monitoring. International Conference on Process Mining, 154–166. Retrieved December 18, 2023, from https://library.oapen.org/bitstream/handle/20.500.12657/54026/978- 3- 030-98581-3.pdf?sequence=1#page=167
 
 Example leakage calculations:
@@ -78,3 +79,4 @@ Note: Sampling and model training may take several hours for the event logs bpi2
 - Datetime format: "%Y.%m.%d %H:%M".
 - The input csv file contains the columns named after the xes elements, e.g., concept:name
 - Csv format dataset where 'case:concept:name' denotes the caseid, 'concept:name' the activity,'org:resource' the resource, 'time:timestamp' the complete timestamp, 'event_@' the event attribute, and 'case_@' the case attribute.
+- The caseid must be an integer

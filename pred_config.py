@@ -54,7 +54,9 @@ def load():
 
     parser.add_argument('--result_dir')
 
-    parser.add_argument('--sampling_technique')
+    # sampling
+    parser.add_argument('--sampling_technique', default="none")
+    parser.add_argument('--sample_size', default=1.0)
 
     args = parser.parse_args()
 

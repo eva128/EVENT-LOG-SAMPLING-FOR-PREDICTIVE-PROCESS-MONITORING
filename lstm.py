@@ -49,10 +49,12 @@ if __name__ == '__main__':
     file_exists = os.path.isfile(total_results_file)
 
     sampling_technique = args.sampling_technique
+    sample_size = args.sample_size
+    sample_size = float(sample_size)
 
     # create or open file to store the results
     with open (total_results_file, 'a') as csvfile:
-        headers = ['Dataset', 'Sampling Method', 'Accuracy', 'Example Leakage', 'Running_Time', 'F1_Score', 'Precisions', 'Recalls', 'FeatureEncoder_Time',
+        headers = ['Dataset', 'Sampling Method', 'Sample size' 'Accuracy', 'Example Leakage', 'Running_Time', 'F1_Score', 'Precisions', 'Recalls', 'FeatureEncoder_Time',
               'TruePositive', 'FalsePositive', 'FalseNegative', 'TrueNegative']
         writer = csv.DictWriter(csvfile, delimiter=',', lineterminator='\n',fieldnames=headers)
         print("File created")  
@@ -79,12 +81,12 @@ if __name__ == '__main__':
     print("Sampling and splitting data in train/test set")
     print("Sampling: ", sampling_technique)
     
-    #Random Sampling (own implementation) size:
+    #Random Sampling (own implementation)
     if(sampling_technique=="random"):
         list_ids = list(df['id'].unique())
         list_ids = [int(id) for id in list_ids]
         list_ids = array("i", list_ids)
-        sample_size = int(len(list_ids)*0.1)
+        sample_size = int(len(list_ids)*sample_size)
         sampled_ids = random.sample(list_ids, sample_size)
 
         # train/test split
@@ -104,7 +106,7 @@ if __name__ == '__main__':
         xes = pm4py.read_xes(xes_file_path) 
 
         xes = pm4py.convert_to_event_log(xes, case_id_key="case:concept:name")
-        sample_size = int(len(xes) * 0.5)
+        sample_size = int(len(xes) * 0.1)
 
         petrinet, initial_marking, final_marking = pm4py.read_pnml(data_dir + data_set + ".pnml")
         sampler = SequenceGuidedLogSampler(xes, batch_size=1)
@@ -131,7 +133,9 @@ if __name__ == '__main__':
     # The variant-based sampling was done using a plug-in in ProM, 
     # this code simply performs a train/test split of the sampled event log 
     elif(sampling_technique=="variant"):
-        xes_file_path = data_dir + data_set + "_variant.xes"
+        sample_size = int(float(sample_size)*100)
+        xes_file_path = data_dir + data_set + "_variant_" + str(sample_size) + ".xes"
+        print(xes_file_path)
         xes = pm4py.read_xes(xes_file_path) 
         
         variant_df = pm4py.convert_to_dataframe(xes)
@@ -156,6 +160,8 @@ if __name__ == '__main__':
         train_ids = random.sample(list_ids, train_ids_size)
         train_df = df[df['id'].isin(train_ids)]
         test_df = df[~df['id'].isin(train_ids)]
+
+    df[df['id'].isin(sampled_ids)].to_csv(data_set + sampling_technique + str(sample_size) + 'sample.csv', index=False)
    
 
     columns = ['concept:name', 'concept:name']
@@ -258,7 +264,7 @@ if __name__ == '__main__':
         temp = np.delete(temp, kk, 1)
         TrueNegative += sum(sum(temp))
 
-    # Calculate example leakage (citation abb ...)
+    # Calculate example leakage (based on the implementation of Abb et al., 2023)
     test_prefix_list = [row['activity_history'] for _, row in test_df.iterrows()]
     train_prefix_list = [row['activity_history'] for _, row in train_df.iterrows()]
     leaked = 0
@@ -271,8 +277,7 @@ if __name__ == '__main__':
     print("Out of ", len(test_prefix_list))
     print(leakage_percent)
 
-
-    Results_data = [data_set, sampling_technique, Accuracy, leakage_percent, Running_Time, F1_Score, Precision, Recall, FeatureGenerator_Time,
+    Results_data = [data_set, sampling_technique, sample_size, Accuracy, leakage_percent, Running_Time, F1_Score, Precision, Recall, FeatureGenerator_Time,
                     TruePositive, FalsePositive, FalseNegative, TrueNegative]
 
     print("flag: saving output")

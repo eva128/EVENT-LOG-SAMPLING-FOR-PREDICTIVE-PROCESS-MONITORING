@@ -1,2 +1,0 @@
-Dataset,Sampling Method,Accuracy,Example Leakage,Running_Time,F1_Score,Precisions,Recalls,FeatureEncoder_Time,TruePositive,FalsePositive,FalseNegative,TrueNegative
-bpi2017_1,none,0.8804669543793509,0.7637200919357773,3950.012375831604,0.8647681484048145,0.8769052807551012,0.8804669543793509,0.43977808952331543,106496,14458,14458,3009392
