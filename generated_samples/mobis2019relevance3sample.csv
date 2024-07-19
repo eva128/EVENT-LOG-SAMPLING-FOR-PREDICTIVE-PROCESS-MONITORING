@@ -1,0 +1,3693 @@
+id,activity
+6,calculate payments
+6,pay expenses
+19,calculate payments
+19,pay expenses
+20,calculate payments
+20,pay expenses
+46,calculate payments
+46,pay expenses
+53,pay expenses
+158,pay expenses
+236,check if expense documents exist
+236,upload travel expense documents
+236,file travel expense report
+236,confirm travel expense report
+236,decide on travel expense approval
+236,send original documents to archive
+236,calculate payments
+236,pay expenses
+240,check if expense documents exist
+240,upload travel expense documents
+240,file travel expense report
+240,confirm travel expense report
+240,decide on travel expense approval
+240,send original documents to archive
+240,calculate payments
+240,pay expenses
+435,calculate payments
+435,pay expenses
+529,check if expense documents exist
+529,upload travel expense documents
+529,file travel expense report
+529,confirm travel expense report
+529,decide on travel expense approval
+529,send request for travel expense correction
+529,correct travel expense report
+529,decide on travel expense approval
+529,send original documents to archive
+529,calculate payments
+529,pay expenses
+540,file travel expense report
+540,confirm travel expense report
+540,decide on travel expense approval
+540,send request for travel expense correction
+540,correct travel expense report
+540,decide on travel expense approval
+540,send original documents to archive
+540,calculate payments
+540,pay expenses
+563,check if expense documents exist
+563,upload travel expense documents
+563,file travel expense report
+563,confirm travel expense report
+563,decide on travel expense approval
+563,send original documents to archive
+563,calculate payments
+563,pay expenses
+577,calculate payments
+577,pay expenses
+613,check if expense documents exist
+613,upload travel expense documents
+613,file travel expense report
+613,confirm travel expense report
+613,decide on travel expense approval
+613,send request for travel expense correction
+613,correct travel expense report
+613,decide on travel expense approval
+613,send request for travel expense correction
+613,correct travel expense report
+613,decide on travel expense approval
+613,send original documents to archive
+613,calculate payments
+613,pay expenses
+627,calculate payments
+627,pay expenses
+628,check if expense documents exist
+628,upload travel expense documents
+628,file travel expense report
+628,confirm travel expense report
+628,decide on travel expense approval
+628,send original documents to archive
+628,calculate payments
+628,pay expenses
+643,check if expense documents exist
+643,file travel expense report
+643,confirm travel expense report
+643,decide on travel expense approval
+643,send original documents to archive
+643,calculate payments
+643,pay expenses
+656,calculate payments
+656,pay expenses
+671,calculate payments
+671,pay expenses
+687,calculate payments
+687,pay expenses
+766,pay expenses
+1042,check if expense documents exist
+1042,upload travel expense documents
+1042,file travel expense report
+1042,confirm travel expense report
+1042,decide on travel expense approval
+1042,send original documents to archive
+1042,calculate payments
+1042,pay expenses
+1067,check if expense documents exist
+1067,upload travel expense documents
+1067,file travel expense report
+1067,confirm travel expense report
+1067,decide on travel expense approval
+1067,send request for travel expense correction
+1067,correct travel expense report
+1067,decide on travel expense approval
+1067,send original documents to archive
+1067,calculate payments
+1067,pay expenses
+1097,check if expense documents exist
+1097,upload travel expense documents
+1097,file travel expense report
+1097,confirm travel expense report
+1097,decide on travel expense approval
+1097,send original documents to archive
+1097,calculate payments
+1097,pay expenses
+1151,check if expense documents exist
+1151,upload travel expense documents
+1151,file travel expense report
+1151,confirm travel expense report
+1151,decide on travel expense approval
+1151,send original documents to archive
+1151,calculate payments
+1151,pay expenses
+1253,send booking proposal to employee
+1253,check booking proposal
+1253,check if price inquiry is still needed and up to date
+1253,request update of the booking proposal
+1253,prepare booking proposal
+1253,send booking proposal to employee
+1253,check booking proposal
+1253,transform price inquiry to travel request
+1253,decide on approval requirements
+1253,check if booking is necessary
+1253,prepare booking proposal
+1253,send booking proposal to employee
+1253,check booking proposal
+1253,check if travel request is still needed and up to date
+1253,request update of the booking proposal
+1253,prepare booking proposal
+1253,send booking proposal to employee
+1253,check booking proposal
+1253,book travel
+1253,check if expense documents exist
+1253,upload travel expense documents
+1253,file travel expense report
+1253,confirm travel expense report
+1253,decide on travel expense approval
+1253,send original documents to archive
+1253,calculate payments
+1253,pay expenses
+1256,check if expense documents exist
+1256,upload travel expense documents
+1256,file travel expense report
+1256,confirm travel expense report
+1256,decide on travel expense approval
+1256,send request for travel expense correction
+1256,correct travel expense report
+1256,decide on travel expense approval
+1256,send request for travel expense correction
+1256,correct travel expense report
+1256,decide on travel expense approval
+1256,send original documents to archive
+1256,calculate payments
+1256,pay expenses
+1293,check if expense documents exist
+1293,upload travel expense documents
+1293,file travel expense report
+1293,confirm travel expense report
+1293,decide on travel expense approval
+1293,send request for travel expense correction
+1293,correct travel expense report
+1293,decide on travel expense approval
+1293,send original documents to archive
+1293,calculate payments
+1293,pay expenses
+1298,book travel
+1298,check if expense documents exist
+1298,upload travel expense documents
+1298,file travel expense report
+1298,confirm travel expense report
+1298,decide on travel expense approval
+1298,send request for travel expense correction
+1298,correct travel expense report
+1298,decide on travel expense approval
+1298,send original documents to archive
+1298,calculate payments
+1298,pay expenses
+1300,check if expense documents exist
+1300,upload travel expense documents
+1300,file travel expense report
+1300,confirm travel expense report
+1300,decide on travel expense approval
+1300,send request for travel expense correction
+1300,correct travel expense report
+1300,decide on travel expense approval
+1300,send original documents to archive
+1300,calculate payments
+1300,pay expenses
+1346,check booking proposal
+1346,check if price inquiry is still needed and up to date
+1346,request update of the booking proposal
+1346,prepare booking proposal
+1346,send booking proposal to employee
+1346,check booking proposal
+1346,check if price inquiry is still needed and up to date
+1346,request update of the booking proposal
+1346,prepare booking proposal
+1346,send booking proposal to employee
+1346,check booking proposal
+1346,transform price inquiry to travel request
+1346,decide on approval requirements
+1346,check if booking is necessary
+1346,prepare booking proposal
+1346,send booking proposal to employee
+1346,check booking proposal
+1346,book travel
+1346,check if expense documents exist
+1346,upload travel expense documents
+1346,file travel expense report
+1346,confirm travel expense report
+1346,decide on travel expense approval
+1346,send request for travel expense correction
+1346,correct travel expense report
+1346,decide on travel expense approval
+1346,send request for travel expense correction
+1346,correct travel expense report
+1346,decide on travel expense approval
+1346,send original documents to archive
+1346,calculate payments
+1346,pay expenses
+1350,check booking proposal
+1350,transform price inquiry to travel request
+1350,decide on approval requirements
+1350,check if booking is necessary
+1350,prepare booking proposal
+1350,send booking proposal to employee
+1350,check booking proposal
+1350,check if travel request is still needed and up to date
+1350,request update of the booking proposal
+1350,prepare booking proposal
+1350,send booking proposal to employee
+1350,check booking proposal
+1350,book travel
+1350,check if expense documents exist
+1350,upload travel expense documents
+1350,file travel expense report
+1350,confirm travel expense report
+1350,decide on travel expense approval
+1350,send request for travel expense correction
+1350,correct travel expense report
+1350,decide on travel expense approval
+1350,send original documents to archive
+1350,calculate payments
+1350,pay expenses
+1356,check if expense documents exist
+1356,upload travel expense documents
+1356,file travel expense report
+1356,confirm travel expense report
+1356,decide on travel expense approval
+1356,send original documents to archive
+1356,calculate payments
+1356,pay expenses
+1357,send booking proposal to employee
+1357,check booking proposal
+1357,book travel
+1357,check if expense documents exist
+1357,upload travel expense documents
+1357,file travel expense report
+1357,confirm travel expense report
+1357,decide on travel expense approval
+1357,send request for travel expense correction
+1357,correct travel expense report
+1357,decide on travel expense approval
+1357,send request for travel expense correction
+1357,correct travel expense report
+1357,decide on travel expense approval
+1357,send original documents to archive
+1357,calculate payments
+1357,pay expenses
+1392,check if expense documents exist
+1392,upload travel expense documents
+1392,file travel expense report
+1392,confirm travel expense report
+1392,decide on travel expense approval
+1392,send original documents to archive
+1392,calculate payments
+1392,pay expenses
+1446,file travel request
+1446,check if travel request needs preliminary price inquiry
+1446,prepare booking proposal
+1446,send booking proposal to employee
+1446,check booking proposal
+1446,check if price inquiry is still needed and up to date
+1446,request update of the booking proposal
+1446,prepare booking proposal
+1446,send booking proposal to employee
+1446,check booking proposal
+1446,transform price inquiry to travel request
+1446,decide on approval requirements
+1446,check if booking is necessary
+1446,check if expense documents exist
+1446,upload travel expense documents
+1446,file travel expense report
+1446,confirm travel expense report
+1446,decide on travel expense approval
+1446,send request for travel expense correction
+1446,correct travel expense report
+1446,decide on travel expense approval
+1446,send original documents to archive
+1446,calculate payments
+1446,pay expenses
+1455,file travel request
+1455,check if travel request needs preliminary price inquiry
+1455,prepare booking proposal
+1455,send booking proposal to employee
+1455,check booking proposal
+1455,transform price inquiry to travel request
+1455,decide on approval requirements
+1455,check if booking is necessary
+1455,prepare booking proposal
+1455,send booking proposal to employee
+1455,check booking proposal
+1455,book travel
+1455,check if expense documents exist
+1455,upload travel expense documents
+1455,file travel expense report
+1455,confirm travel expense report
+1455,decide on travel expense approval
+1455,send request for travel expense correction
+1455,correct travel expense report
+1455,decide on travel expense approval
+1455,send original documents to archive
+1455,calculate payments
+1455,pay expenses
+1477,file travel request
+1477,check if travel request needs preliminary price inquiry
+1477,prepare booking proposal
+1477,send booking proposal to employee
+1477,check booking proposal
+1477,check if price inquiry is still needed and up to date
+1477,request update of the booking proposal
+1477,prepare booking proposal
+1477,send booking proposal to employee
+1477,check booking proposal
+1477,transform price inquiry to travel request
+1477,decide on approval requirements
+1477,check if booking is necessary
+1477,prepare booking proposal
+1477,send booking proposal to employee
+1477,check booking proposal
+1477,book travel
+1477,check if expense documents exist
+1477,file travel expense report
+1477,confirm travel expense report
+1477,decide on travel expense approval
+1477,send original documents to archive
+1477,calculate payments
+1477,pay expenses
+1510,file travel request
+1510,check if travel request needs preliminary price inquiry
+1510,prepare booking proposal
+1510,send booking proposal to employee
+1510,check booking proposal
+1510,transform price inquiry to travel request
+1510,decide on approval requirements
+1510,check if booking is necessary
+1510,prepare booking proposal
+1510,send booking proposal to employee
+1510,check booking proposal
+1510,book travel
+1510,check if expense documents exist
+1510,file travel expense report
+1510,confirm travel expense report
+1510,decide on travel expense approval
+1510,send original documents to archive
+1510,calculate payments
+1510,pay expenses
+1523,file travel request
+1523,check if travel request needs preliminary price inquiry
+1523,prepare booking proposal
+1523,send booking proposal to employee
+1523,check booking proposal
+1523,transform price inquiry to travel request
+1523,decide on approval requirements
+1523,check if booking is necessary
+1523,prepare booking proposal
+1523,send booking proposal to employee
+1523,check booking proposal
+1523,check if travel request is still needed and up to date
+1523,request update of the booking proposal
+1523,prepare booking proposal
+1523,send booking proposal to employee
+1523,check booking proposal
+1523,check if travel request is still needed and up to date
+1523,request update of the booking proposal
+1523,prepare booking proposal
+1523,send booking proposal to employee
+1523,check booking proposal
+1523,book travel
+1523,check if expense documents exist
+1523,upload travel expense documents
+1523,file travel expense report
+1523,confirm travel expense report
+1523,decide on travel expense approval
+1523,send original documents to archive
+1523,calculate payments
+1523,pay expenses
+1600,file travel request
+1600,check if travel request needs preliminary price inquiry
+1600,prepare booking proposal
+1600,send booking proposal to employee
+1600,check booking proposal
+1600,transform price inquiry to travel request
+1600,decide on approval requirements
+1600,check if booking is necessary
+1600,check if expense documents exist
+1600,upload travel expense documents
+1600,file travel expense report
+1600,confirm travel expense report
+1600,decide on travel expense approval
+1600,send request for travel expense correction
+1600,correct travel expense report
+1600,decide on travel expense approval
+1600,send original documents to archive
+1600,calculate payments
+1600,pay expenses
+1605,file travel request
+1605,check if travel request needs preliminary price inquiry
+1605,decide on approval requirements
+1605,check if booking is necessary
+1605,prepare booking proposal
+1605,send booking proposal to employee
+1605,check booking proposal
+1605,book travel
+1605,check if expense documents exist
+1605,upload travel expense documents
+1605,file travel expense report
+1605,confirm travel expense report
+1605,decide on travel expense approval
+1605,send original documents to archive
+1605,calculate payments
+1605,pay expenses
+1624,file travel request
+1624,check if travel request needs preliminary price inquiry
+1624,prepare booking proposal
+1624,send booking proposal to employee
+1624,check booking proposal
+1624,transform price inquiry to travel request
+1624,decide on approval requirements
+1624,check if booking is necessary
+1624,prepare booking proposal
+1624,send booking proposal to employee
+1624,check booking proposal
+1624,book travel
+1624,check if expense documents exist
+1624,upload travel expense documents
+1624,file travel expense report
+1624,confirm travel expense report
+1624,decide on travel expense approval
+1624,send original documents to archive
+1624,calculate payments
+1624,pay expenses
+1749,file travel request
+1749,check if travel request needs preliminary price inquiry
+1749,prepare booking proposal
+1749,send booking proposal to employee
+1749,check booking proposal
+1749,transform price inquiry to travel request
+1749,decide on approval requirements
+1749,check if booking is necessary
+1749,prepare booking proposal
+1749,send booking proposal to employee
+1749,check booking proposal
+1749,book travel
+1749,check if expense documents exist
+1749,file travel expense report
+1749,confirm travel expense report
+1749,decide on travel expense approval
+1749,send request for travel expense correction
+1749,correct travel expense report
+1749,decide on travel expense approval
+1749,send request for travel expense correction
+1749,correct travel expense report
+1749,decide on travel expense approval
+1749,send original documents to archive
+1749,calculate payments
+1749,pay expenses
+1761,file travel request
+1761,check if travel request needs preliminary price inquiry
+1761,prepare booking proposal
+1761,send booking proposal to employee
+1761,check booking proposal
+1761,check if price inquiry is still needed and up to date
+1761,request update of the booking proposal
+1761,prepare booking proposal
+1761,send booking proposal to employee
+1761,check booking proposal
+1761,transform price inquiry to travel request
+1761,decide on approval requirements
+1761,check if booking is necessary
+1761,prepare booking proposal
+1761,send booking proposal to employee
+1761,check booking proposal
+1761,book travel
+1761,check if expense documents exist
+1761,upload travel expense documents
+1761,file travel expense report
+1761,confirm travel expense report
+1761,decide on travel expense approval
+1761,send request for travel expense correction
+1761,correct travel expense report
+1761,decide on travel expense approval
+1761,send original documents to archive
+1761,calculate payments
+1761,pay expenses
+1784,file travel request
+1784,check if travel request needs preliminary price inquiry
+1784,prepare booking proposal
+1784,send booking proposal to employee
+1784,check booking proposal
+1784,transform price inquiry to travel request
+1784,decide on approval requirements
+1784,check if booking is necessary
+1784,prepare booking proposal
+1784,send booking proposal to employee
+1784,check booking proposal
+1784,book travel
+1784,check if expense documents exist
+1784,file travel expense report
+1784,confirm travel expense report
+1784,decide on travel expense approval
+1784,send request for travel expense correction
+1784,correct travel expense report
+1784,decide on travel expense approval
+1784,send original documents to archive
+1784,calculate payments
+1784,pay expenses
+1803,file travel request
+1803,check if travel request needs preliminary price inquiry
+1803,prepare booking proposal
+1803,send booking proposal to employee
+1803,check booking proposal
+1803,transform price inquiry to travel request
+1803,decide on approval requirements
+1803,check if booking is necessary
+1803,prepare booking proposal
+1803,send booking proposal to employee
+1803,check booking proposal
+1803,check if travel request is still needed and up to date
+1803,request update of the booking proposal
+1803,prepare booking proposal
+1803,send booking proposal to employee
+1803,check booking proposal
+1803,book travel
+1803,check if expense documents exist
+1803,upload travel expense documents
+1803,file travel expense report
+1803,confirm travel expense report
+1803,decide on travel expense approval
+1803,send request for travel expense correction
+1803,correct travel expense report
+1803,decide on travel expense approval
+1803,send original documents to archive
+1803,calculate payments
+1803,pay expenses
+1808,file travel request
+1808,check if travel request needs preliminary price inquiry
+1808,prepare booking proposal
+1808,send booking proposal to employee
+1808,check booking proposal
+1808,transform price inquiry to travel request
+1808,decide on approval requirements
+1808,check if booking is necessary
+1808,prepare booking proposal
+1808,send booking proposal to employee
+1808,check booking proposal
+1808,check if travel request is still needed and up to date
+1808,request update of the booking proposal
+1808,prepare booking proposal
+1808,send booking proposal to employee
+1808,check booking proposal
+1808,book travel
+1808,check if expense documents exist
+1808,file travel expense report
+1808,confirm travel expense report
+1808,decide on travel expense approval
+1808,send original documents to archive
+1808,calculate payments
+1808,pay expenses
+1809,file travel request
+1809,check if travel request needs preliminary price inquiry
+1809,prepare booking proposal
+1809,send booking proposal to employee
+1809,check booking proposal
+1809,transform price inquiry to travel request
+1809,decide on approval requirements
+1809,check if booking is necessary
+1809,prepare booking proposal
+1809,send booking proposal to employee
+1809,check booking proposal
+1809,book travel
+1809,check if expense documents exist
+1809,upload travel expense documents
+1809,file travel expense report
+1809,confirm travel expense report
+1809,decide on travel expense approval
+1809,send original documents to archive
+1809,calculate payments
+1809,pay expenses
+2030,file travel request
+2030,check if travel request needs preliminary price inquiry
+2030,prepare booking proposal
+2030,send booking proposal to employee
+2030,check booking proposal
+2030,check if price inquiry is still needed and up to date
+2030,request update of the booking proposal
+2030,prepare booking proposal
+2030,send booking proposal to employee
+2030,check booking proposal
+2030,transform price inquiry to travel request
+2030,decide on approval requirements
+2030,check if booking is necessary
+2030,check if expense documents exist
+2030,upload travel expense documents
+2030,file travel expense report
+2030,confirm travel expense report
+2030,decide on travel expense approval
+2030,send original documents to archive
+2030,calculate payments
+2030,pay expenses
+2040,file travel request
+2040,check if travel request needs preliminary price inquiry
+2040,prepare booking proposal
+2040,send booking proposal to employee
+2040,check booking proposal
+2040,check if price inquiry is still needed and up to date
+2040,request update of the booking proposal
+2040,prepare booking proposal
+2040,send booking proposal to employee
+2040,check booking proposal
+2040,check if price inquiry is still needed and up to date
+2040,request update of the booking proposal
+2040,prepare booking proposal
+2040,send booking proposal to employee
+2040,check booking proposal
+2040,transform price inquiry to travel request
+2040,decide on approval requirements
+2040,check if booking is necessary
+2040,prepare booking proposal
+2040,send booking proposal to employee
+2040,check booking proposal
+2040,book travel
+2040,check if expense documents exist
+2040,file travel expense report
+2040,confirm travel expense report
+2040,decide on travel expense approval
+2040,send request for travel expense correction
+2040,correct travel expense report
+2040,decide on travel expense approval
+2040,send original documents to archive
+2040,calculate payments
+2040,pay expenses
+2047,file travel request
+2047,check if travel request needs preliminary price inquiry
+2047,prepare booking proposal
+2047,send booking proposal to employee
+2047,check booking proposal
+2047,transform price inquiry to travel request
+2047,decide on approval requirements
+2047,check if booking is necessary
+2047,prepare booking proposal
+2047,send booking proposal to employee
+2047,check booking proposal
+2047,check if travel request is still needed and up to date
+2047,request update of the booking proposal
+2047,prepare booking proposal
+2047,send booking proposal to employee
+2047,check booking proposal
+2047,book travel
+2047,check if expense documents exist
+2047,upload travel expense documents
+2047,file travel expense report
+2047,confirm travel expense report
+2047,decide on travel expense approval
+2047,send original documents to archive
+2047,calculate payments
+2047,pay expenses
+2067,file travel request
+2067,check if travel request needs preliminary price inquiry
+2067,prepare booking proposal
+2067,send booking proposal to employee
+2067,check booking proposal
+2067,transform price inquiry to travel request
+2067,decide on approval requirements
+2067,check if booking is necessary
+2067,prepare booking proposal
+2067,send booking proposal to employee
+2067,check booking proposal
+2067,check if travel request is still needed and up to date
+2067,request update of the booking proposal
+2067,prepare booking proposal
+2067,send booking proposal to employee
+2067,check booking proposal
+2067,book travel
+2067,check if expense documents exist
+2067,file travel expense report
+2067,confirm travel expense report
+2067,decide on travel expense approval
+2067,send original documents to archive
+2067,calculate payments
+2067,pay expenses
+2087,file travel request
+2087,check if travel request needs preliminary price inquiry
+2087,prepare booking proposal
+2087,send booking proposal to employee
+2087,check booking proposal
+2087,transform price inquiry to travel request
+2087,decide on approval requirements
+2087,check if booking is necessary
+2087,prepare booking proposal
+2087,send booking proposal to employee
+2087,check booking proposal
+2087,book travel
+2087,check if expense documents exist
+2087,upload travel expense documents
+2087,file travel expense report
+2087,confirm travel expense report
+2087,decide on travel expense approval
+2087,send original documents to archive
+2087,calculate payments
+2087,pay expenses
+2138,file travel request
+2138,check if travel request needs preliminary price inquiry
+2138,prepare booking proposal
+2138,send booking proposal to employee
+2138,check booking proposal
+2138,transform price inquiry to travel request
+2138,decide on approval requirements
+2138,check if booking is necessary
+2138,prepare booking proposal
+2138,send booking proposal to employee
+2138,check booking proposal
+2138,check if travel request is still needed and up to date
+2138,request update of the booking proposal
+2138,prepare booking proposal
+2138,send booking proposal to employee
+2138,check booking proposal
+2138,check if travel request is still needed and up to date
+2138,request update of the booking proposal
+2138,prepare booking proposal
+2138,send booking proposal to employee
+2138,check booking proposal
+2138,check if travel request is still needed and up to date
+2138,request update of the booking proposal
+2138,prepare booking proposal
+2138,send booking proposal to employee
+2138,check booking proposal
+2138,book travel
+2138,check if expense documents exist
+2138,file travel expense report
+2138,confirm travel expense report
+2138,decide on travel expense approval
+2138,send request for travel expense correction
+2138,correct travel expense report
+2138,decide on travel expense approval
+2138,send original documents to archive
+2138,calculate payments
+2138,pay expenses
+2146,file travel request
+2146,check if travel request needs preliminary price inquiry
+2146,prepare booking proposal
+2146,send booking proposal to employee
+2146,check booking proposal
+2146,check if price inquiry is still needed and up to date
+2146,request update of the booking proposal
+2146,prepare booking proposal
+2146,send booking proposal to employee
+2146,check booking proposal
+2146,transform price inquiry to travel request
+2146,decide on approval requirements
+2146,check if booking is necessary
+2146,check if expense documents exist
+2146,upload travel expense documents
+2146,file travel expense report
+2146,confirm travel expense report
+2146,decide on travel expense approval
+2146,send original documents to archive
+2146,calculate payments
+2146,pay expenses
+2182,file travel request
+2182,check if travel request needs preliminary price inquiry
+2182,prepare booking proposal
+2182,send booking proposal to employee
+2182,check booking proposal
+2182,check if price inquiry is still needed and up to date
+2182,request update of the booking proposal
+2182,prepare booking proposal
+2182,send booking proposal to employee
+2182,check booking proposal
+2182,transform price inquiry to travel request
+2182,decide on approval requirements
+2182,check if booking is necessary
+2182,prepare booking proposal
+2182,send booking proposal to employee
+2182,check booking proposal
+2182,book travel
+2182,check if expense documents exist
+2182,upload travel expense documents
+2182,file travel expense report
+2182,confirm travel expense report
+2182,decide on travel expense approval
+2182,send request for travel expense correction
+2182,correct travel expense report
+2182,decide on travel expense approval
+2182,send request for travel expense correction
+2182,correct travel expense report
+2182,decide on travel expense approval
+2182,send original documents to archive
+2182,calculate payments
+2182,pay expenses
+2206,file travel request
+2206,check if travel request needs preliminary price inquiry
+2206,prepare booking proposal
+2206,send booking proposal to employee
+2206,check booking proposal
+2206,check if price inquiry is still needed and up to date
+2206,request update of the booking proposal
+2206,prepare booking proposal
+2206,send booking proposal to employee
+2206,check booking proposal
+2206,check if price inquiry is still needed and up to date
+2206,request update of the booking proposal
+2206,prepare booking proposal
+2206,send booking proposal to employee
+2206,check booking proposal
+2206,transform price inquiry to travel request
+2206,decide on approval requirements
+2206,check if booking is necessary
+2206,prepare booking proposal
+2206,send booking proposal to employee
+2206,check booking proposal
+2206,book travel
+2206,check if expense documents exist
+2206,file travel expense report
+2206,confirm travel expense report
+2206,decide on travel expense approval
+2206,send request for travel expense correction
+2206,correct travel expense report
+2206,decide on travel expense approval
+2206,send request for travel expense correction
+2206,correct travel expense report
+2206,decide on travel expense approval
+2206,send original documents to archive
+2206,calculate payments
+2206,pay expenses
+2215,file travel request
+2215,check if travel request needs preliminary price inquiry
+2215,prepare booking proposal
+2215,send booking proposal to employee
+2215,check booking proposal
+2215,transform price inquiry to travel request
+2215,decide on approval requirements
+2215,check if booking is necessary
+2215,prepare booking proposal
+2215,send booking proposal to employee
+2215,check booking proposal
+2215,book travel
+2215,check if expense documents exist
+2215,upload travel expense documents
+2215,file travel expense report
+2215,confirm travel expense report
+2215,decide on travel expense approval
+2215,send request for travel expense correction
+2215,correct travel expense report
+2215,decide on travel expense approval
+2215,send original documents to archive
+2215,calculate payments
+2215,pay expenses
+2228,file travel request
+2228,check if travel request needs preliminary price inquiry
+2228,prepare booking proposal
+2228,send booking proposal to employee
+2228,check booking proposal
+2228,transform price inquiry to travel request
+2228,decide on approval requirements
+2228,check if booking is necessary
+2228,prepare booking proposal
+2228,send booking proposal to employee
+2228,check booking proposal
+2228,book travel
+2228,check if expense documents exist
+2228,upload travel expense documents
+2228,file travel expense report
+2228,confirm travel expense report
+2228,decide on travel expense approval
+2228,send original documents to archive
+2228,calculate payments
+2228,pay expenses
+2237,file travel request
+2237,check if travel request needs preliminary price inquiry
+2237,decide on approval requirements
+2237,check if booking is necessary
+2237,check if expense documents exist
+2237,upload travel expense documents
+2237,file travel expense report
+2237,confirm travel expense report
+2237,decide on travel expense approval
+2237,send request for travel expense correction
+2237,correct travel expense report
+2237,decide on travel expense approval
+2237,send original documents to archive
+2237,calculate payments
+2237,pay expenses
+2239,file travel request
+2239,check if travel request needs preliminary price inquiry
+2239,prepare booking proposal
+2239,send booking proposal to employee
+2239,check booking proposal
+2239,transform price inquiry to travel request
+2239,decide on approval requirements
+2239,check if booking is necessary
+2239,prepare booking proposal
+2239,send booking proposal to employee
+2239,check booking proposal
+2239,check if travel request is still needed and up to date
+2239,request update of the booking proposal
+2239,prepare booking proposal
+2239,send booking proposal to employee
+2239,check booking proposal
+2239,book travel
+2239,check if expense documents exist
+2239,upload travel expense documents
+2239,file travel expense report
+2239,confirm travel expense report
+2239,decide on travel expense approval
+2239,send original documents to archive
+2239,calculate payments
+2239,pay expenses
+2275,file travel request
+2275,check if travel request needs preliminary price inquiry
+2275,prepare booking proposal
+2275,send booking proposal to employee
+2275,check booking proposal
+2275,transform price inquiry to travel request
+2275,decide on approval requirements
+2275,check if booking is necessary
+2275,prepare booking proposal
+2275,send booking proposal to employee
+2275,check booking proposal
+2275,check if travel request is still needed and up to date
+2275,request update of the booking proposal
+2275,prepare booking proposal
+2275,send booking proposal to employee
+2275,check booking proposal
+2275,book travel
+2275,check if expense documents exist
+2275,upload travel expense documents
+2275,file travel expense report
+2275,confirm travel expense report
+2275,decide on travel expense approval
+2275,send original documents to archive
+2275,calculate payments
+2275,pay expenses
+2280,file travel request
+2280,check if travel request needs preliminary price inquiry
+2280,prepare booking proposal
+2280,send booking proposal to employee
+2280,check booking proposal
+2280,transform price inquiry to travel request
+2280,decide on approval requirements
+2280,check if booking is necessary
+2280,prepare booking proposal
+2280,send booking proposal to employee
+2280,check booking proposal
+2280,book travel
+2280,check if expense documents exist
+2280,upload travel expense documents
+2280,file travel expense report
+2280,confirm travel expense report
+2280,decide on travel expense approval
+2280,send request for travel expense correction
+2280,correct travel expense report
+2280,decide on travel expense approval
+2280,send request for travel expense correction
+2280,correct travel expense report
+2280,decide on travel expense approval
+2280,send original documents to archive
+2280,calculate payments
+2280,pay expenses
+2316,file travel request
+2316,check if travel request needs preliminary price inquiry
+2316,prepare booking proposal
+2316,send booking proposal to employee
+2316,check booking proposal
+2316,transform price inquiry to travel request
+2316,decide on approval requirements
+2316,check if booking is necessary
+2316,prepare booking proposal
+2316,send booking proposal to employee
+2316,check booking proposal
+2316,check if travel request is still needed and up to date
+2316,request update of the booking proposal
+2316,prepare booking proposal
+2316,send booking proposal to employee
+2316,check booking proposal
+2316,book travel
+2316,check if expense documents exist
+2316,upload travel expense documents
+2316,file travel expense report
+2316,confirm travel expense report
+2316,decide on travel expense approval
+2316,send original documents to archive
+2316,calculate payments
+2316,pay expenses
+2324,file travel request
+2324,check if travel request needs preliminary price inquiry
+2324,prepare booking proposal
+2324,send booking proposal to employee
+2324,check booking proposal
+2324,transform price inquiry to travel request
+2324,decide on approval requirements
+2324,check if booking is necessary
+2324,prepare booking proposal
+2324,send booking proposal to employee
+2324,check booking proposal
+2324,check if travel request is still needed and up to date
+2324,request update of the booking proposal
+2324,prepare booking proposal
+2324,send booking proposal to employee
+2324,check booking proposal
+2324,book travel
+2324,check if expense documents exist
+2324,upload travel expense documents
+2324,file travel expense report
+2324,confirm travel expense report
+2324,decide on travel expense approval
+2324,send original documents to archive
+2324,calculate payments
+2324,pay expenses
+2334,file travel request
+2334,check if travel request needs preliminary price inquiry
+2334,prepare booking proposal
+2334,send booking proposal to employee
+2334,check booking proposal
+2334,check if price inquiry is still needed and up to date
+2334,request update of the booking proposal
+2334,prepare booking proposal
+2334,send booking proposal to employee
+2334,check booking proposal
+2334,decide on request
+2334,check if price inquiry is still needed and up to date
+2334,request update of the booking proposal
+2334,prepare booking proposal
+2334,send booking proposal to employee
+2334,check booking proposal
+2334,check if price inquiry is still needed and up to date
+2334,request update of the booking proposal
+2334,prepare booking proposal
+2334,send booking proposal to employee
+2334,check booking proposal
+2334,transform price inquiry to travel request
+2334,decide on approval requirements
+2334,check if booking is necessary
+2334,prepare booking proposal
+2334,send booking proposal to employee
+2334,check booking proposal
+2334,book travel
+2334,check if expense documents exist
+2334,upload travel expense documents
+2334,file travel expense report
+2334,confirm travel expense report
+2334,decide on travel expense approval
+2334,send request for travel expense correction
+2334,correct travel expense report
+2334,decide on travel expense approval
+2334,send original documents to archive
+2334,calculate payments
+2334,pay expenses
+2342,file travel request
+2342,check if travel request needs preliminary price inquiry
+2342,prepare booking proposal
+2342,send booking proposal to employee
+2342,check booking proposal
+2342,check if price inquiry is still needed and up to date
+2342,request update of the booking proposal
+2342,prepare booking proposal
+2342,send booking proposal to employee
+2342,check booking proposal
+2342,transform price inquiry to travel request
+2342,decide on approval requirements
+2342,check if booking is necessary
+2342,prepare booking proposal
+2342,send booking proposal to employee
+2342,check booking proposal
+2342,book travel
+2342,check if expense documents exist
+2342,upload travel expense documents
+2342,file travel expense report
+2342,confirm travel expense report
+2342,decide on travel expense approval
+2342,send request for travel expense correction
+2342,correct travel expense report
+2342,decide on travel expense approval
+2342,send original documents to archive
+2342,calculate payments
+2342,pay expenses
+2350,file travel request
+2350,check if travel request needs preliminary price inquiry
+2350,prepare booking proposal
+2350,send booking proposal to employee
+2350,check booking proposal
+2350,transform price inquiry to travel request
+2350,decide on approval requirements
+2350,check if booking is necessary
+2350,prepare booking proposal
+2350,send booking proposal to employee
+2350,check booking proposal
+2350,check if travel request is still needed and up to date
+2350,request update of the booking proposal
+2350,prepare booking proposal
+2350,send booking proposal to employee
+2350,check booking proposal
+2350,check if travel request is still needed and up to date
+2350,request update of the booking proposal
+2350,prepare booking proposal
+2350,send booking proposal to employee
+2350,check booking proposal
+2350,book travel
+2350,check if expense documents exist
+2350,upload travel expense documents
+2350,file travel expense report
+2350,confirm travel expense report
+2350,decide on travel expense approval
+2350,send request for travel expense correction
+2350,correct travel expense report
+2350,decide on travel expense approval
+2350,send request for travel expense correction
+2350,correct travel expense report
+2350,decide on travel expense approval
+2350,send original documents to archive
+2350,calculate payments
+2350,pay expenses
+2363,file travel request
+2363,check if travel request needs preliminary price inquiry
+2363,prepare booking proposal
+2363,send booking proposal to employee
+2363,check booking proposal
+2363,check if price inquiry is still needed and up to date
+2363,request update of the booking proposal
+2363,prepare booking proposal
+2363,send booking proposal to employee
+2363,check booking proposal
+2363,check if price inquiry is still needed and up to date
+2363,request update of the booking proposal
+2363,prepare booking proposal
+2363,send booking proposal to employee
+2363,check booking proposal
+2363,transform price inquiry to travel request
+2363,decide on approval requirements
+2363,check if booking is necessary
+2363,prepare booking proposal
+2363,send booking proposal to employee
+2363,check booking proposal
+2363,check if travel request is still needed and up to date
+2363,request update of the booking proposal
+2363,prepare booking proposal
+2363,send booking proposal to employee
+2363,check booking proposal
+2363,check if travel request is still needed and up to date
+2363,request update of the booking proposal
+2363,prepare booking proposal
+2363,send booking proposal to employee
+2363,check booking proposal
+2363,book travel
+2363,check if expense documents exist
+2363,upload travel expense documents
+2363,file travel expense report
+2363,confirm travel expense report
+2363,decide on travel expense approval
+2363,send request for travel expense correction
+2363,correct travel expense report
+2363,decide on travel expense approval
+2363,send request for travel expense correction
+2363,correct travel expense report
+2363,decide on travel expense approval
+2363,send request for travel expense correction
+2363,correct travel expense report
+2363,decide on travel expense approval
+2363,send original documents to archive
+2363,calculate payments
+2363,pay expenses
+2369,file travel request
+2369,check if travel request needs preliminary price inquiry
+2369,prepare booking proposal
+2369,send booking proposal to employee
+2369,check booking proposal
+2369,transform price inquiry to travel request
+2369,decide on approval requirements
+2369,check if booking is necessary
+2369,prepare booking proposal
+2369,send booking proposal to employee
+2369,check booking proposal
+2369,check if travel request is still needed and up to date
+2369,request update of the booking proposal
+2369,prepare booking proposal
+2369,send booking proposal to employee
+2369,check booking proposal
+2369,book travel
+2369,check if expense documents exist
+2369,upload travel expense documents
+2369,file travel expense report
+2369,confirm travel expense report
+2369,decide on travel expense approval
+2369,send original documents to archive
+2369,calculate payments
+2369,pay expenses
+2413,file travel request
+2413,check if travel request needs preliminary price inquiry
+2413,prepare booking proposal
+2413,send booking proposal to employee
+2413,check booking proposal
+2413,transform price inquiry to travel request
+2413,decide on approval requirements
+2413,check if booking is necessary
+2413,prepare booking proposal
+2413,send booking proposal to employee
+2413,check booking proposal
+2413,book travel
+2413,check if expense documents exist
+2413,upload travel expense documents
+2413,file travel expense report
+2413,confirm travel expense report
+2413,decide on travel expense approval
+2413,send original documents to archive
+2413,calculate payments
+2413,pay expenses
+2428,file travel request
+2428,check if travel request needs preliminary price inquiry
+2428,decide on approval requirements
+2428,check if booking is necessary
+2428,prepare booking proposal
+2428,send booking proposal to employee
+2428,check booking proposal
+2428,book travel
+2428,check if expense documents exist
+2428,upload travel expense documents
+2428,file travel expense report
+2428,confirm travel expense report
+2428,decide on travel expense approval
+2428,send request for travel expense correction
+2428,correct travel expense report
+2428,decide on travel expense approval
+2428,send original documents to archive
+2428,calculate payments
+2428,pay expenses
+2468,file travel request
+2468,check if travel request needs preliminary price inquiry
+2468,prepare booking proposal
+2468,send booking proposal to employee
+2468,check booking proposal
+2468,transform price inquiry to travel request
+2468,decide on approval requirements
+2468,check if booking is necessary
+2468,prepare booking proposal
+2468,send booking proposal to employee
+2468,check booking proposal
+2468,check if travel request is still needed and up to date
+2468,request update of the booking proposal
+2468,prepare booking proposal
+2468,send booking proposal to employee
+2468,check booking proposal
+2468,book travel
+2468,check if expense documents exist
+2468,file travel expense report
+2468,confirm travel expense report
+2468,decide on travel expense approval
+2468,send request for travel expense correction
+2468,correct travel expense report
+2468,decide on travel expense approval
+2468,send original documents to archive
+2468,calculate payments
+2468,pay expenses
+2490,file travel request
+2490,check if travel request needs preliminary price inquiry
+2490,prepare booking proposal
+2490,send booking proposal to employee
+2490,check booking proposal
+2490,transform price inquiry to travel request
+2490,decide on approval requirements
+2490,check if booking is necessary
+2490,prepare booking proposal
+2490,send booking proposal to employee
+2490,check booking proposal
+2490,check if travel request is still needed and up to date
+2490,request update of the booking proposal
+2490,prepare booking proposal
+2490,send booking proposal to employee
+2490,check booking proposal
+2490,book travel
+2490,check if expense documents exist
+2490,file travel expense report
+2490,confirm travel expense report
+2490,decide on travel expense approval
+2490,send original documents to archive
+2490,calculate payments
+2490,pay expenses
+2503,file travel request
+2503,check if travel request needs preliminary price inquiry
+2503,decide on approval requirements
+2503,check if booking is necessary
+2503,check if expense documents exist
+2503,upload travel expense documents
+2503,file travel expense report
+2503,confirm travel expense report
+2503,decide on travel expense approval
+2503,send original documents to archive
+2503,calculate payments
+2503,pay expenses
+2512,file travel request
+2512,check if travel request needs preliminary price inquiry
+2512,prepare booking proposal
+2512,send booking proposal to employee
+2512,check booking proposal
+2512,check if price inquiry is still needed and up to date
+2512,request update of the booking proposal
+2512,prepare booking proposal
+2512,send booking proposal to employee
+2512,check booking proposal
+2512,transform price inquiry to travel request
+2512,decide on approval requirements
+2512,check if booking is necessary
+2512,prepare booking proposal
+2512,send booking proposal to employee
+2512,check booking proposal
+2512,book travel
+2512,check if expense documents exist
+2512,upload travel expense documents
+2512,file travel expense report
+2512,confirm travel expense report
+2512,decide on travel expense approval
+2512,send original documents to archive
+2512,calculate payments
+2512,pay expenses
+2520,file travel request
+2520,check if travel request needs preliminary price inquiry
+2520,prepare booking proposal
+2520,send booking proposal to employee
+2520,check booking proposal
+2520,transform price inquiry to travel request
+2520,decide on approval requirements
+2520,check if booking is necessary
+2520,prepare booking proposal
+2520,send booking proposal to employee
+2520,check booking proposal
+2520,check if travel request is still needed and up to date
+2520,request update of the booking proposal
+2520,prepare booking proposal
+2520,send booking proposal to employee
+2520,check booking proposal
+2520,book travel
+2520,check if expense documents exist
+2520,upload travel expense documents
+2520,file travel expense report
+2520,confirm travel expense report
+2520,decide on travel expense approval
+2520,send request for travel expense correction
+2520,correct travel expense report
+2520,decide on travel expense approval
+2520,send original documents to archive
+2520,calculate payments
+2520,pay expenses
+2590,file travel request
+2590,check if travel request needs preliminary price inquiry
+2590,prepare booking proposal
+2590,send booking proposal to employee
+2590,check booking proposal
+2590,check if price inquiry is still needed and up to date
+2590,request update of the booking proposal
+2590,prepare booking proposal
+2590,send booking proposal to employee
+2590,check booking proposal
+2590,transform price inquiry to travel request
+2590,decide on approval requirements
+2590,check if booking is necessary
+2590,check if expense documents exist
+2590,upload travel expense documents
+2590,file travel expense report
+2590,confirm travel expense report
+2590,decide on travel expense approval
+2590,send original documents to archive
+2590,calculate payments
+2590,pay expenses
+2592,file travel request
+2592,check if travel request needs preliminary price inquiry
+2592,prepare booking proposal
+2592,send booking proposal to employee
+2592,check booking proposal
+2592,check if price inquiry is still needed and up to date
+2592,request update of the booking proposal
+2592,prepare booking proposal
+2592,send booking proposal to employee
+2592,check booking proposal
+2592,transform price inquiry to travel request
+2592,decide on approval requirements
+2592,check if booking is necessary
+2592,prepare booking proposal
+2592,send booking proposal to employee
+2592,check booking proposal
+2592,book travel
+2592,check if expense documents exist
+2592,file travel expense report
+2592,confirm travel expense report
+2592,decide on travel expense approval
+2592,send original documents to archive
+2592,calculate payments
+2592,pay expenses
+2624,file travel request
+2624,check if travel request needs preliminary price inquiry
+2624,decide on approval requirements
+2624,check if booking is necessary
+2624,check if expense documents exist
+2624,upload travel expense documents
+2624,file travel expense report
+2624,confirm travel expense report
+2624,decide on travel expense approval
+2624,send original documents to archive
+2624,calculate payments
+2624,pay expenses
+2628,file travel request
+2628,check if travel request needs preliminary price inquiry
+2628,prepare booking proposal
+2628,send booking proposal to employee
+2628,check booking proposal
+2628,transform price inquiry to travel request
+2628,decide on approval requirements
+2628,check if booking is necessary
+2628,check if expense documents exist
+2628,upload travel expense documents
+2628,file travel expense report
+2628,confirm travel expense report
+2628,decide on travel expense approval
+2628,send original documents to archive
+2628,calculate payments
+2628,pay expenses
+2636,file travel request
+2636,check if travel request needs preliminary price inquiry
+2636,prepare booking proposal
+2636,send booking proposal to employee
+2636,check booking proposal
+2636,transform price inquiry to travel request
+2636,decide on approval requirements
+2636,check if booking is necessary
+2636,prepare booking proposal
+2636,send booking proposal to employee
+2636,check booking proposal
+2636,check if travel request is still needed and up to date
+2636,request update of the booking proposal
+2636,prepare booking proposal
+2636,send booking proposal to employee
+2636,check booking proposal
+2636,book travel
+2636,check if expense documents exist
+2636,upload travel expense documents
+2636,file travel expense report
+2636,confirm travel expense report
+2636,decide on travel expense approval
+2636,send original documents to archive
+2636,calculate payments
+2636,pay expenses
+2648,file travel request
+2648,check if travel request needs preliminary price inquiry
+2648,prepare booking proposal
+2648,send booking proposal to employee
+2648,check booking proposal
+2648,transform price inquiry to travel request
+2648,decide on approval requirements
+2648,check if booking is necessary
+2648,prepare booking proposal
+2648,send booking proposal to employee
+2648,check booking proposal
+2648,check if travel request is still needed and up to date
+2648,request update of the booking proposal
+2648,prepare booking proposal
+2648,send booking proposal to employee
+2648,check booking proposal
+2648,check if travel request is still needed and up to date
+2648,request update of the booking proposal
+2648,prepare booking proposal
+2648,send booking proposal to employee
+2648,check booking proposal
+2648,book travel
+2648,check if expense documents exist
+2648,upload travel expense documents
+2648,file travel expense report
+2648,confirm travel expense report
+2648,decide on travel expense approval
+2648,send original documents to archive
+2648,calculate payments
+2648,pay expenses
+2650,file travel request
+2650,check if travel request needs preliminary price inquiry
+2650,prepare booking proposal
+2650,send booking proposal to employee
+2650,check booking proposal
+2650,transform price inquiry to travel request
+2650,decide on approval requirements
+2650,check if booking is necessary
+2650,prepare booking proposal
+2650,send booking proposal to employee
+2650,check booking proposal
+2650,check if travel request is still needed and up to date
+2650,request update of the booking proposal
+2650,prepare booking proposal
+2650,send booking proposal to employee
+2650,check booking proposal
+2650,check if travel request is still needed and up to date
+2650,request update of the booking proposal
+2650,prepare booking proposal
+2650,send booking proposal to employee
+2650,check booking proposal
+2650,book travel
+2650,check if expense documents exist
+2650,upload travel expense documents
+2650,file travel expense report
+2650,confirm travel expense report
+2650,decide on travel expense approval
+2650,send request for travel expense correction
+2650,correct travel expense report
+2650,decide on travel expense approval
+2650,send request for travel expense correction
+2650,correct travel expense report
+2650,decide on travel expense approval
+2650,send original documents to archive
+2650,calculate payments
+2650,pay expenses
+2653,file travel request
+2653,check if travel request needs preliminary price inquiry
+2653,prepare booking proposal
+2653,send booking proposal to employee
+2653,check booking proposal
+2653,transform price inquiry to travel request
+2653,decide on approval requirements
+2653,check if booking is necessary
+2653,prepare booking proposal
+2653,send booking proposal to employee
+2653,check booking proposal
+2653,check if travel request is still needed and up to date
+2653,request update of the booking proposal
+2653,prepare booking proposal
+2653,send booking proposal to employee
+2653,check booking proposal
+2653,book travel
+2653,check if expense documents exist
+2653,upload travel expense documents
+2653,file travel expense report
+2653,confirm travel expense report
+2653,decide on travel expense approval
+2653,send request for travel expense correction
+2653,correct travel expense report
+2653,decide on travel expense approval
+2653,send original documents to archive
+2653,calculate payments
+2653,pay expenses
+2717,file travel request
+2717,check if travel request needs preliminary price inquiry
+2717,decide on approval requirements
+2717,check if booking is necessary
+2717,check if expense documents exist
+2717,upload travel expense documents
+2717,file travel expense report
+2717,confirm travel expense report
+2717,decide on travel expense approval
+2717,send original documents to archive
+2717,calculate payments
+2717,pay expenses
+2731,file travel request
+2731,check if travel request needs preliminary price inquiry
+2731,prepare booking proposal
+2731,send booking proposal to employee
+2731,check booking proposal
+2731,transform price inquiry to travel request
+2731,decide on approval requirements
+2731,check if booking is necessary
+2731,prepare booking proposal
+2731,send booking proposal to employee
+2731,check booking proposal
+2731,book travel
+2731,check if expense documents exist
+2731,upload travel expense documents
+2731,file travel expense report
+2731,confirm travel expense report
+2731,decide on travel expense approval
+2731,send original documents to archive
+2731,calculate payments
+2731,pay expenses
+2757,file travel request
+2757,check if travel request needs preliminary price inquiry
+2757,decide on approval requirements
+2757,check if booking is necessary
+2757,prepare booking proposal
+2757,send booking proposal to employee
+2757,check booking proposal
+2757,book travel
+2757,check if expense documents exist
+2757,upload travel expense documents
+2757,file travel expense report
+2757,confirm travel expense report
+2757,decide on travel expense approval
+2757,send original documents to archive
+2757,calculate payments
+2757,pay expenses
+2764,file travel request
+2764,check if travel request needs preliminary price inquiry
+2764,decide on approval requirements
+2764,forward request to approver
+2764,decide on request
+2764,check if booking is necessary
+2764,check if expense documents exist
+2764,upload travel expense documents
+2764,file travel expense report
+2764,confirm travel expense report
+2764,decide on travel expense approval
+2764,send original documents to archive
+2764,calculate payments
+2764,pay expenses
+2785,file travel request
+2785,check if travel request needs preliminary price inquiry
+2785,prepare booking proposal
+2785,send booking proposal to employee
+2785,check booking proposal
+2785,check if price inquiry is still needed and up to date
+2785,request update of the booking proposal
+2785,prepare booking proposal
+2785,send booking proposal to employee
+2785,check booking proposal
+2785,transform price inquiry to travel request
+2785,decide on approval requirements
+2785,check if booking is necessary
+2785,check if expense documents exist
+2785,upload travel expense documents
+2785,file travel expense report
+2785,confirm travel expense report
+2785,decide on travel expense approval
+2785,send request for travel expense correction
+2785,correct travel expense report
+2785,decide on travel expense approval
+2785,send original documents to archive
+2785,calculate payments
+2785,pay expenses
+2804,file travel request
+2804,check if travel request needs preliminary price inquiry
+2804,prepare booking proposal
+2804,send booking proposal to employee
+2804,check booking proposal
+2804,check if price inquiry is still needed and up to date
+2804,request update of the booking proposal
+2804,prepare booking proposal
+2804,send booking proposal to employee
+2804,check booking proposal
+2804,transform price inquiry to travel request
+2804,decide on approval requirements
+2804,check if booking is necessary
+2804,prepare booking proposal
+2804,send booking proposal to employee
+2804,check booking proposal
+2804,book travel
+2804,check if expense documents exist
+2804,upload travel expense documents
+2804,file travel expense report
+2804,confirm travel expense report
+2804,decide on travel expense approval
+2804,send original documents to archive
+2804,calculate payments
+2804,pay expenses
+2828,file travel request
+2828,check if travel request needs preliminary price inquiry
+2828,prepare booking proposal
+2828,send booking proposal to employee
+2828,check booking proposal
+2828,transform price inquiry to travel request
+2828,decide on approval requirements
+2828,check if booking is necessary
+2828,prepare booking proposal
+2828,send booking proposal to employee
+2828,check booking proposal
+2828,book travel
+2828,check if expense documents exist
+2828,file travel expense report
+2828,confirm travel expense report
+2828,decide on travel expense approval
+2828,send request for travel expense correction
+2828,correct travel expense report
+2828,decide on travel expense approval
+2828,send original documents to archive
+2828,calculate payments
+2828,pay expenses
+2831,file travel request
+2831,check if travel request needs preliminary price inquiry
+2831,prepare booking proposal
+2831,send booking proposal to employee
+2831,check booking proposal
+2831,check if price inquiry is still needed and up to date
+2831,request update of the booking proposal
+2831,prepare booking proposal
+2831,send booking proposal to employee
+2831,check booking proposal
+2831,transform price inquiry to travel request
+2831,decide on approval requirements
+2831,check if booking is necessary
+2831,prepare booking proposal
+2831,send booking proposal to employee
+2831,check booking proposal
+2831,check if travel request is still needed and up to date
+2831,request update of the booking proposal
+2831,prepare booking proposal
+2831,send booking proposal to employee
+2831,check booking proposal
+2831,book travel
+2831,check if expense documents exist
+2831,upload travel expense documents
+2831,file travel expense report
+2831,confirm travel expense report
+2831,decide on travel expense approval
+2831,send request for travel expense correction
+2831,correct travel expense report
+2831,decide on travel expense approval
+2831,send request for travel expense correction
+2831,correct travel expense report
+2831,decide on travel expense approval
+2831,send original documents to archive
+2831,calculate payments
+2831,pay expenses
+2843,file travel request
+2843,check if travel request needs preliminary price inquiry
+2843,prepare booking proposal
+2843,send booking proposal to employee
+2843,check booking proposal
+2843,check if price inquiry is still needed and up to date
+2843,request update of the booking proposal
+2843,prepare booking proposal
+2843,send booking proposal to employee
+2843,check booking proposal
+2843,transform price inquiry to travel request
+2843,decide on approval requirements
+2843,check if booking is necessary
+2843,prepare booking proposal
+2843,send booking proposal to employee
+2843,check booking proposal
+2843,book travel
+2843,check if expense documents exist
+2843,file travel expense report
+2843,confirm travel expense report
+2843,decide on travel expense approval
+2843,send original documents to archive
+2843,calculate payments
+2843,pay expenses
+2874,file travel request
+2874,check if travel request needs preliminary price inquiry
+2874,prepare booking proposal
+2874,send booking proposal to employee
+2874,check booking proposal
+2874,check if price inquiry is still needed and up to date
+2874,request update of the booking proposal
+2874,prepare booking proposal
+2874,send booking proposal to employee
+2874,check booking proposal
+2874,transform price inquiry to travel request
+2874,decide on approval requirements
+2874,check if booking is necessary
+2874,prepare booking proposal
+2874,send booking proposal to employee
+2874,check booking proposal
+2874,check if travel request is still needed and up to date
+2874,request update of the booking proposal
+2874,prepare booking proposal
+2874,send booking proposal to employee
+2874,check booking proposal
+2874,check if travel request is still needed and up to date
+2874,request update of the booking proposal
+2874,prepare booking proposal
+2874,send booking proposal to employee
+2874,check booking proposal
+2874,book travel
+2874,check if expense documents exist
+2874,upload travel expense documents
+2874,file travel expense report
+2874,confirm travel expense report
+2874,decide on travel expense approval
+2874,send request for travel expense correction
+2874,correct travel expense report
+2874,decide on travel expense approval
+2874,send request for travel expense correction
+2874,correct travel expense report
+2874,decide on travel expense approval
+2874,send original documents to archive
+2874,calculate payments
+2874,pay expenses
+2888,file travel request
+2888,check if travel request needs preliminary price inquiry
+2888,prepare booking proposal
+2888,send booking proposal to employee
+2888,check booking proposal
+2888,transform price inquiry to travel request
+2888,decide on approval requirements
+2888,check if booking is necessary
+2888,prepare booking proposal
+2888,send booking proposal to employee
+2888,check booking proposal
+2888,check if travel request is still needed and up to date
+2888,request update of the booking proposal
+2888,prepare booking proposal
+2888,send booking proposal to employee
+2888,check booking proposal
+2888,book travel
+2888,check if expense documents exist
+2888,upload travel expense documents
+2888,file travel expense report
+2888,confirm travel expense report
+2888,decide on travel expense approval
+2888,send original documents to archive
+2888,calculate payments
+2888,pay expenses
+2895,file travel request
+2895,check if travel request needs preliminary price inquiry
+2895,prepare booking proposal
+2895,send booking proposal to employee
+2895,check booking proposal
+2895,check if price inquiry is still needed and up to date
+2895,request update of the booking proposal
+2895,prepare booking proposal
+2895,send booking proposal to employee
+2895,check booking proposal
+2895,check if price inquiry is still needed and up to date
+2895,request update of the booking proposal
+2895,prepare booking proposal
+2895,send booking proposal to employee
+2895,check booking proposal
+2895,check if price inquiry is still needed and up to date
+2895,request update of the booking proposal
+2895,prepare booking proposal
+2895,send booking proposal to employee
+2895,check booking proposal
+2895,transform price inquiry to travel request
+2895,decide on approval requirements
+2895,check if booking is necessary
+2895,prepare booking proposal
+2895,send booking proposal to employee
+2895,check booking proposal
+2895,book travel
+2895,check if expense documents exist
+2895,file travel expense report
+2895,confirm travel expense report
+2895,decide on travel expense approval
+2895,send original documents to archive
+2895,calculate payments
+2895,pay expenses
+2902,file travel request
+2902,check if travel request needs preliminary price inquiry
+2902,prepare booking proposal
+2902,send booking proposal to employee
+2902,check booking proposal
+2902,check if price inquiry is still needed and up to date
+2902,request update of the booking proposal
+2902,prepare booking proposal
+2902,send booking proposal to employee
+2902,check booking proposal
+2902,transform price inquiry to travel request
+2902,decide on approval requirements
+2902,check if booking is necessary
+2902,prepare booking proposal
+2902,send booking proposal to employee
+2902,check booking proposal
+2902,book travel
+2902,check if expense documents exist
+2902,file travel expense report
+2902,confirm travel expense report
+2902,decide on travel expense approval
+2902,send original documents to archive
+2902,calculate payments
+2902,pay expenses
+2916,file travel request
+2916,check if travel request needs preliminary price inquiry
+2916,prepare booking proposal
+2916,send booking proposal to employee
+2916,check booking proposal
+2916,check if price inquiry is still needed and up to date
+2916,request update of the booking proposal
+2916,prepare booking proposal
+2916,send booking proposal to employee
+2916,check booking proposal
+2916,transform price inquiry to travel request
+2916,decide on approval requirements
+2916,check if booking is necessary
+2916,prepare booking proposal
+2916,send booking proposal to employee
+2916,check booking proposal
+2916,book travel
+2916,check if expense documents exist
+2916,upload travel expense documents
+2916,file travel expense report
+2916,confirm travel expense report
+2916,decide on travel expense approval
+2916,send request for travel expense correction
+2916,correct travel expense report
+2916,decide on travel expense approval
+2916,send original documents to archive
+2916,calculate payments
+2916,pay expenses
+2927,file travel request
+2927,check if travel request needs preliminary price inquiry
+2927,decide on approval requirements
+2927,check if booking is necessary
+2927,prepare booking proposal
+2927,send booking proposal to employee
+2927,check booking proposal
+2927,book travel
+2927,check if expense documents exist
+2927,upload travel expense documents
+2927,file travel expense report
+2927,confirm travel expense report
+2927,decide on travel expense approval
+2927,send original documents to archive
+2927,calculate payments
+2927,pay expenses
+2935,file travel request
+2935,check if travel request needs preliminary price inquiry
+2935,decide on approval requirements
+2935,check if booking is necessary
+2935,prepare booking proposal
+2935,send booking proposal to employee
+2935,check booking proposal
+2935,book travel
+2935,check if expense documents exist
+2935,upload travel expense documents
+2935,file travel expense report
+2935,confirm travel expense report
+2935,decide on travel expense approval
+2935,send original documents to archive
+2935,calculate payments
+2935,pay expenses
+2938,file travel request
+2938,check if travel request needs preliminary price inquiry
+2938,prepare booking proposal
+2938,send booking proposal to employee
+2938,check booking proposal
+2938,check if price inquiry is still needed and up to date
+2938,request update of the booking proposal
+2938,prepare booking proposal
+2938,send booking proposal to employee
+2938,check booking proposal
+2938,transform price inquiry to travel request
+2938,decide on approval requirements
+2938,check if booking is necessary
+2938,prepare booking proposal
+2938,send booking proposal to employee
+2938,check booking proposal
+2938,check if travel request is still needed and up to date
+2938,request update of the booking proposal
+2938,prepare booking proposal
+2938,send booking proposal to employee
+2938,check booking proposal
+2938,book travel
+2938,check if expense documents exist
+2938,upload travel expense documents
+2938,file travel expense report
+2938,confirm travel expense report
+2938,decide on travel expense approval
+2938,send request for travel expense correction
+2938,correct travel expense report
+2938,decide on travel expense approval
+2938,send original documents to archive
+2938,calculate payments
+2938,pay expenses
+2964,file travel request
+2964,check if travel request needs preliminary price inquiry
+2964,prepare booking proposal
+2964,send booking proposal to employee
+2964,check booking proposal
+2964,transform price inquiry to travel request
+2964,decide on approval requirements
+2964,check if booking is necessary
+2964,prepare booking proposal
+2964,send booking proposal to employee
+2964,check booking proposal
+2964,check if travel request is still needed and up to date
+2964,request update of the booking proposal
+2964,prepare booking proposal
+2964,send booking proposal to employee
+2964,check booking proposal
+2964,book travel
+2964,check if expense documents exist
+2964,upload travel expense documents
+2964,file travel expense report
+2964,confirm travel expense report
+2964,decide on travel expense approval
+2964,send original documents to archive
+2964,calculate payments
+2964,pay expenses
+2967,file travel request
+2967,check if travel request needs preliminary price inquiry
+2967,prepare booking proposal
+2967,send booking proposal to employee
+2967,check booking proposal
+2967,transform price inquiry to travel request
+2967,decide on approval requirements
+2967,check if booking is necessary
+2967,prepare booking proposal
+2967,send booking proposal to employee
+2967,check booking proposal
+2967,check if travel request is still needed and up to date
+2967,request update of the booking proposal
+2967,prepare booking proposal
+2967,send booking proposal to employee
+2967,check booking proposal
+2967,check if travel request is still needed and up to date
+2967,request update of the booking proposal
+2967,prepare booking proposal
+2967,send booking proposal to employee
+2967,check booking proposal
+2967,book travel
+2967,check if expense documents exist
+2967,file travel expense report
+2967,confirm travel expense report
+2967,decide on travel expense approval
+2967,send original documents to archive
+2967,calculate payments
+2967,pay expenses
+3009,file travel request
+3009,check if travel request needs preliminary price inquiry
+3009,prepare booking proposal
+3009,send booking proposal to employee
+3009,check booking proposal
+3009,transform price inquiry to travel request
+3009,decide on approval requirements
+3009,check if booking is necessary
+3009,prepare booking proposal
+3009,send booking proposal to employee
+3009,check booking proposal
+3009,book travel
+3009,check if expense documents exist
+3009,upload travel expense documents
+3009,file travel expense report
+3009,confirm travel expense report
+3009,decide on travel expense approval
+3009,send original documents to archive
+3009,calculate payments
+3009,pay expenses
+3019,file travel request
+3019,check if travel request needs preliminary price inquiry
+3019,prepare booking proposal
+3019,send booking proposal to employee
+3019,check booking proposal
+3019,check if price inquiry is still needed and up to date
+3019,request update of the booking proposal
+3019,prepare booking proposal
+3019,send booking proposal to employee
+3019,check booking proposal
+3019,transform price inquiry to travel request
+3019,decide on approval requirements
+3019,check if booking is necessary
+3019,prepare booking proposal
+3019,send booking proposal to employee
+3019,check booking proposal
+3019,check if travel request is still needed and up to date
+3019,request update of the booking proposal
+3019,prepare booking proposal
+3019,send booking proposal to employee
+3019,check booking proposal
+3019,book travel
+3019,check if expense documents exist
+3019,file travel expense report
+3019,confirm travel expense report
+3019,decide on travel expense approval
+3019,send request for travel expense correction
+3019,correct travel expense report
+3019,decide on travel expense approval
+3019,send original documents to archive
+3019,calculate payments
+3019,pay expenses
+3027,file travel request
+3027,check if travel request needs preliminary price inquiry
+3027,prepare booking proposal
+3027,send booking proposal to employee
+3027,check booking proposal
+3027,check if price inquiry is still needed and up to date
+3027,request update of the booking proposal
+3027,prepare booking proposal
+3027,send booking proposal to employee
+3027,check booking proposal
+3027,check if price inquiry is still needed and up to date
+3027,request update of the booking proposal
+3027,prepare booking proposal
+3027,send booking proposal to employee
+3027,check booking proposal
+3027,check if price inquiry is still needed and up to date
+3027,request update of the booking proposal
+3027,prepare booking proposal
+3027,send booking proposal to employee
+3027,check booking proposal
+3027,transform price inquiry to travel request
+3027,decide on approval requirements
+3027,check if booking is necessary
+3027,prepare booking proposal
+3027,send booking proposal to employee
+3027,check booking proposal
+3027,book travel
+3027,check if expense documents exist
+3027,upload travel expense documents
+3027,file travel expense report
+3027,confirm travel expense report
+3027,decide on travel expense approval
+3027,send request for travel expense correction
+3027,correct travel expense report
+3027,decide on travel expense approval
+3027,send request for travel expense correction
+3027,correct travel expense report
+3027,decide on travel expense approval
+3027,send original documents to archive
+3027,calculate payments
+3027,pay expenses
+3046,file travel request
+3046,check if travel request needs preliminary price inquiry
+3046,prepare booking proposal
+3046,send booking proposal to employee
+3046,check booking proposal
+3046,transform price inquiry to travel request
+3046,decide on approval requirements
+3046,check if booking is necessary
+3046,prepare booking proposal
+3046,send booking proposal to employee
+3046,check booking proposal
+3046,book travel
+3046,check if expense documents exist
+3046,upload travel expense documents
+3046,file travel expense report
+3046,confirm travel expense report
+3046,decide on travel expense approval
+3046,send original documents to archive
+3046,calculate payments
+3046,pay expenses
+3083,file travel request
+3083,check if travel request needs preliminary price inquiry
+3083,prepare booking proposal
+3083,send booking proposal to employee
+3083,check booking proposal
+3083,transform price inquiry to travel request
+3083,decide on approval requirements
+3083,check if booking is necessary
+3083,check if expense documents exist
+3083,upload travel expense documents
+3083,file travel expense report
+3083,confirm travel expense report
+3083,decide on travel expense approval
+3083,send original documents to archive
+3083,calculate payments
+3083,pay expenses
+3088,file travel request
+3088,check if travel request needs preliminary price inquiry
+3088,prepare booking proposal
+3088,send booking proposal to employee
+3088,check booking proposal
+3088,transform price inquiry to travel request
+3088,decide on approval requirements
+3088,check if booking is necessary
+3088,prepare booking proposal
+3088,send booking proposal to employee
+3088,check booking proposal
+3088,check if travel request is still needed and up to date
+3088,request update of the booking proposal
+3088,prepare booking proposal
+3088,send booking proposal to employee
+3088,check booking proposal
+3088,check if travel request is still needed and up to date
+3088,request update of the booking proposal
+3088,prepare booking proposal
+3088,send booking proposal to employee
+3088,check booking proposal
+3088,check if travel request is still needed and up to date
+3088,request update of the booking proposal
+3088,prepare booking proposal
+3088,send booking proposal to employee
+3088,check booking proposal
+3088,book travel
+3088,check if expense documents exist
+3088,upload travel expense documents
+3088,file travel expense report
+3088,confirm travel expense report
+3088,decide on travel expense approval
+3088,send request for travel expense correction
+3088,correct travel expense report
+3088,decide on travel expense approval
+3088,send original documents to archive
+3088,calculate payments
+3088,pay expenses
+3101,file travel request
+3101,check if travel request needs preliminary price inquiry
+3101,prepare booking proposal
+3101,send booking proposal to employee
+3101,check booking proposal
+3101,transform price inquiry to travel request
+3101,decide on approval requirements
+3101,check if booking is necessary
+3101,prepare booking proposal
+3101,send booking proposal to employee
+3101,check booking proposal
+3101,check if travel request is still needed and up to date
+3101,request update of the booking proposal
+3101,prepare booking proposal
+3101,send booking proposal to employee
+3101,check booking proposal
+3101,check if travel request is still needed and up to date
+3101,request update of the booking proposal
+3101,prepare booking proposal
+3101,send booking proposal to employee
+3101,check booking proposal
+3101,book travel
+3101,check if expense documents exist
+3101,upload travel expense documents
+3101,file travel expense report
+3101,confirm travel expense report
+3101,decide on travel expense approval
+3101,send original documents to archive
+3101,calculate payments
+3101,pay expenses
+3154,file travel request
+3154,check if travel request needs preliminary price inquiry
+3154,prepare booking proposal
+3154,send booking proposal to employee
+3154,check booking proposal
+3154,transform price inquiry to travel request
+3154,decide on approval requirements
+3154,check if booking is necessary
+3154,prepare booking proposal
+3154,send booking proposal to employee
+3154,check booking proposal
+3154,check if travel request is still needed and up to date
+3154,request update of the booking proposal
+3154,prepare booking proposal
+3154,send booking proposal to employee
+3154,check booking proposal
+3154,book travel
+3154,check if expense documents exist
+3154,upload travel expense documents
+3154,file travel expense report
+3154,confirm travel expense report
+3154,decide on travel expense approval
+3154,send original documents to archive
+3154,calculate payments
+3154,pay expenses
+3167,file travel request
+3167,check if travel request needs preliminary price inquiry
+3167,decide on approval requirements
+3167,check if booking is necessary
+3167,prepare booking proposal
+3167,send booking proposal to employee
+3167,check booking proposal
+3167,book travel
+3167,check if expense documents exist
+3167,upload travel expense documents
+3167,file travel expense report
+3167,confirm travel expense report
+3167,decide on travel expense approval
+3167,send original documents to archive
+3167,calculate payments
+3167,pay expenses
+3202,file travel request
+3202,check if travel request needs preliminary price inquiry
+3202,prepare booking proposal
+3202,send booking proposal to employee
+3202,check booking proposal
+3202,check if price inquiry is still needed and up to date
+3202,request update of the booking proposal
+3202,prepare booking proposal
+3202,send booking proposal to employee
+3202,check booking proposal
+3202,transform price inquiry to travel request
+3202,decide on approval requirements
+3202,check if booking is necessary
+3202,prepare booking proposal
+3202,send booking proposal to employee
+3202,check booking proposal
+3202,check if travel request is still needed and up to date
+3202,request update of the booking proposal
+3202,prepare booking proposal
+3202,send booking proposal to employee
+3202,check booking proposal
+3202,book travel
+3202,check if expense documents exist
+3202,upload travel expense documents
+3202,file travel expense report
+3202,confirm travel expense report
+3202,decide on travel expense approval
+3202,send request for travel expense correction
+3202,correct travel expense report
+3202,decide on travel expense approval
+3202,send request for travel expense correction
+3202,correct travel expense report
+3202,decide on travel expense approval
+3202,send request for travel expense correction
+3202,correct travel expense report
+3202,decide on travel expense approval
+3202,send request for travel expense correction
+3202,correct travel expense report
+3202,decide on travel expense approval
+3202,send original documents to archive
+3202,calculate payments
+3202,pay expenses
+3218,file travel request
+3218,check if travel request needs preliminary price inquiry
+3218,decide on approval requirements
+3218,check if booking is necessary
+3218,check if expense documents exist
+3218,upload travel expense documents
+3218,file travel expense report
+3218,confirm travel expense report
+3218,decide on travel expense approval
+3218,send original documents to archive
+3218,calculate payments
+3218,pay expenses
+3307,file travel request
+3307,check if travel request needs preliminary price inquiry
+3307,decide on approval requirements
+3307,forward request to approver
+3307,decide on request
+3307,check if booking is necessary
+3307,check if expense documents exist
+3307,upload travel expense documents
+3307,file travel expense report
+3307,confirm travel expense report
+3307,decide on travel expense approval
+3307,send request for travel expense correction
+3307,correct travel expense report
+3307,decide on travel expense approval
+3307,send original documents to archive
+3307,calculate payments
+3307,pay expenses
+3315,file travel request
+3315,check if travel request needs preliminary price inquiry
+3315,prepare booking proposal
+3315,send booking proposal to employee
+3315,check booking proposal
+3315,transform price inquiry to travel request
+3315,decide on approval requirements
+3315,check if booking is necessary
+3315,prepare booking proposal
+3315,send booking proposal to employee
+3315,check booking proposal
+3315,book travel
+3315,check if expense documents exist
+3315,upload travel expense documents
+3315,file travel expense report
+3315,confirm travel expense report
+3315,decide on travel expense approval
+3315,send original documents to archive
+3315,calculate payments
+3315,pay expenses
+3327,file travel request
+3327,check if travel request needs preliminary price inquiry
+3327,decide on approval requirements
+3327,check if booking is necessary
+3327,prepare booking proposal
+3327,send booking proposal to employee
+3327,check booking proposal
+3327,book travel
+3327,check if expense documents exist
+3327,upload travel expense documents
+3327,file travel expense report
+3327,confirm travel expense report
+3327,decide on travel expense approval
+3327,send request for travel expense correction
+3327,correct travel expense report
+3327,decide on travel expense approval
+3327,send original documents to archive
+3327,calculate payments
+3327,pay expenses
+3373,file travel request
+3373,check if travel request needs preliminary price inquiry
+3373,decide on approval requirements
+3373,check if booking is necessary
+3373,check if expense documents exist
+3373,upload travel expense documents
+3373,file travel expense report
+3373,confirm travel expense report
+3373,decide on travel expense approval
+3373,send original documents to archive
+3373,calculate payments
+3373,pay expenses
+3423,file travel request
+3423,check if travel request needs preliminary price inquiry
+3423,decide on approval requirements
+3423,check if booking is necessary
+3423,check if expense documents exist
+3423,file travel expense report
+3423,confirm travel expense report
+3423,decide on travel expense approval
+3423,send original documents to archive
+3423,calculate payments
+3423,pay expenses
+3448,file travel request
+3448,check if travel request needs preliminary price inquiry
+3448,prepare booking proposal
+3448,send booking proposal to employee
+3448,check booking proposal
+3448,transform price inquiry to travel request
+3448,decide on approval requirements
+3448,check if booking is necessary
+3448,check if expense documents exist
+3448,upload travel expense documents
+3448,file travel expense report
+3448,confirm travel expense report
+3448,decide on travel expense approval
+3448,send original documents to archive
+3448,calculate payments
+3448,pay expenses
+3465,file travel request
+3465,check if travel request needs preliminary price inquiry
+3465,prepare booking proposal
+3465,send booking proposal to employee
+3465,check booking proposal
+3465,transform price inquiry to travel request
+3465,decide on approval requirements
+3465,check if booking is necessary
+3465,check if expense documents exist
+3465,upload travel expense documents
+3465,file travel expense report
+3465,confirm travel expense report
+3465,decide on travel expense approval
+3465,send original documents to archive
+3465,calculate payments
+3465,pay expenses
+3467,file travel request
+3467,check if travel request needs preliminary price inquiry
+3467,prepare booking proposal
+3467,send booking proposal to employee
+3467,check booking proposal
+3467,transform price inquiry to travel request
+3467,decide on approval requirements
+3467,check if booking is necessary
+3467,prepare booking proposal
+3467,send booking proposal to employee
+3467,check booking proposal
+3467,check if travel request is still needed and up to date
+3467,request update of the booking proposal
+3467,prepare booking proposal
+3467,send booking proposal to employee
+3467,check booking proposal
+3467,book travel
+3467,check if expense documents exist
+3467,upload travel expense documents
+3467,file travel expense report
+3467,confirm travel expense report
+3467,decide on travel expense approval
+3467,send original documents to archive
+3467,calculate payments
+3467,pay expenses
+3484,file travel request
+3484,check if travel request needs preliminary price inquiry
+3484,prepare booking proposal
+3484,send booking proposal to employee
+3484,check booking proposal
+3484,transform price inquiry to travel request
+3484,decide on approval requirements
+3484,check if booking is necessary
+3484,prepare booking proposal
+3484,send booking proposal to employee
+3484,check booking proposal
+3484,book travel
+3484,check if expense documents exist
+3484,file travel expense report
+3484,confirm travel expense report
+3484,decide on travel expense approval
+3484,send request for travel expense correction
+3484,correct travel expense report
+3484,decide on travel expense approval
+3484,send original documents to archive
+3484,calculate payments
+3484,pay expenses
+3528,file travel request
+3528,check if travel request needs preliminary price inquiry
+3528,prepare booking proposal
+3528,send booking proposal to employee
+3528,check booking proposal
+3528,transform price inquiry to travel request
+3528,decide on approval requirements
+3528,check if booking is necessary
+3528,prepare booking proposal
+3528,send booking proposal to employee
+3528,check booking proposal
+3528,check if travel request is still needed and up to date
+3528,request update of the booking proposal
+3528,prepare booking proposal
+3528,send booking proposal to employee
+3528,check booking proposal
+3528,book travel
+3528,check if expense documents exist
+3528,upload travel expense documents
+3528,file travel expense report
+3528,confirm travel expense report
+3528,decide on travel expense approval
+3528,send original documents to archive
+3528,calculate payments
+3528,pay expenses
+3575,file travel request
+3575,check if travel request needs preliminary price inquiry
+3575,decide on approval requirements
+3575,check if booking is necessary
+3575,prepare booking proposal
+3575,send booking proposal to employee
+3575,check booking proposal
+3575,check if travel request is still needed and up to date
+3575,request update of the booking proposal
+3575,prepare booking proposal
+3575,send booking proposal to employee
+3575,check booking proposal
+3575,book travel
+3575,check if expense documents exist
+3575,upload travel expense documents
+3575,file travel expense report
+3575,confirm travel expense report
+3575,decide on travel expense approval
+3575,send request for travel expense correction
+3575,correct travel expense report
+3575,decide on travel expense approval
+3575,send original documents to archive
+3575,calculate payments
+3575,pay expenses
+3597,file travel request
+3597,check if travel request needs preliminary price inquiry
+3597,prepare booking proposal
+3597,send booking proposal to employee
+3597,check booking proposal
+3597,transform price inquiry to travel request
+3597,decide on approval requirements
+3597,check if booking is necessary
+3597,prepare booking proposal
+3597,send booking proposal to employee
+3597,check booking proposal
+3597,book travel
+3597,check if expense documents exist
+3597,upload travel expense documents
+3597,file travel expense report
+3597,confirm travel expense report
+3597,decide on travel expense approval
+3597,send request for travel expense correction
+3597,correct travel expense report
+3597,decide on travel expense approval
+3597,send original documents to archive
+3597,calculate payments
+3597,pay expenses
+3618,file travel request
+3618,check if travel request needs preliminary price inquiry
+3618,prepare booking proposal
+3618,send booking proposal to employee
+3618,check booking proposal
+3618,transform price inquiry to travel request
+3618,decide on approval requirements
+3618,check if booking is necessary
+3618,prepare booking proposal
+3618,send booking proposal to employee
+3618,check booking proposal
+3618,book travel
+3618,check if expense documents exist
+3618,upload travel expense documents
+3618,file travel expense report
+3618,confirm travel expense report
+3618,decide on travel expense approval
+3618,send request for travel expense correction
+3618,correct travel expense report
+3618,decide on travel expense approval
+3618,send original documents to archive
+3618,calculate payments
+3618,pay expenses
+3631,file travel request
+3631,check if travel request needs preliminary price inquiry
+3631,decide on approval requirements
+3631,check if booking is necessary
+3631,prepare booking proposal
+3631,send booking proposal to employee
+3631,check booking proposal
+3631,check if travel request is still needed and up to date
+3656,file travel request
+3656,check if travel request needs preliminary price inquiry
+3656,prepare booking proposal
+3656,send booking proposal to employee
+3656,check booking proposal
+3656,transform price inquiry to travel request
+3656,decide on approval requirements
+3656,check if booking is necessary
+3656,prepare booking proposal
+3656,send booking proposal to employee
+3656,check booking proposal
+3656,book travel
+3656,check if expense documents exist
+3656,file travel expense report
+3656,confirm travel expense report
+3656,decide on travel expense approval
+3656,send original documents to archive
+3656,calculate payments
+3656,pay expenses
+3669,file travel request
+3669,check if travel request needs preliminary price inquiry
+3669,decide on approval requirements
+3669,forward request to approver
+3669,decide on request
+3690,file travel request
+3690,check if travel request needs preliminary price inquiry
+3690,decide on approval requirements
+3690,forward request to approver
+3690,decide on request
+3690,check if booking is necessary
+3690,check if expense documents exist
+3690,upload travel expense documents
+3690,file travel expense report
+3690,confirm travel expense report
+3690,decide on travel expense approval
+3690,send original documents to archive
+3690,calculate payments
+3690,pay expenses
+3699,file travel request
+3699,check if travel request needs preliminary price inquiry
+3699,decide on approval requirements
+3699,forward request to approver
+3699,decide on request
+3699,check if booking is necessary
+3699,check if expense documents exist
+3699,upload travel expense documents
+3699,file travel expense report
+3699,confirm travel expense report
+3699,decide on travel expense approval
+3699,send original documents to archive
+3699,calculate payments
+3699,pay expenses
+3724,file travel request
+3724,check if travel request needs preliminary price inquiry
+3724,prepare booking proposal
+3724,send booking proposal to employee
+3724,check booking proposal
+3724,transform price inquiry to travel request
+3724,decide on approval requirements
+3724,check if booking is necessary
+3724,prepare booking proposal
+3724,send booking proposal to employee
+3724,check booking proposal
+3724,check if travel request is still needed and up to date
+3724,request update of the booking proposal
+3724,prepare booking proposal
+3724,send booking proposal to employee
+3724,check booking proposal
+3724,book travel
+3724,check if expense documents exist
+3724,file travel expense report
+3724,confirm travel expense report
+3724,decide on travel expense approval
+3724,send request for travel expense correction
+3724,correct travel expense report
+3724,decide on travel expense approval
+3724,send original documents to archive
+3724,calculate payments
+3743,file travel request
+3743,check if travel request needs preliminary price inquiry
+3743,prepare booking proposal
+3743,send booking proposal to employee
+3743,check booking proposal
+3743,transform price inquiry to travel request
+3743,decide on approval requirements
+3743,check if booking is necessary
+3743,prepare booking proposal
+3743,send booking proposal to employee
+3743,check booking proposal
+3743,check if travel request is still needed and up to date
+3743,request update of the booking proposal
+3743,prepare booking proposal
+3743,send booking proposal to employee
+3743,check booking proposal
+3743,check if travel request is still needed and up to date
+3743,request update of the booking proposal
+3743,prepare booking proposal
+3743,send booking proposal to employee
+3743,check booking proposal
+3743,check if travel request is still needed and up to date
+3743,request update of the booking proposal
+3743,prepare booking proposal
+3743,send booking proposal to employee
+3743,check booking proposal
+3743,book travel
+3767,file travel request
+3767,check if travel request needs preliminary price inquiry
+3767,prepare booking proposal
+3767,send booking proposal to employee
+3767,check booking proposal
+3767,check if price inquiry is still needed and up to date
+3767,request update of the booking proposal
+3767,prepare booking proposal
+3767,send booking proposal to employee
+3767,check booking proposal
+3767,transform price inquiry to travel request
+3767,decide on approval requirements
+3767,check if booking is necessary
+3767,prepare booking proposal
+3767,send booking proposal to employee
+3767,check booking proposal
+3767,book travel
+3767,check if expense documents exist
+3767,file travel expense report
+3767,confirm travel expense report
+3767,decide on travel expense approval
+3767,send request for travel expense correction
+3767,correct travel expense report
+3767,decide on travel expense approval
+3767,send original documents to archive
+3767,calculate payments
+3767,pay expenses
+3778,file travel request
+3778,check if travel request needs preliminary price inquiry
+3778,prepare booking proposal
+3778,send booking proposal to employee
+3778,check booking proposal
+3778,check if price inquiry is still needed and up to date
+3778,request update of the booking proposal
+3778,prepare booking proposal
+3778,send booking proposal to employee
+3778,check booking proposal
+3778,check if price inquiry is still needed and up to date
+3778,request update of the booking proposal
+3778,prepare booking proposal
+3778,send booking proposal to employee
+3778,check booking proposal
+3778,transform price inquiry to travel request
+3778,decide on approval requirements
+3778,check if booking is necessary
+3778,check if expense documents exist
+3778,upload travel expense documents
+3778,file travel expense report
+3778,confirm travel expense report
+3778,decide on travel expense approval
+3778,send request for travel expense correction
+3778,correct travel expense report
+3778,decide on travel expense approval
+3778,send request for travel expense correction
+3778,correct travel expense report
+3778,decide on travel expense approval
+3778,send request for travel expense correction
+3778,correct travel expense report
+3778,decide on travel expense approval
+3778,send request for travel expense correction
+3778,correct travel expense report
+3778,decide on travel expense approval
+3778,send original documents to archive
+3778,calculate payments
+3778,pay expenses
+3781,file travel request
+3781,check if travel request needs preliminary price inquiry
+3781,prepare booking proposal
+3781,decide on request
+3781,send booking proposal to employee
+3781,check booking proposal
+3781,check if price inquiry is still needed and up to date
+3781,request update of the booking proposal
+3781,prepare booking proposal
+3781,send booking proposal to employee
+3781,check booking proposal
+3781,transform price inquiry to travel request
+3781,decide on approval requirements
+3781,check if booking is necessary
+3781,prepare booking proposal
+3781,send booking proposal to employee
+3781,check booking proposal
+3781,book travel
+3781,check if expense documents exist
+3781,file travel expense report
+3781,confirm travel expense report
+3781,decide on travel expense approval
+3781,send request for travel expense correction
+3781,correct travel expense report
+3781,decide on travel expense approval
+3781,send original documents to archive
+3781,calculate payments
+3781,pay expenses
+3809,file travel request
+3809,check if travel request needs preliminary price inquiry
+3809,prepare booking proposal
+3809,send booking proposal to employee
+3809,check booking proposal
+3809,transform price inquiry to travel request
+3809,decide on approval requirements
+3809,check if booking is necessary
+3809,prepare booking proposal
+3809,send booking proposal to employee
+3809,check booking proposal
+3809,book travel
+3809,check if expense documents exist
+3809,upload travel expense documents
+3809,file travel expense report
+3809,confirm travel expense report
+3809,decide on travel expense approval
+3809,send request for travel expense correction
+3809,correct travel expense report
+3809,decide on travel expense approval
+3809,send original documents to archive
+3809,calculate payments
+3809,pay expenses
+3823,file travel request
+3823,check if travel request needs preliminary price inquiry
+3823,decide on approval requirements
+3823,forward request to approver
+3823,decide on request
+3823,check if booking is necessary
+3823,check if expense documents exist
+3823,upload travel expense documents
+3823,file travel expense report
+3823,confirm travel expense report
+3823,decide on travel expense approval
+3823,calculate payments
+3823,send original documents to archive
+3823,pay expenses
+3826,file travel request
+3826,check if travel request needs preliminary price inquiry
+3826,prepare booking proposal
+3826,send booking proposal to employee
+3826,check booking proposal
+3826,transform price inquiry to travel request
+3826,decide on approval requirements
+3826,check if booking is necessary
+3826,check if expense documents exist
+3826,upload travel expense documents
+3826,file travel expense report
+3826,confirm travel expense report
+3826,decide on travel expense approval
+3826,send original documents to archive
+3826,calculate payments
+3826,pay expenses
+3886,file travel request
+3886,check if travel request needs preliminary price inquiry
+3886,prepare booking proposal
+3886,send booking proposal to employee
+3886,check booking proposal
+3886,check if price inquiry is still needed and up to date
+3886,request update of the booking proposal
+3886,prepare booking proposal
+3886,send booking proposal to employee
+3886,check booking proposal
+3886,transform price inquiry to travel request
+3886,decide on approval requirements
+3886,check if booking is necessary
+3886,check if expense documents exist
+3886,upload travel expense documents
+3886,file travel expense report
+3886,confirm travel expense report
+3886,decide on travel expense approval
+3886,send request for travel expense correction
+3886,correct travel expense report
+3886,decide on travel expense approval
+3886,send request for travel expense correction
+3886,correct travel expense report
+3886,decide on travel expense approval
+3886,send original documents to archive
+3886,calculate payments
+3886,pay expenses
+3914,file travel request
+3914,check if travel request needs preliminary price inquiry
+3914,decide on approval requirements
+3914,forward request to approver
+3914,decide on request
+3914,check if booking is necessary
+3914,check if expense documents exist
+3914,upload travel expense documents
+3914,file travel expense report
+3914,confirm travel expense report
+3914,decide on travel expense approval
+3914,send original documents to archive
+3914,calculate payments
+3914,pay expenses
+3919,file travel request
+3919,check if travel request needs preliminary price inquiry
+3919,decide on approval requirements
+3919,check if booking is necessary
+3919,prepare booking proposal
+3919,send booking proposal to employee
+3919,check booking proposal
+3919,book travel
+3919,check if expense documents exist
+3919,file travel expense report
+3919,confirm travel expense report
+3919,decide on travel expense approval
+3919,send original documents to archive
+3919,calculate payments
+3919,pay expenses
+3968,file travel request
+3968,check if travel request needs preliminary price inquiry
+3968,prepare booking proposal
+3968,send booking proposal to employee
+3968,check booking proposal
+3968,transform price inquiry to travel request
+3968,decide on approval requirements
+3968,check if booking is necessary
+3968,prepare booking proposal
+3968,send booking proposal to employee
+3968,check booking proposal
+3968,book travel
+3968,check if expense documents exist
+3968,upload travel expense documents
+3968,file travel expense report
+3968,confirm travel expense report
+3968,decide on travel expense approval
+3968,send request for travel expense correction
+3968,correct travel expense report
+3968,decide on travel expense approval
+3968,send original documents to archive
+3968,calculate payments
+3968,pay expenses
+4000,file travel request
+4000,check if travel request needs preliminary price inquiry
+4000,prepare booking proposal
+4000,send booking proposal to employee
+4000,check booking proposal
+4000,transform price inquiry to travel request
+4000,decide on approval requirements
+4000,check if booking is necessary
+4000,prepare booking proposal
+4000,send booking proposal to employee
+4000,check booking proposal
+4000,book travel
+4000,check if expense documents exist
+4000,file travel expense report
+4000,confirm travel expense report
+4000,decide on travel expense approval
+4000,send original documents to archive
+4000,calculate payments
+4000,pay expenses
+4047,file travel request
+4047,check if travel request needs preliminary price inquiry
+4047,prepare booking proposal
+4047,send booking proposal to employee
+4047,check booking proposal
+4047,check if price inquiry is still needed and up to date
+4047,request update of the booking proposal
+4047,prepare booking proposal
+4047,send booking proposal to employee
+4047,check booking proposal
+4047,transform price inquiry to travel request
+4047,decide on approval requirements
+4047,check if booking is necessary
+4047,prepare booking proposal
+4047,send booking proposal to employee
+4047,check booking proposal
+4047,book travel
+4047,check if expense documents exist
+4047,file travel expense report
+4047,confirm travel expense report
+4047,decide on travel expense approval
+4047,send original documents to archive
+4047,calculate payments
+4047,pay expenses
+4065,file travel request
+4065,check if travel request needs preliminary price inquiry
+4065,decide on approval requirements
+4065,forward request to approver
+4065,decide on request
+4065,check if booking is necessary
+4065,check if expense documents exist
+4065,file travel expense report
+4065,confirm travel expense report
+4065,decide on travel expense approval
+4065,send request for travel expense correction
+4065,correct travel expense report
+4065,decide on travel expense approval
+4065,send original documents to archive
+4065,calculate payments
+4065,pay expenses
+4085,file travel request
+4085,check if travel request needs preliminary price inquiry
+4085,prepare booking proposal
+4085,send booking proposal to employee
+4085,check booking proposal
+4085,transform price inquiry to travel request
+4085,decide on approval requirements
+4085,check if booking is necessary
+4085,prepare booking proposal
+4085,send booking proposal to employee
+4085,check booking proposal
+4085,book travel
+4085,check if expense documents exist
+4085,upload travel expense documents
+4085,file travel expense report
+4085,confirm travel expense report
+4085,decide on travel expense approval
+4085,send request for travel expense correction
+4085,correct travel expense report
+4085,decide on travel expense approval
+4085,send request for travel expense correction
+4085,correct travel expense report
+4085,decide on travel expense approval
+4085,send original documents to archive
+4085,calculate payments
+4085,pay expenses
+4143,file travel request
+4143,check if travel request needs preliminary price inquiry
+4143,prepare booking proposal
+4143,send booking proposal to employee
+4143,check booking proposal
+4143,transform price inquiry to travel request
+4143,decide on approval requirements
+4143,check if booking is necessary
+4143,prepare booking proposal
+4143,send booking proposal to employee
+4143,check booking proposal
+4143,check if travel request is still needed and up to date
+4143,request update of the booking proposal
+4143,prepare booking proposal
+4143,send booking proposal to employee
+4143,check booking proposal
+4143,book travel
+4143,check if expense documents exist
+4143,file travel expense report
+4143,confirm travel expense report
+4143,decide on travel expense approval
+4143,send original documents to archive
+4143,calculate payments
+4241,file travel request
+4241,check if travel request needs preliminary price inquiry
+4241,prepare booking proposal
+4241,send booking proposal to employee
+4241,check booking proposal
+4241,check if price inquiry is still needed and up to date
+4241,request update of the booking proposal
+4241,prepare booking proposal
+4241,send booking proposal to employee
+4241,check booking proposal
+4241,transform price inquiry to travel request
+4241,decide on approval requirements
+4241,check if booking is necessary
+4241,check if expense documents exist
+4241,upload travel expense documents
+4241,file travel expense report
+4241,confirm travel expense report
+4241,decide on travel expense approval
+4241,send request for travel expense correction
+4241,correct travel expense report
+4241,decide on travel expense approval
+4241,send original documents to archive
+4241,calculate payments
+4241,pay expenses
+4282,file travel request
+4282,check if travel request needs preliminary price inquiry
+4282,decide on approval requirements
+4282,check if booking is necessary
+4282,check if expense documents exist
+4282,upload travel expense documents
+4282,file travel expense report
+4282,confirm travel expense report
+4282,decide on travel expense approval
+4282,send request for travel expense correction
+4282,correct travel expense report
+4282,decide on travel expense approval
+4282,send original documents to archive
+4282,calculate payments
+4282,pay expenses
+4293,file travel request
+4293,check if travel request needs preliminary price inquiry
+4293,decide on approval requirements
+4293,check if booking is necessary
+4293,check if expense documents exist
+4293,upload travel expense documents
+4293,file travel expense report
+4293,confirm travel expense report
+4293,decide on travel expense approval
+4293,send original documents to archive
+4293,calculate payments
+4293,pay expenses
+4302,file travel request
+4302,check if travel request needs preliminary price inquiry
+4302,decide on approval requirements
+4302,forward request to approver
+4302,decide on request
+4332,file travel request
+4332,check if travel request needs preliminary price inquiry
+4332,decide on approval requirements
+4332,check if booking is necessary
+4332,prepare booking proposal
+4332,send booking proposal to employee
+4332,check booking proposal
+4332,book travel
+4332,check if expense documents exist
+4332,file travel expense report
+4332,confirm travel expense report
+4332,decide on travel expense approval
+4332,send original documents to archive
+4332,calculate payments
+4332,pay expenses
+4373,file travel request
+4373,check if travel request needs preliminary price inquiry
+4373,prepare booking proposal
+4373,send booking proposal to employee
+4373,check booking proposal
+4373,transform price inquiry to travel request
+4373,decide on approval requirements
+4373,check if booking is necessary
+4373,check if expense documents exist
+4373,upload travel expense documents
+4373,file travel expense report
+4373,confirm travel expense report
+4373,decide on travel expense approval
+4373,send request for travel expense correction
+4373,correct travel expense report
+4373,decide on travel expense approval
+4373,send original documents to archive
+4373,calculate payments
+4373,pay expenses
+4382,file travel request
+4382,check if travel request needs preliminary price inquiry
+4382,prepare booking proposal
+4382,send booking proposal to employee
+4382,check booking proposal
+4382,transform price inquiry to travel request
+4382,decide on approval requirements
+4382,check if booking is necessary
+4382,prepare booking proposal
+4382,send booking proposal to employee
+4382,check booking proposal
+4382,check if travel request is still needed and up to date
+4382,request update of the booking proposal
+4382,prepare booking proposal
+4382,send booking proposal to employee
+4382,check booking proposal
+4382,book travel
+4382,check if expense documents exist
+4382,upload travel expense documents
+4382,file travel expense report
+4382,confirm travel expense report
+4382,decide on travel expense approval
+4382,send original documents to archive
+4382,calculate payments
+4382,pay expenses
+4384,file travel request
+4384,check if travel request needs preliminary price inquiry
+4384,decide on approval requirements
+4384,check if booking is necessary
+4384,check if expense documents exist
+4384,upload travel expense documents
+4384,file travel expense report
+4384,confirm travel expense report
+4384,decide on travel expense approval
+4384,send original documents to archive
+4384,calculate payments
+4384,pay expenses
+4388,file travel request
+4388,check if travel request needs preliminary price inquiry
+4388,prepare booking proposal
+4388,send booking proposal to employee
+4388,check booking proposal
+4388,transform price inquiry to travel request
+4388,decide on approval requirements
+4388,check if booking is necessary
+4388,prepare booking proposal
+4388,send booking proposal to employee
+4388,check booking proposal
+4388,check if travel request is still needed and up to date
+4388,request update of the booking proposal
+4388,prepare booking proposal
+4388,send booking proposal to employee
+4388,check booking proposal
+4388,book travel
+4388,check if expense documents exist
+4388,file travel expense report
+4388,confirm travel expense report
+4388,decide on travel expense approval
+4388,send original documents to archive
+4507,file travel request
+4507,check if travel request needs preliminary price inquiry
+4507,prepare booking proposal
+4507,send booking proposal to employee
+4507,check booking proposal
+4507,transform price inquiry to travel request
+4507,decide on approval requirements
+4507,check if booking is necessary
+4507,prepare booking proposal
+4507,send booking proposal to employee
+4507,check booking proposal
+4507,book travel
+4507,check if expense documents exist
+4507,file travel expense report
+4507,confirm travel expense report
+4507,decide on travel expense approval
+4507,send original documents to archive
+4507,calculate payments
+4523,file travel request
+4523,check if travel request needs preliminary price inquiry
+4523,decide on approval requirements
+4523,check if booking is necessary
+4523,prepare booking proposal
+4523,send booking proposal to employee
+4523,check booking proposal
+4523,book travel
+4523,check if expense documents exist
+4523,upload travel expense documents
+4523,file travel expense report
+4523,confirm travel expense report
+4523,decide on travel expense approval
+4523,send original documents to archive
+4523,calculate payments
+4523,pay expenses
+4526,file travel request
+4526,check if travel request needs preliminary price inquiry
+4526,prepare booking proposal
+4526,send booking proposal to employee
+4526,check booking proposal
+4526,transform price inquiry to travel request
+4526,decide on approval requirements
+4526,check if booking is necessary
+4526,prepare booking proposal
+4526,send booking proposal to employee
+4526,check booking proposal
+4526,book travel
+4526,check if expense documents exist
+4526,upload travel expense documents
+4526,file travel expense report
+4526,confirm travel expense report
+4526,decide on travel expense approval
+4526,send original documents to archive
+4652,file travel request
+4652,check if travel request needs preliminary price inquiry
+4652,prepare booking proposal
+4652,send booking proposal to employee
+4652,check booking proposal
+4652,transform price inquiry to travel request
+4652,decide on approval requirements
+4652,check if booking is necessary
+4652,prepare booking proposal
+4652,send booking proposal to employee
+4652,check booking proposal
+4652,book travel
+4652,check if expense documents exist
+4652,upload travel expense documents
+4652,file travel expense report
+4652,confirm travel expense report
+4652,decide on travel expense approval
+4727,file travel request
+4727,check if travel request needs preliminary price inquiry
+4727,prepare booking proposal
+4727,send booking proposal to employee
+4727,check booking proposal
+4727,check if price inquiry is still needed and up to date
+4727,request update of the booking proposal
+4727,prepare booking proposal
+4727,send booking proposal to employee
+4727,check booking proposal
+4727,transform price inquiry to travel request
+4727,decide on approval requirements
+4727,check if booking is necessary
+4727,check if expense documents exist
+4727,upload travel expense documents
+4727,file travel expense report
+4727,confirm travel expense report
+4727,decide on travel expense approval
+4727,send original documents to archive
+4727,calculate payments
+4849,file travel request
+4849,check if travel request needs preliminary price inquiry
+4849,prepare booking proposal
+4849,send booking proposal to employee
+4849,check booking proposal
+4849,transform price inquiry to travel request
+4849,decide on approval requirements
+4849,check if booking is necessary
+4849,prepare booking proposal
+4849,send booking proposal to employee
+4849,check booking proposal
+4849,check if travel request is still needed and up to date
+4849,request update of the booking proposal
+4849,prepare booking proposal
+4849,send booking proposal to employee
+4849,check booking proposal
+4849,book travel
+4849,check if expense documents exist
+4849,file travel expense report
+4849,confirm travel expense report
+4849,decide on travel expense approval
+4849,send original documents to archive
+4852,file travel request
+4852,check if travel request needs preliminary price inquiry
+4852,prepare booking proposal
+4852,send booking proposal to employee
+4852,check booking proposal
+4852,transform price inquiry to travel request
+4852,decide on approval requirements
+4852,check if booking is necessary
+4852,prepare booking proposal
+4852,send booking proposal to employee
+4852,check booking proposal
+4852,book travel
+4852,check if expense documents exist
+4852,upload travel expense documents
+4852,file travel expense report
+4852,confirm travel expense report
+4852,decide on travel expense approval
+4852,send original documents to archive
+4854,file travel request
+4854,check if travel request needs preliminary price inquiry
+4854,prepare booking proposal
+4854,send booking proposal to employee
+4854,check booking proposal
+4854,transform price inquiry to travel request
+4854,decide on approval requirements
+4854,check if booking is necessary
+4854,prepare booking proposal
+4854,send booking proposal to employee
+4854,check booking proposal
+4854,book travel
+4854,check if expense documents exist
+4854,file travel expense report
+4854,confirm travel expense report
+4854,decide on travel expense approval
+4854,send original documents to archive
+4867,file travel request
+4867,check if travel request needs preliminary price inquiry
+4867,prepare booking proposal
+4867,send booking proposal to employee
+4867,check booking proposal
+4867,transform price inquiry to travel request
+4867,decide on approval requirements
+4867,check if booking is necessary
+4867,prepare booking proposal
+4867,send booking proposal to employee
+4867,check booking proposal
+4867,check if travel request is still needed and up to date
+4867,request update of the booking proposal
+4867,prepare booking proposal
+4867,send booking proposal to employee
+4867,check booking proposal
+4867,book travel
+4867,check if expense documents exist
+4867,upload travel expense documents
+4867,file travel expense report
+4867,confirm travel expense report
+4867,decide on travel expense approval
+4936,file travel request
+4936,check if travel request needs preliminary price inquiry
+4936,decide on approval requirements
+4936,check if booking is necessary
+4936,check if expense documents exist
+4936,upload travel expense documents
+4936,file travel expense report
+4936,confirm travel expense report
+4936,decide on travel expense approval
+4936,send original documents to archive
+4936,calculate payments
+4936,pay expenses
+4958,file travel request
+4958,check if travel request needs preliminary price inquiry
+4958,decide on approval requirements
+4958,check if booking is necessary
+4958,check if expense documents exist
+4958,upload travel expense documents
+4958,file travel expense report
+4958,confirm travel expense report
+4958,decide on travel expense approval
+4958,send request for travel expense correction
+4958,correct travel expense report
+4958,decide on travel expense approval
+4958,send original documents to archive
+4958,calculate payments
+4958,pay expenses
+4963,file travel request
+4963,check if travel request needs preliminary price inquiry
+4963,decide on approval requirements
+4963,check if booking is necessary
+4963,prepare booking proposal
+4963,send booking proposal to employee
+4963,check booking proposal
+4963,book travel
+4963,check if expense documents exist
+4963,upload travel expense documents
+4963,file travel expense report
+4963,confirm travel expense report
+4963,decide on travel expense approval
+4963,send original documents to archive
+4965,file travel request
+4965,check if travel request needs preliminary price inquiry
+4965,decide on approval requirements
+4965,check if booking is necessary
+4965,prepare booking proposal
+4965,send booking proposal to employee
+4965,check booking proposal
+4965,book travel
+4965,check if expense documents exist
+4965,upload travel expense documents
+4965,file travel expense report
+4965,confirm travel expense report
+4965,decide on travel expense approval
+4965,send original documents to archive
+4965,calculate payments
+4965,pay expenses
+5003,file travel request
+5003,check if travel request needs preliminary price inquiry
+5003,decide on approval requirements
+5003,check if booking is necessary
+5003,check if expense documents exist
+5003,upload travel expense documents
+5003,file travel expense report
+5003,confirm travel expense report
+5003,decide on travel expense approval
+5003,send original documents to archive
+5003,calculate payments
+5003,pay expenses
+5048,file travel request
+5048,check if travel request needs preliminary price inquiry
+5048,decide on approval requirements
+5048,check if booking is necessary
+5048,prepare booking proposal
+5048,send booking proposal to employee
+5048,check booking proposal
+5048,check if travel request is still needed and up to date
+5048,request update of the booking proposal
+5048,prepare booking proposal
+5048,send booking proposal to employee
+5048,check booking proposal
+5048,request update of the booking proposal
+5048,check if travel request is still needed and up to date
+5048,prepare booking proposal
+5048,send booking proposal to employee
+5048,check booking proposal
+5048,check if travel request is still needed and up to date
+5048,request update of the booking proposal
+5048,prepare booking proposal
+5093,file travel request
+5093,check if travel request needs preliminary price inquiry
+5093,prepare booking proposal
+5093,send booking proposal to employee
+5093,check booking proposal
+5093,transform price inquiry to travel request
+5093,decide on approval requirements
+5093,check if booking is necessary
+5093,prepare booking proposal
+5093,send booking proposal to employee
+5093,check booking proposal
+5093,check if travel request is still needed and up to date
+5093,request update of the booking proposal
+5093,prepare booking proposal
+5093,send booking proposal to employee
+5093,check booking proposal
+5093,book travel
+5111,file travel request
+5111,check if travel request needs preliminary price inquiry
+5111,decide on approval requirements
+5111,check if booking is necessary
+5111,prepare booking proposal
+5111,send booking proposal to employee
+5111,check booking proposal
+5111,check if travel request is still needed and up to date
+5111,request update of the booking proposal
+5111,prepare booking proposal
+5111,send booking proposal to employee
+5111,check booking proposal
+5111,request update of the booking proposal
+5111,check if travel request is still needed and up to date
+5111,prepare booking proposal
+5111,send booking proposal to employee
+5111,check booking proposal
+5111,book travel
+5117,file travel request
+5117,check if travel request needs preliminary price inquiry
+5117,decide on approval requirements
+5117,check if booking is necessary
+5117,prepare booking proposal
+5117,send booking proposal to employee
+5117,check booking proposal
+5117,check if travel request is still needed and up to date
+5117,request update of the booking proposal
+5117,prepare booking proposal
+5117,send booking proposal to employee
+5117,check booking proposal
+5117,request update of the booking proposal
+5117,check if travel request is still needed and up to date
+5117,prepare booking proposal
+5117,send booking proposal to employee
+5117,check booking proposal
+5117,check if travel request is still needed and up to date
+5117,request update of the booking proposal
+5117,prepare booking proposal
+5117,send booking proposal to employee
+5117,check booking proposal
+5124,file travel request
+5124,check if travel request needs preliminary price inquiry
+5124,decide on approval requirements
+5124,check if booking is necessary
+5124,prepare booking proposal
+5124,send booking proposal to employee
+5124,check booking proposal
+5124,check if travel request is still needed and up to date
+5124,request update of the booking proposal
+5124,prepare booking proposal
+5124,send booking proposal to employee
+5124,check booking proposal
+5124,request update of the booking proposal
+5124,check if travel request is still needed and up to date
+5124,prepare booking proposal
+5124,send booking proposal to employee
+5124,check booking proposal
+5124,book travel
+5134,file travel request
+5134,check if travel request needs preliminary price inquiry
+5134,prepare booking proposal
+5134,send booking proposal to employee
+5134,check booking proposal
+5134,transform price inquiry to travel request
+5134,decide on approval requirements
+5134,check if booking is necessary
+5134,check if expense documents exist
+5134,upload travel expense documents
+5134,file travel expense report
+5134,confirm travel expense report
+5134,decide on travel expense approval
+5134,send original documents to archive
+5134,calculate payments
+5134,pay expenses
+5164,file travel request
+5164,check if travel request needs preliminary price inquiry
+5164,decide on approval requirements
+5164,check if booking is necessary
+5164,prepare booking proposal
+5164,send booking proposal to employee
+5164,check booking proposal
+5164,check if travel request is still needed and up to date
+5164,request update of the booking proposal
+5164,prepare booking proposal
+5164,send booking proposal to employee
+5164,check booking proposal
+5164,request update of the booking proposal
+5164,check if travel request is still needed and up to date
+5164,prepare booking proposal
+5164,send booking proposal to employee
+5164,check booking proposal
+5164,check if travel request is still needed and up to date
+5164,request update of the booking proposal
+5164,prepare booking proposal
+5265,file travel request
+5265,check if travel request needs preliminary price inquiry
+5265,decide on approval requirements
+5265,check if booking is necessary
+5265,prepare booking proposal
+5265,send booking proposal to employee
+5265,check booking proposal
+5265,book travel
+5265,check if expense documents exist
+5265,upload travel expense documents
+5265,file travel expense report
+5265,confirm travel expense report
+5265,decide on travel expense approval
+5265,send original documents to archive
+5265,calculate payments
+5302,file travel request
+5302,check if travel request needs preliminary price inquiry
+5302,prepare booking proposal
+5302,send booking proposal to employee
+5302,check booking proposal
+5302,transform price inquiry to travel request
+5302,decide on approval requirements
+5302,check if booking is necessary
+5302,prepare booking proposal
+5302,send booking proposal to employee
+5302,check booking proposal
+5302,check if travel request is still needed and up to date
+5302,request update of the booking proposal
+5302,prepare booking proposal
+5302,send booking proposal to employee
+5302,check booking proposal
+5302,book travel
+5305,file travel request
+5305,check if travel request needs preliminary price inquiry
+5305,decide on approval requirements
+5305,check if booking is necessary
+5305,prepare booking proposal
+5305,send booking proposal to employee
+5305,check booking proposal
+5305,book travel
+5305,check if expense documents exist
+5305,file travel expense report
+5305,confirm travel expense report
+5305,decide on travel expense approval
+5305,send original documents to archive
+5544,file travel request
+5544,check if travel request needs preliminary price inquiry
+5544,decide on approval requirements
+5544,check if booking is necessary
+5544,prepare booking proposal
+5544,send booking proposal to employee
+5544,check booking proposal
+5544,book travel
+5659,file travel request
+5659,check if travel request needs preliminary price inquiry
+5659,decide on approval requirements
+5659,forward request to approver
+5659,decide on request
+5659,check if booking is necessary
+5659,check if expense documents exist
+5659,upload travel expense documents
+5659,file travel expense report
+5659,confirm travel expense report
+5659,decide on travel expense approval
+5671,file travel request
+5671,check if travel request needs preliminary price inquiry
+5671,prepare booking proposal
+5671,send booking proposal to employee
+5671,check booking proposal
+5671,transform price inquiry to travel request
+5671,decide on approval requirements
+5671,check if booking is necessary
+5671,check if expense documents exist
+5671,upload travel expense documents
+5671,file travel expense report
+5671,confirm travel expense report
+5671,decide on travel expense approval
+5671,send original documents to archive
+5671,calculate payments
+5671,pay expenses
+5685,file travel request
+5685,check if travel request needs preliminary price inquiry
+5685,prepare booking proposal
+5685,send booking proposal to employee
+5685,check booking proposal
+5685,check if price inquiry is still needed and up to date
+5685,request update of the booking proposal
+5685,prepare booking proposal
+5685,send booking proposal to employee
+5685,check booking proposal
+5685,transform price inquiry to travel request
+5685,decide on approval requirements
+5685,check if booking is necessary
+5685,prepare booking proposal
+5916,file travel request
+5916,check if travel request needs preliminary price inquiry
+5916,prepare booking proposal
+5916,send booking proposal to employee
+5916,check booking proposal
+5916,transform price inquiry to travel request
+5916,decide on approval requirements
+5916,check if booking is necessary
+5916,prepare booking proposal
+5916,send booking proposal to employee
+5916,check booking proposal
+5916,book travel
+5954,file travel request
+5954,check if travel request needs preliminary price inquiry
+5954,decide on approval requirements
+5954,forward request to approver
+5954,decide on request
+5954,check if booking is necessary
+5954,check if expense documents exist
+5954,upload travel expense documents
+5954,file travel expense report
+5954,confirm travel expense report
+5954,decide on travel expense approval
+5954,send original documents to archive
+5954,calculate payments
+6624,file travel request
+6624,check if travel request needs preliminary price inquiry
+6624,prepare booking proposal
+6624,send booking proposal to employee
+6624,check booking proposal
+6624,transform price inquiry to travel request
+6624,decide on approval requirements
+6765,file travel request
+6765,check if travel request needs preliminary price inquiry
+6765,prepare booking proposal
+6765,send booking proposal to employee
+6765,check booking proposal
+6765,check if price inquiry is still needed and up to date
+6765,request update of the booking proposal
+6860,file travel request
+6860,check if travel request needs preliminary price inquiry
+6860,decide on approval requirements
+6860,check if booking is necessary
+6972,file travel request
+6972,check if travel request needs preliminary price inquiry
+6972,decide on approval requirements
+6972,check if booking is necessary
+7044,file travel request
+7044,check if travel request needs preliminary price inquiry
+7044,decide on approval requirements
+7106,file travel request
+7106,check if travel request needs preliminary price inquiry
+7106,decide on approval requirements
+7106,forward request to approver
+7106,decide on request

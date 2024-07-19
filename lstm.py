@@ -106,7 +106,7 @@ if __name__ == '__main__':
         xes = pm4py.read_xes(xes_file_path) 
 
         xes = pm4py.convert_to_event_log(xes, case_id_key="case:concept:name")
-        sample_size = int(len(xes) * 0.1)
+        sample_size = int(len(xes) * sample_size)
 
         petrinet, initial_marking, final_marking = pm4py.read_pnml(data_dir + data_set + ".pnml")
         sampler = SequenceGuidedLogSampler(xes, batch_size=1)
@@ -161,7 +161,7 @@ if __name__ == '__main__':
         train_df = df[df['id'].isin(train_ids)]
         test_df = df[~df['id'].isin(train_ids)]
 
-    df[df['id'].isin(sampled_ids)].to_csv(data_set + sampling_technique + str(sample_size) + 'sample.csv', index=False)
+    df[df['id'].isin(sampled_ids)].to_csv(data_set + sampling_technique + str(int(float(args.sample_size)*100)) + 'sample.csv', index=False)
    
 
     columns = ['concept:name', 'concept:name']
@@ -277,7 +277,7 @@ if __name__ == '__main__':
     print("Out of ", len(test_prefix_list))
     print(leakage_percent)
 
-    Results_data = [data_set, sampling_technique, sample_size, Accuracy, leakage_percent, Running_Time, F1_Score, Precision, Recall, FeatureGenerator_Time,
+    Results_data = [data_set, sampling_technique, str(int(float(args.sample_size)*100)), Accuracy, leakage_percent, Running_Time, F1_Score, Precision, Recall, FeatureGenerator_Time,
                     TruePositive, FalsePositive, FalseNegative, TrueNegative]
 
     print("flag: saving output")
