@@ -98,6 +98,8 @@ if __name__ == '__main__':
                 test_ids.append(id)
         train_df =  df[df['id'].isin(train_ids)]
         test_df = df[df['id'].isin(test_ids)]
+        df[df['id'].isin(sampled_ids)].to_csv(data_set + sampling_technique + str(int(float(args.sample_size)*100)) + 'sample.csv', index=False)
+
     
 
     # Relevance-based sampling (based on the implemention of Kabierski et al., 2020)
@@ -127,6 +129,8 @@ if __name__ == '__main__':
                 test_ids.append(id)
         train_df =  df[df['id'].isin(train_ids)]
         test_df = df[df['id'].isin(test_ids)]
+        df[df['id'].isin(sampled_ids)].to_csv(data_set + sampling_technique + str(int(float(args.sample_size)*100)) + 'sample.csv', index=False)
+
 
 
     # Variant-based sampling:
@@ -151,6 +155,8 @@ if __name__ == '__main__':
                 test_ids.append(id)
         train_df =  df[df['id'].isin(train_ids)]
         test_df = df[df['id'].isin(test_ids)]
+        df[df['id'].isin(sampled_ids)].to_csv(data_set + sampling_technique + str(int(float(args.sample_size)*100)) + 'sample.csv', index=False)
+
 
     # No samping, just train-test split (80/20)
     else: 
@@ -161,7 +167,6 @@ if __name__ == '__main__':
         train_df = df[df['id'].isin(train_ids)]
         test_df = df[~df['id'].isin(train_ids)]
 
-    df[df['id'].isin(sampled_ids)].to_csv(data_set + sampling_technique + str(int(float(args.sample_size)*100)) + 'sample.csv', index=False)
    
 
     columns = ['concept:name', 'concept:name']
@@ -196,21 +201,6 @@ if __name__ == '__main__':
     train_X, train_y = fe.original_one_hot_encode(train_df, feature_type_list, task, feature_name)
     FeatureEncoder_Time = time.time() - Start_FeatureEncoder
     print("done")
-
-    #if contextual_info:
-        # train_df = fg.queue_level(train_df)
-        # activity_list = fg.get_activities(train_df)
-        # train_context_X = fg.generate_context_feature(train_df, activity_list)
-        # model = net()
-        # if task == 'next_timestamp':
-        #     model.train(train_X, train_y, regression, loss, n_epochs=num_epochs, batch_size=batch_size,
-        #                 model_name=model_name, checkpoint_dir=checkpoint_dir,
-        #                 X_train_ctx=train_context_X)
-        # elif task == 'next_activity':
-        #     model.train(train_X, train_y, regression, loss, n_epochs=num_epochs, batch_size=batch_size,
-        #                 model_name=model_name, checkpoint_dir=checkpoint_dir,
-        #                 X_train_ctx=train_context_X)
-    #else:
 
     train_context_X = None
     model = net()

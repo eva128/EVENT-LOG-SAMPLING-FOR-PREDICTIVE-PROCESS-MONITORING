@@ -55,11 +55,13 @@ All classes were implemented by:
 Kabierski, M., Nguyen, H. L., Grunske, L., & Weidlich, M. (2021). Sampling What Matters: Relevance-guided Sampling of Event Logs. 2021 3rd International Conference on Process Mining (ICPM), 64–71. https://doi.org/10.1109/ICPM53251.
 2021.9576875
 
-Variant-based Sampling:
-Plug-In in ProM - Package LogFiltering - action: Variant Sampling
+Variant-peserving Sampling:
+To sample the event logs based on their variants a Plug-In in ProM was used, which was developed by Sani et al..
+ProM - Package LogFiltering - action: Variant Sampling
 Fani Sani, M., Vazifehdoostirani, M., Park, G., Pegoraro, M., van Zelst, S. J., & van der Aalst, W. M. (2021). Event log sampling for predictive monitoring. International Conference on Process Mining, 154–166. Retrieved December 18, 2023, from https://library.oapen.org/bitstream/handle/20.500.12657/54026/978- 3- 030-98581-3.pdf?sequence=1#page=167
 
 Example leakage calculations:
+THe calculation of the example leakage was implemented based on the code of:
 Abb, L., Pfeiffer, P., Fettke, P., & Rehse, J.-R. (2023). A Discussion on Generalization in Next-Activity Prediction [arXiv:2309.09618 [cs]]. Retrieved December 11, 2023, from http://arxiv.org/abs/2309.09618
 
 

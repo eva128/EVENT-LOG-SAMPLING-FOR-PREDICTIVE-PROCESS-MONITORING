@@ -1,0 +1,3129 @@
+id,activity
+1,pay expenses
+10,pay expenses
+13,send original documents to archive
+13,calculate payments
+13,pay expenses
+100,check if expense documents exist
+100,upload travel expense documents
+100,file travel expense report
+100,confirm travel expense report
+100,decide on travel expense approval
+100,send original documents to archive
+100,calculate payments
+100,pay expenses
+101,check if expense documents exist
+101,file travel expense report
+101,confirm travel expense report
+101,decide on travel expense approval
+101,send original documents to archive
+101,calculate payments
+101,pay expenses
+102,pay expenses
+103,pay expenses
+104,pay expenses
+105,file travel request
+105,check if travel request needs preliminary price inquiry
+105,decide on approval requirements
+105,check if booking is necessary
+105,check if expense documents exist
+105,upload travel expense documents
+105,file travel expense report
+105,confirm travel expense report
+105,decide on travel expense approval
+105,send original documents to archive
+105,calculate payments
+105,pay expenses
+106,pay expenses
+107,check if expense documents exist
+107,upload travel expense documents
+107,file travel expense report
+107,confirm travel expense report
+107,decide on travel expense approval
+107,send request for travel expense correction
+107,correct travel expense report
+107,decide on travel expense approval
+107,send original documents to archive
+107,calculate payments
+107,pay expenses
+108,pay expenses
+112,pay expenses
+114,file travel expense report
+114,confirm travel expense report
+114,decide on travel expense approval
+114,send original documents to archive
+114,calculate payments
+114,pay expenses
+117,calculate payments
+117,pay expenses
+118,check if expense documents exist
+118,upload travel expense documents
+118,file travel expense report
+118,confirm travel expense report
+118,decide on travel expense approval
+118,send original documents to archive
+118,calculate payments
+118,pay expenses
+121,decide on travel expense approval
+121,send request for travel expense correction
+121,correct travel expense report
+121,decide on travel expense approval
+121,send request for travel expense correction
+121,correct travel expense report
+121,decide on travel expense approval
+121,send original documents to archive
+121,calculate payments
+121,pay expenses
+122,check if expense documents exist
+122,file travel expense report
+122,confirm travel expense report
+122,decide on travel expense approval
+122,send request for travel expense correction
+122,correct travel expense report
+122,decide on travel expense approval
+122,send request for travel expense correction
+122,correct travel expense report
+122,decide on travel expense approval
+122,send original documents to archive
+122,calculate payments
+122,pay expenses
+125,pay expenses
+126,check if expense documents exist
+126,file travel expense report
+126,confirm travel expense report
+126,decide on travel expense approval
+126,send request for travel expense correction
+126,correct travel expense report
+126,decide on travel expense approval
+126,send request for travel expense correction
+126,correct travel expense report
+126,decide on travel expense approval
+126,send original documents to archive
+126,calculate payments
+126,pay expenses
+131,pay expenses
+1000,check if expense documents exist
+1000,upload travel expense documents
+1000,file travel expense report
+1000,confirm travel expense report
+1000,decide on travel expense approval
+1000,send original documents to archive
+1000,calculate payments
+1000,pay expenses
+1001,check if expense documents exist
+1001,file travel expense report
+1001,confirm travel expense report
+1001,decide on travel expense approval
+1001,send original documents to archive
+1001,calculate payments
+1001,pay expenses
+1002,check if expense documents exist
+1002,upload travel expense documents
+1002,file travel expense report
+1002,confirm travel expense report
+1002,decide on travel expense approval
+1002,send original documents to archive
+1002,calculate payments
+1002,pay expenses
+1003,check if expense documents exist
+1003,upload travel expense documents
+1003,file travel expense report
+1003,confirm travel expense report
+1003,decide on travel expense approval
+1003,send request for travel expense correction
+1003,correct travel expense report
+1003,decide on travel expense approval
+1003,send original documents to archive
+1003,calculate payments
+1003,pay expenses
+1004,check if expense documents exist
+1004,upload travel expense documents
+1004,file travel expense report
+1004,confirm travel expense report
+1004,decide on travel expense approval
+1004,send original documents to archive
+1004,calculate payments
+1004,pay expenses
+1005,check if expense documents exist
+1005,file travel expense report
+1005,confirm travel expense report
+1005,decide on travel expense approval
+1005,send original documents to archive
+1005,calculate payments
+1005,pay expenses
+1006,check if expense documents exist
+1006,upload travel expense documents
+1006,file travel expense report
+1006,confirm travel expense report
+1006,decide on travel expense approval
+1006,send original documents to archive
+1006,calculate payments
+1006,pay expenses
+1007,check if expense documents exist
+1007,upload travel expense documents
+1007,file travel expense report
+1007,confirm travel expense report
+1007,decide on travel expense approval
+1007,send request for travel expense correction
+1007,correct travel expense report
+1007,decide on travel expense approval
+1007,send request for travel expense correction
+1007,correct travel expense report
+1007,decide on travel expense approval
+1007,calculate payments
+1007,send original documents to archive
+1007,pay expenses
+1008,check if expense documents exist
+1008,file travel expense report
+1008,confirm travel expense report
+1008,decide on travel expense approval
+1008,send original documents to archive
+1008,calculate payments
+1008,pay expenses
+1009,file travel expense report
+1009,confirm travel expense report
+1009,decide on travel expense approval
+1009,send original documents to archive
+1009,calculate payments
+1009,pay expenses
+1010,check if expense documents exist
+1010,file travel expense report
+1010,confirm travel expense report
+1010,decide on travel expense approval
+1010,send request for travel expense correction
+1010,correct travel expense report
+1010,decide on travel expense approval
+1010,send original documents to archive
+1010,calculate payments
+1010,pay expenses
+1011,check if expense documents exist
+1011,file travel expense report
+1011,confirm travel expense report
+1011,decide on travel expense approval
+1011,calculate payments
+1011,send original documents to archive
+1011,pay expenses
+1012,check if expense documents exist
+1012,upload travel expense documents
+1012,file travel expense report
+1012,confirm travel expense report
+1012,decide on travel expense approval
+1012,send original documents to archive
+1012,calculate payments
+1012,pay expenses
+1013,check if expense documents exist
+1013,upload travel expense documents
+1013,file travel expense report
+1013,confirm travel expense report
+1013,decide on travel expense approval
+1013,send request for travel expense correction
+1013,correct travel expense report
+1013,decide on travel expense approval
+1013,send request for travel expense correction
+1013,correct travel expense report
+1013,decide on travel expense approval
+1013,send original documents to archive
+1013,calculate payments
+1013,pay expenses
+1014,check if expense documents exist
+1014,upload travel expense documents
+1014,file travel expense report
+1014,confirm travel expense report
+1014,decide on travel expense approval
+1014,send original documents to archive
+1014,calculate payments
+1014,pay expenses
+1015,check if expense documents exist
+1015,upload travel expense documents
+1015,file travel expense report
+1015,confirm travel expense report
+1015,decide on travel expense approval
+1015,send request for travel expense correction
+1015,correct travel expense report
+1015,decide on travel expense approval
+1015,send original documents to archive
+1015,calculate payments
+1015,pay expenses
+1017,check if expense documents exist
+1017,upload travel expense documents
+1017,file travel expense report
+1017,confirm travel expense report
+1017,decide on travel expense approval
+1017,calculate payments
+1017,send original documents to archive
+1017,pay expenses
+1018,check if expense documents exist
+1018,upload travel expense documents
+1018,file travel expense report
+1018,confirm travel expense report
+1018,decide on travel expense approval
+1018,calculate payments
+1018,send original documents to archive
+1018,pay expenses
+1019,check if expense documents exist
+1019,file travel expense report
+1019,confirm travel expense report
+1019,decide on travel expense approval
+1019,send original documents to archive
+1019,calculate payments
+1019,pay expenses
+1020,check if expense documents exist
+1020,upload travel expense documents
+1020,file travel expense report
+1020,confirm travel expense report
+1020,decide on travel expense approval
+1020,send original documents to archive
+1020,calculate payments
+1020,pay expenses
+1021,check if expense documents exist
+1021,file travel expense report
+1021,confirm travel expense report
+1021,decide on travel expense approval
+1021,send original documents to archive
+1021,calculate payments
+1021,pay expenses
+1022,check if expense documents exist
+1022,file travel expense report
+1022,confirm travel expense report
+1022,decide on travel expense approval
+1022,send original documents to archive
+1022,calculate payments
+1022,pay expenses
+1023,check if expense documents exist
+1023,upload travel expense documents
+1023,file travel expense report
+1023,confirm travel expense report
+1023,decide on travel expense approval
+1023,send original documents to archive
+1023,calculate payments
+1023,pay expenses
+1024,check booking proposal
+1024,book travel
+1024,check if expense documents exist
+1024,upload travel expense documents
+1024,file travel expense report
+1024,confirm travel expense report
+1024,decide on travel expense approval
+1024,send request for travel expense correction
+1024,correct travel expense report
+1024,decide on travel expense approval
+1024,send original documents to archive
+1024,calculate payments
+1024,pay expenses
+1025,check if expense documents exist
+1025,upload travel expense documents
+1025,file travel expense report
+1025,confirm travel expense report
+1025,decide on travel expense approval
+1025,send request for travel expense correction
+1025,correct travel expense report
+1025,decide on travel expense approval
+1025,send original documents to archive
+1025,calculate payments
+1025,pay expenses
+1026,check if expense documents exist
+1026,upload travel expense documents
+1026,file travel expense report
+1026,confirm travel expense report
+1026,decide on travel expense approval
+1026,send original documents to archive
+1026,calculate payments
+1026,pay expenses
+1027,check if expense documents exist
+1027,upload travel expense documents
+1027,file travel expense report
+1027,confirm travel expense report
+1027,decide on travel expense approval
+1027,send original documents to archive
+1027,calculate payments
+1027,pay expenses
+1028,check if expense documents exist
+1028,upload travel expense documents
+1028,file travel expense report
+1028,confirm travel expense report
+1028,decide on travel expense approval
+1028,send original documents to archive
+1028,calculate payments
+1028,pay expenses
+1029,check if expense documents exist
+1029,upload travel expense documents
+1029,file travel expense report
+1029,confirm travel expense report
+1029,decide on travel expense approval
+1029,send original documents to archive
+1029,calculate payments
+1029,pay expenses
+1030,check if expense documents exist
+1030,upload travel expense documents
+1030,file travel expense report
+1030,confirm travel expense report
+1030,decide on travel expense approval
+1030,send original documents to archive
+1030,calculate payments
+1030,pay expenses
+1031,check if expense documents exist
+1031,upload travel expense documents
+1031,file travel expense report
+1031,confirm travel expense report
+1031,decide on travel expense approval
+1031,send original documents to archive
+1031,calculate payments
+1031,pay expenses
+1032,check if expense documents exist
+1032,upload travel expense documents
+1032,file travel expense report
+1032,confirm travel expense report
+1032,decide on travel expense approval
+1032,send request for travel expense correction
+1032,correct travel expense report
+1032,decide on travel expense approval
+1032,send original documents to archive
+1032,calculate payments
+1032,pay expenses
+1033,check if expense documents exist
+1033,file travel expense report
+1033,confirm travel expense report
+1033,decide on travel expense approval
+1033,send original documents to archive
+1033,calculate payments
+1033,pay expenses
+1035,check if expense documents exist
+1035,file travel expense report
+1035,confirm travel expense report
+1035,decide on travel expense approval
+1035,send original documents to archive
+1035,calculate payments
+1035,pay expenses
+1036,check if travel request is still needed and up to date
+1036,request update of the booking proposal
+1036,prepare booking proposal
+1036,send booking proposal to employee
+1036,check booking proposal
+1036,book travel
+1036,check if expense documents exist
+1036,upload travel expense documents
+1036,file travel expense report
+1036,confirm travel expense report
+1036,decide on travel expense approval
+1036,send request for travel expense correction
+1036,correct travel expense report
+1036,decide on travel expense approval
+1036,send original documents to archive
+1036,calculate payments
+1036,pay expenses
+1037,check if expense documents exist
+1037,file travel expense report
+1037,confirm travel expense report
+1037,decide on travel expense approval
+1037,send request for travel expense correction
+1037,correct travel expense report
+1037,decide on travel expense approval
+1037,send request for travel expense correction
+1037,correct travel expense report
+1037,decide on travel expense approval
+1037,send request for travel expense correction
+1037,correct travel expense report
+1037,decide on travel expense approval
+1037,send original documents to archive
+1037,calculate payments
+1037,pay expenses
+1038,decide on travel expense approval
+1038,send request for travel expense correction
+1038,correct travel expense report
+1038,decide on travel expense approval
+1038,send original documents to archive
+1038,calculate payments
+1038,pay expenses
+1039,check if expense documents exist
+1039,upload travel expense documents
+1039,file travel expense report
+1039,confirm travel expense report
+1039,decide on travel expense approval
+1039,send original documents to archive
+1039,calculate payments
+1039,pay expenses
+1040,check if expense documents exist
+1040,file travel expense report
+1040,confirm travel expense report
+1040,decide on travel expense approval
+1040,send original documents to archive
+1040,calculate payments
+1040,pay expenses
+1041,check if expense documents exist
+1041,upload travel expense documents
+1041,file travel expense report
+1041,confirm travel expense report
+1041,decide on travel expense approval
+1041,send request for travel expense correction
+1041,correct travel expense report
+1041,decide on travel expense approval
+1041,send original documents to archive
+1041,calculate payments
+1041,pay expenses
+1042,check if expense documents exist
+1042,upload travel expense documents
+1042,file travel expense report
+1042,confirm travel expense report
+1042,decide on travel expense approval
+1042,send original documents to archive
+1042,calculate payments
+1042,pay expenses
+1043,check if expense documents exist
+1043,upload travel expense documents
+1043,file travel expense report
+1043,confirm travel expense report
+1043,decide on travel expense approval
+1043,send original documents to archive
+1043,calculate payments
+1043,pay expenses
+1044,check if expense documents exist
+1044,upload travel expense documents
+1044,file travel expense report
+1044,confirm travel expense report
+1044,decide on request
+1044,decide on travel expense approval
+1044,send request for travel expense correction
+1044,correct travel expense report
+1044,decide on travel expense approval
+1044,send original documents to archive
+1044,calculate payments
+1044,pay expenses
+1046,check if expense documents exist
+1046,upload travel expense documents
+1046,file travel expense report
+1046,confirm travel expense report
+1046,decide on travel expense approval
+1046,send original documents to archive
+1046,calculate payments
+1046,pay expenses
+1047,check if expense documents exist
+1047,file travel expense report
+1047,confirm travel expense report
+1047,decide on travel expense approval
+1047,send request for travel expense correction
+1047,correct travel expense report
+1047,decide on travel expense approval
+1047,send request for travel expense correction
+1047,correct travel expense report
+1047,decide on travel expense approval
+1047,send original documents to archive
+1047,calculate payments
+1047,pay expenses
+1048,check if expense documents exist
+1048,file travel expense report
+1048,confirm travel expense report
+1048,decide on travel expense approval
+1048,send original documents to archive
+1048,calculate payments
+1048,pay expenses
+1049,check if expense documents exist
+1049,file travel expense report
+1049,confirm travel expense report
+1049,decide on travel expense approval
+1049,send original documents to archive
+1049,calculate payments
+1049,pay expenses
+1050,check if expense documents exist
+1050,upload travel expense documents
+1050,file travel expense report
+1050,confirm travel expense report
+1050,decide on travel expense approval
+1050,send original documents to archive
+1050,calculate payments
+1050,pay expenses
+1051,check if expense documents exist
+1051,file travel expense report
+1051,confirm travel expense report
+1051,decide on travel expense approval
+1051,send original documents to archive
+1051,calculate payments
+1051,pay expenses
+1052,check if expense documents exist
+1052,upload travel expense documents
+1052,file travel expense report
+1052,confirm travel expense report
+1052,decide on travel expense approval
+1052,send request for travel expense correction
+1052,correct travel expense report
+1052,decide on travel expense approval
+1052,send original documents to archive
+1052,calculate payments
+1052,pay expenses
+1053,check if expense documents exist
+1053,upload travel expense documents
+1053,file travel expense report
+1053,confirm travel expense report
+1053,decide on travel expense approval
+1053,send request for travel expense correction
+1053,correct travel expense report
+1053,decide on travel expense approval
+1053,send request for travel expense correction
+1053,correct travel expense report
+1053,decide on travel expense approval
+1053,send request for travel expense correction
+1053,correct travel expense report
+1053,decide on travel expense approval
+1053,send original documents to archive
+1053,calculate payments
+1053,pay expenses
+1054,check booking proposal
+1054,book travel
+1054,check if expense documents exist
+1054,upload travel expense documents
+1054,file travel expense report
+1054,confirm travel expense report
+1054,decide on travel expense approval
+1054,send original documents to archive
+1054,calculate payments
+1054,pay expenses
+1055,check if expense documents exist
+1055,upload travel expense documents
+1055,file travel expense report
+1055,confirm travel expense report
+1055,decide on travel expense approval
+1055,send original documents to archive
+1055,calculate payments
+1055,pay expenses
+1056,check if expense documents exist
+1056,upload travel expense documents
+1056,file travel expense report
+1056,confirm travel expense report
+1056,decide on travel expense approval
+1056,send original documents to archive
+1056,calculate payments
+1056,pay expenses
+1057,check if expense documents exist
+1057,upload travel expense documents
+1057,file travel expense report
+1057,confirm travel expense report
+1057,decide on travel expense approval
+1057,send request for travel expense correction
+1057,correct travel expense report
+1057,decide on travel expense approval
+1057,send original documents to archive
+1057,calculate payments
+1057,pay expenses
+1058,check if expense documents exist
+1058,file travel expense report
+1058,confirm travel expense report
+1058,decide on travel expense approval
+1058,send original documents to archive
+1058,calculate payments
+1058,pay expenses
+1059,check if expense documents exist
+1059,upload travel expense documents
+1059,file travel expense report
+1059,confirm travel expense report
+1059,decide on travel expense approval
+1059,send original documents to archive
+1059,calculate payments
+1059,pay expenses
+1060,check if expense documents exist
+1060,file travel expense report
+1060,confirm travel expense report
+1060,decide on travel expense approval
+1060,send request for travel expense correction
+1060,correct travel expense report
+1060,decide on travel expense approval
+1060,send original documents to archive
+1060,calculate payments
+1060,pay expenses
+1061,check if travel request is still needed and up to date
+1061,request update of the booking proposal
+1061,prepare booking proposal
+1061,send booking proposal to employee
+1061,check booking proposal
+1061,book travel
+1061,check if expense documents exist
+1061,upload travel expense documents
+1061,file travel expense report
+1061,confirm travel expense report
+1061,decide on travel expense approval
+1061,send request for travel expense correction
+1061,correct travel expense report
+1061,decide on travel expense approval
+1061,send original documents to archive
+1061,calculate payments
+1061,pay expenses
+1062,check if expense documents exist
+1062,upload travel expense documents
+1062,file travel expense report
+1062,confirm travel expense report
+1062,decide on travel expense approval
+1062,send original documents to archive
+1062,calculate payments
+1062,pay expenses
+1063,check if expense documents exist
+1063,upload travel expense documents
+1063,file travel expense report
+1063,confirm travel expense report
+1063,decide on travel expense approval
+1063,send request for travel expense correction
+1063,correct travel expense report
+1063,decide on travel expense approval
+1063,send request for travel expense correction
+1063,correct travel expense report
+1063,decide on travel expense approval
+1063,send original documents to archive
+1063,calculate payments
+1063,pay expenses
+1064,check if expense documents exist
+1064,upload travel expense documents
+1064,file travel expense report
+1064,confirm travel expense report
+1064,decide on travel expense approval
+1064,send original documents to archive
+1064,calculate payments
+1064,pay expenses
+1065,check if expense documents exist
+1065,file travel expense report
+1065,confirm travel expense report
+1065,decide on travel expense approval
+1065,send request for travel expense correction
+1065,correct travel expense report
+1065,decide on travel expense approval
+1065,send request for travel expense correction
+1065,correct travel expense report
+1065,decide on travel expense approval
+1065,send request for travel expense correction
+1065,correct travel expense report
+1065,decide on travel expense approval
+1065,send original documents to archive
+1065,calculate payments
+1065,pay expenses
+1066,prepare booking proposal
+1066,send booking proposal to employee
+1066,check booking proposal
+1066,check if travel request is still needed and up to date
+1066,request update of the booking proposal
+1066,prepare booking proposal
+1066,send booking proposal to employee
+1066,check booking proposal
+1066,check if travel request is still needed and up to date
+1066,request update of the booking proposal
+1066,prepare booking proposal
+1066,send booking proposal to employee
+1066,check booking proposal
+1066,book travel
+1066,check if expense documents exist
+1066,upload travel expense documents
+1066,file travel expense report
+1066,confirm travel expense report
+1066,decide on travel expense approval
+1066,send original documents to archive
+1066,calculate payments
+1066,pay expenses
+1067,check if expense documents exist
+1067,upload travel expense documents
+1067,file travel expense report
+1067,confirm travel expense report
+1067,decide on travel expense approval
+1067,send request for travel expense correction
+1067,correct travel expense report
+1067,decide on travel expense approval
+1067,send original documents to archive
+1067,calculate payments
+1067,pay expenses
+1068,check if expense documents exist
+1068,file travel expense report
+1068,confirm travel expense report
+1068,decide on travel expense approval
+1068,send request for travel expense correction
+1068,correct travel expense report
+1068,decide on travel expense approval
+1068,send original documents to archive
+1068,calculate payments
+1068,pay expenses
+1069,prepare booking proposal
+1069,send booking proposal to employee
+1069,check booking proposal
+1069,book travel
+1069,check if expense documents exist
+1069,upload travel expense documents
+1069,file travel expense report
+1069,confirm travel expense report
+1069,decide on travel expense approval
+1069,send original documents to archive
+1069,calculate payments
+1069,pay expenses
+1070,check if expense documents exist
+1070,file travel expense report
+1070,confirm travel expense report
+1070,decide on travel expense approval
+1070,send request for travel expense correction
+1070,correct travel expense report
+1070,decide on travel expense approval
+1070,send original documents to archive
+1070,calculate payments
+1070,pay expenses
+1071,check if expense documents exist
+1071,upload travel expense documents
+1071,file travel expense report
+1071,confirm travel expense report
+1071,decide on travel expense approval
+1071,send request for travel expense correction
+1071,correct travel expense report
+1071,decide on travel expense approval
+1071,send request for travel expense correction
+1071,correct travel expense report
+1071,decide on travel expense approval
+1071,send original documents to archive
+1071,calculate payments
+1071,pay expenses
+1072,book travel
+1072,check if expense documents exist
+1072,upload travel expense documents
+1072,file travel expense report
+1072,confirm travel expense report
+1072,decide on travel expense approval
+1072,send original documents to archive
+1072,calculate payments
+1072,pay expenses
+1073,check if expense documents exist
+1073,upload travel expense documents
+1073,file travel expense report
+1073,confirm travel expense report
+1073,decide on travel expense approval
+1073,send original documents to archive
+1073,calculate payments
+1073,pay expenses
+1074,check if expense documents exist
+1074,file travel expense report
+1074,confirm travel expense report
+1074,decide on travel expense approval
+1074,send original documents to archive
+1074,calculate payments
+1074,pay expenses
+1075,check if expense documents exist
+1075,file travel expense report
+1075,confirm travel expense report
+1075,decide on travel expense approval
+1075,send request for travel expense correction
+1075,correct travel expense report
+1075,decide on travel expense approval
+1075,send request for travel expense correction
+1075,correct travel expense report
+1075,decide on travel expense approval
+1075,send original documents to archive
+1075,calculate payments
+1075,pay expenses
+1076,check if expense documents exist
+1076,upload travel expense documents
+1076,file travel expense report
+1076,confirm travel expense report
+1076,decide on travel expense approval
+1076,send request for travel expense correction
+1076,correct travel expense report
+1076,decide on travel expense approval
+1076,send request for travel expense correction
+1076,correct travel expense report
+1076,decide on travel expense approval
+1076,send original documents to archive
+1076,calculate payments
+1076,pay expenses
+1077,check if expense documents exist
+1077,upload travel expense documents
+1077,file travel expense report
+1077,confirm travel expense report
+1077,decide on travel expense approval
+1077,send original documents to archive
+1077,calculate payments
+1077,pay expenses
+1078,check if expense documents exist
+1078,file travel expense report
+1078,confirm travel expense report
+1078,decide on travel expense approval
+1078,send original documents to archive
+1078,calculate payments
+1078,pay expenses
+1079,check if expense documents exist
+1079,upload travel expense documents
+1079,file travel expense report
+1079,confirm travel expense report
+1079,decide on travel expense approval
+1079,send request for travel expense correction
+1079,correct travel expense report
+1079,decide on travel expense approval
+1079,send request for travel expense correction
+1079,correct travel expense report
+1079,decide on travel expense approval
+1079,send original documents to archive
+1079,calculate payments
+1079,pay expenses
+1080,check if expense documents exist
+1080,upload travel expense documents
+1080,file travel expense report
+1080,confirm travel expense report
+1080,decide on travel expense approval
+1080,send original documents to archive
+1080,calculate payments
+1080,pay expenses
+1081,check if expense documents exist
+1081,upload travel expense documents
+1081,file travel expense report
+1081,confirm travel expense report
+1081,decide on travel expense approval
+1081,send original documents to archive
+1081,calculate payments
+1081,pay expenses
+1082,check if expense documents exist
+1082,upload travel expense documents
+1082,file travel expense report
+1082,confirm travel expense report
+1082,decide on travel expense approval
+1082,send original documents to archive
+1082,calculate payments
+1082,pay expenses
+1083,file travel expense report
+1083,confirm travel expense report
+1083,decide on travel expense approval
+1083,send request for travel expense correction
+1083,correct travel expense report
+1083,decide on travel expense approval
+1083,send request for travel expense correction
+1083,correct travel expense report
+1083,decide on travel expense approval
+1083,send original documents to archive
+1083,calculate payments
+1083,pay expenses
+1084,send booking proposal to employee
+1084,check booking proposal
+1084,book travel
+1084,check if expense documents exist
+1084,file travel expense report
+1084,confirm travel expense report
+1084,decide on travel expense approval
+1084,calculate payments
+1084,send original documents to archive
+1084,pay expenses
+1085,check if expense documents exist
+1085,upload travel expense documents
+1085,file travel expense report
+1085,confirm travel expense report
+1085,decide on travel expense approval
+1085,send request for travel expense correction
+1085,correct travel expense report
+1085,decide on travel expense approval
+1085,send original documents to archive
+1085,calculate payments
+1085,pay expenses
+1086,check if expense documents exist
+1086,upload travel expense documents
+1086,file travel expense report
+1086,confirm travel expense report
+1086,decide on travel expense approval
+1086,send request for travel expense correction
+1086,correct travel expense report
+1086,decide on travel expense approval
+1086,send original documents to archive
+1086,calculate payments
+1086,pay expenses
+1087,check if expense documents exist
+1087,file travel expense report
+1087,confirm travel expense report
+1087,decide on travel expense approval
+1087,send original documents to archive
+1087,calculate payments
+1087,pay expenses
+1088,send original documents to archive
+1088,calculate payments
+1088,pay expenses
+1089,check if expense documents exist
+1089,upload travel expense documents
+1089,file travel expense report
+1089,confirm travel expense report
+1089,decide on travel expense approval
+1089,send original documents to archive
+1089,calculate payments
+1089,pay expenses
+1090,check if expense documents exist
+1090,upload travel expense documents
+1090,file travel expense report
+1090,confirm travel expense report
+1090,decide on travel expense approval
+1090,send original documents to archive
+1090,calculate payments
+1090,pay expenses
+1091,check if expense documents exist
+1091,file travel expense report
+1091,confirm travel expense report
+1091,decide on travel expense approval
+1091,send request for travel expense correction
+1091,correct travel expense report
+1091,decide on travel expense approval
+1091,calculate payments
+1091,send original documents to archive
+1091,pay expenses
+1092,check if expense documents exist
+1092,upload travel expense documents
+1092,file travel expense report
+1092,confirm travel expense report
+1092,decide on travel expense approval
+1092,send request for travel expense correction
+1092,correct travel expense report
+1092,decide on travel expense approval
+1092,send request for travel expense correction
+1092,correct travel expense report
+1092,decide on travel expense approval
+1092,send request for travel expense correction
+1092,correct travel expense report
+1092,decide on travel expense approval
+1092,send original documents to archive
+1092,calculate payments
+1092,pay expenses
+1093,send original documents to archive
+1093,calculate payments
+1093,pay expenses
+1094,check if expense documents exist
+1094,upload travel expense documents
+1094,file travel expense report
+1094,confirm travel expense report
+1094,decide on travel expense approval
+1094,send original documents to archive
+1094,calculate payments
+1094,pay expenses
+1095,check if expense documents exist
+1095,file travel expense report
+1095,confirm travel expense report
+1095,decide on travel expense approval
+1095,send original documents to archive
+1095,calculate payments
+1095,pay expenses
+1096,check if expense documents exist
+1096,upload travel expense documents
+1096,file travel expense report
+1096,confirm travel expense report
+1096,decide on travel expense approval
+1096,send request for travel expense correction
+1096,correct travel expense report
+1096,decide on travel expense approval
+1096,send original documents to archive
+1096,calculate payments
+1096,pay expenses
+1097,check if expense documents exist
+1097,upload travel expense documents
+1097,file travel expense report
+1097,confirm travel expense report
+1097,decide on travel expense approval
+1097,send original documents to archive
+1097,calculate payments
+1097,pay expenses
+1098,correct travel expense report
+1098,decide on travel expense approval
+1098,send original documents to archive
+1098,calculate payments
+1098,pay expenses
+1099,upload travel expense documents
+1099,file travel expense report
+1099,confirm travel expense report
+1099,decide on travel expense approval
+1099,send original documents to archive
+1099,calculate payments
+1099,pay expenses
+1100,check if expense documents exist
+1100,file travel expense report
+1100,confirm travel expense report
+1100,decide on travel expense approval
+1100,send request for travel expense correction
+1100,correct travel expense report
+1100,decide on travel expense approval
+1100,send original documents to archive
+1100,calculate payments
+1100,pay expenses
+1101,check if expense documents exist
+1101,upload travel expense documents
+1101,file travel expense report
+1101,confirm travel expense report
+1101,decide on travel expense approval
+1101,send original documents to archive
+1101,calculate payments
+1101,pay expenses
+1102,check if expense documents exist
+1102,file travel expense report
+1102,confirm travel expense report
+1102,decide on travel expense approval
+1102,send request for travel expense correction
+1102,correct travel expense report
+1102,decide on travel expense approval
+1102,send original documents to archive
+1102,calculate payments
+1102,pay expenses
+1103,check if expense documents exist
+1103,upload travel expense documents
+1103,file travel expense report
+1103,confirm travel expense report
+1103,decide on travel expense approval
+1103,send original documents to archive
+1103,calculate payments
+1103,pay expenses
+1104,check if expense documents exist
+1104,file travel expense report
+1104,confirm travel expense report
+1104,decide on travel expense approval
+1104,send original documents to archive
+1104,calculate payments
+1104,pay expenses
+1105,check if expense documents exist
+1105,upload travel expense documents
+1105,file travel expense report
+1105,confirm travel expense report
+1105,decide on travel expense approval
+1105,send original documents to archive
+1105,calculate payments
+1105,pay expenses
+1106,check if expense documents exist
+1106,upload travel expense documents
+1106,file travel expense report
+1106,confirm travel expense report
+1106,decide on travel expense approval
+1106,send original documents to archive
+1106,calculate payments
+1106,pay expenses
+1107,check if expense documents exist
+1107,upload travel expense documents
+1107,file travel expense report
+1107,confirm travel expense report
+1107,decide on travel expense approval
+1107,send original documents to archive
+1107,calculate payments
+1107,pay expenses
+1108,check if expense documents exist
+1108,upload travel expense documents
+1108,file travel expense report
+1108,confirm travel expense report
+1108,decide on travel expense approval
+1108,send original documents to archive
+1108,calculate payments
+1108,pay expenses
+1109,check if expense documents exist
+1109,upload travel expense documents
+1109,file travel expense report
+1109,confirm travel expense report
+1109,decide on travel expense approval
+1109,send original documents to archive
+1109,calculate payments
+1109,pay expenses
+1110,check if expense documents exist
+1110,upload travel expense documents
+1110,file travel expense report
+1110,confirm travel expense report
+1110,decide on travel expense approval
+1110,send request for travel expense correction
+1110,correct travel expense report
+1110,decide on travel expense approval
+1110,send original documents to archive
+1110,calculate payments
+1110,pay expenses
+1111,send original documents to archive
+1111,calculate payments
+1111,pay expenses
+1112,book travel
+1112,check if expense documents exist
+1112,upload travel expense documents
+1112,file travel expense report
+1112,confirm travel expense report
+1112,decide on travel expense approval
+1112,send original documents to archive
+1112,calculate payments
+1112,pay expenses
+1113,check booking proposal
+1113,transform price inquiry to travel request
+1113,decide on approval requirements
+1113,check if booking is necessary
+1113,prepare booking proposal
+1113,send booking proposal to employee
+1113,check booking proposal
+1113,check if travel request is still needed and up to date
+1113,request update of the booking proposal
+1113,prepare booking proposal
+1113,send booking proposal to employee
+1113,check booking proposal
+1113,book travel
+1113,check if expense documents exist
+1113,upload travel expense documents
+1113,file travel expense report
+1113,confirm travel expense report
+1113,decide on travel expense approval
+1113,send original documents to archive
+1113,calculate payments
+1113,pay expenses
+1114,check if expense documents exist
+1114,upload travel expense documents
+1114,file travel expense report
+1114,confirm travel expense report
+1114,decide on travel expense approval
+1114,send original documents to archive
+1114,calculate payments
+1114,pay expenses
+1115,check if expense documents exist
+1115,upload travel expense documents
+1115,file travel expense report
+1115,confirm travel expense report
+1115,decide on travel expense approval
+1115,send original documents to archive
+1115,calculate payments
+1115,pay expenses
+1116,request update of the booking proposal
+1116,prepare booking proposal
+1116,send booking proposal to employee
+1116,check booking proposal
+1116,check if travel request is still needed and up to date
+1116,request update of the booking proposal
+1116,prepare booking proposal
+1116,send booking proposal to employee
+1116,check booking proposal
+1116,book travel
+1116,check if expense documents exist
+1116,file travel expense report
+1116,confirm travel expense report
+1116,decide on travel expense approval
+1116,send original documents to archive
+1116,calculate payments
+1116,pay expenses
+1117,check if expense documents exist
+1117,upload travel expense documents
+1117,file travel expense report
+1117,confirm travel expense report
+1117,decide on travel expense approval
+1117,send original documents to archive
+1117,calculate payments
+1117,pay expenses
+1118,check if expense documents exist
+1118,upload travel expense documents
+1118,file travel expense report
+1118,confirm travel expense report
+1118,decide on travel expense approval
+1118,send original documents to archive
+1118,calculate payments
+1118,pay expenses
+1119,check if expense documents exist
+1119,file travel expense report
+1119,confirm travel expense report
+1119,decide on travel expense approval
+1119,send original documents to archive
+1119,calculate payments
+1119,pay expenses
+1120,check if expense documents exist
+1120,upload travel expense documents
+1120,file travel expense report
+1120,confirm travel expense report
+1120,decide on travel expense approval
+1120,send original documents to archive
+1120,calculate payments
+1120,pay expenses
+1121,check if expense documents exist
+1121,file travel expense report
+1121,confirm travel expense report
+1121,decide on travel expense approval
+1121,send original documents to archive
+1121,calculate payments
+1121,pay expenses
+1122,check if expense documents exist
+1122,file travel expense report
+1122,confirm travel expense report
+1122,decide on travel expense approval
+1122,send original documents to archive
+1122,calculate payments
+1122,pay expenses
+1123,check if expense documents exist
+1123,file travel expense report
+1123,confirm travel expense report
+1123,decide on travel expense approval
+1123,send original documents to archive
+1123,calculate payments
+1123,pay expenses
+1124,check if expense documents exist
+1124,upload travel expense documents
+1124,file travel expense report
+1124,confirm travel expense report
+1124,decide on travel expense approval
+1124,send original documents to archive
+1124,calculate payments
+1124,pay expenses
+1125,check if expense documents exist
+1125,file travel expense report
+1125,confirm travel expense report
+1125,decide on travel expense approval
+1125,send request for travel expense correction
+1125,correct travel expense report
+1125,decide on travel expense approval
+1125,send original documents to archive
+1125,calculate payments
+1125,pay expenses
+1126,check if expense documents exist
+1126,upload travel expense documents
+1126,file travel expense report
+1126,confirm travel expense report
+1126,decide on travel expense approval
+1126,send request for travel expense correction
+1126,correct travel expense report
+1126,decide on travel expense approval
+1126,send original documents to archive
+1126,calculate payments
+1126,pay expenses
+1127,check if expense documents exist
+1127,upload travel expense documents
+1127,file travel expense report
+1127,confirm travel expense report
+1127,decide on travel expense approval
+1127,send original documents to archive
+1127,calculate payments
+1127,pay expenses
+1128,check if expense documents exist
+1128,upload travel expense documents
+1128,file travel expense report
+1128,confirm travel expense report
+1128,decide on travel expense approval
+1128,send original documents to archive
+1128,calculate payments
+1128,pay expenses
+1129,check if expense documents exist
+1129,file travel expense report
+1129,confirm travel expense report
+1129,decide on travel expense approval
+1129,send original documents to archive
+1129,calculate payments
+1129,pay expenses
+1130,check if expense documents exist
+1130,upload travel expense documents
+1130,file travel expense report
+1130,confirm travel expense report
+1130,decide on travel expense approval
+1130,send original documents to archive
+1130,calculate payments
+1130,pay expenses
+1131,prepare booking proposal
+1131,send booking proposal to employee
+1131,check booking proposal
+1131,transform price inquiry to travel request
+1131,decide on approval requirements
+1131,forward request to approver
+1131,decide on request
+1131,check if booking is necessary
+1131,check if expense documents exist
+1131,upload travel expense documents
+1131,file travel expense report
+1131,confirm travel expense report
+1131,decide on travel expense approval
+1131,send original documents to archive
+1131,calculate payments
+1131,pay expenses
+1132,check if expense documents exist
+1132,upload travel expense documents
+1132,file travel expense report
+1132,confirm travel expense report
+1132,decide on travel expense approval
+1132,send request for travel expense correction
+1132,correct travel expense report
+1132,decide on travel expense approval
+1132,send original documents to archive
+1132,calculate payments
+1132,pay expenses
+1133,send booking proposal to employee
+1133,check booking proposal
+1133,book travel
+1133,check if expense documents exist
+1133,upload travel expense documents
+1133,file travel expense report
+1133,confirm travel expense report
+1133,decide on travel expense approval
+1133,send original documents to archive
+1133,calculate payments
+1133,pay expenses
+1134,send booking proposal to employee
+1134,check booking proposal
+1134,book travel
+1134,check if expense documents exist
+1134,upload travel expense documents
+1134,file travel expense report
+1134,confirm travel expense report
+1134,decide on travel expense approval
+1134,send request for travel expense correction
+1134,correct travel expense report
+1134,decide on travel expense approval
+1134,send original documents to archive
+1134,calculate payments
+1134,pay expenses
+1135,check if expense documents exist
+1135,upload travel expense documents
+1135,file travel expense report
+1135,confirm travel expense report
+1135,decide on travel expense approval
+1135,send original documents to archive
+1135,calculate payments
+1135,pay expenses
+1136,check if expense documents exist
+1136,upload travel expense documents
+1136,file travel expense report
+1136,confirm travel expense report
+1136,decide on travel expense approval
+1136,send request for travel expense correction
+1136,correct travel expense report
+1136,decide on travel expense approval
+1136,send original documents to archive
+1136,calculate payments
+1136,pay expenses
+1137,check if expense documents exist
+1137,upload travel expense documents
+1137,file travel expense report
+1137,confirm travel expense report
+1137,decide on travel expense approval
+1137,send request for travel expense correction
+1137,correct travel expense report
+1137,decide on travel expense approval
+1137,send request for travel expense correction
+1137,correct travel expense report
+1137,decide on travel expense approval
+1137,send request for travel expense correction
+1137,correct travel expense report
+1137,decide on travel expense approval
+1137,send original documents to archive
+1137,calculate payments
+1137,pay expenses
+1138,check if expense documents exist
+1138,file travel expense report
+1138,confirm travel expense report
+1138,decide on travel expense approval
+1138,send request for travel expense correction
+1138,correct travel expense report
+1138,decide on travel expense approval
+1138,send request for travel expense correction
+1138,correct travel expense report
+1138,decide on travel expense approval
+1138,send original documents to archive
+1138,calculate payments
+1138,pay expenses
+1139,check if expense documents exist
+1139,upload travel expense documents
+1139,file travel expense report
+1139,confirm travel expense report
+1139,decide on travel expense approval
+1139,send original documents to archive
+1139,calculate payments
+1139,pay expenses
+1140,check if expense documents exist
+1140,upload travel expense documents
+1140,file travel expense report
+1140,confirm travel expense report
+1140,decide on travel expense approval
+1140,send original documents to archive
+1140,calculate payments
+1140,pay expenses
+1141,check if expense documents exist
+1141,upload travel expense documents
+1141,file travel expense report
+1141,confirm travel expense report
+1141,decide on travel expense approval
+1141,send original documents to archive
+1141,calculate payments
+1141,pay expenses
+1142,check if booking is necessary
+1142,prepare booking proposal
+1142,send booking proposal to employee
+1142,check booking proposal
+1142,check if travel request is still needed and up to date
+1142,request update of the booking proposal
+1142,prepare booking proposal
+1142,send booking proposal to employee
+1142,check booking proposal
+1142,check if travel request is still needed and up to date
+1142,request update of the booking proposal
+1142,prepare booking proposal
+1142,send booking proposal to employee
+1142,check booking proposal
+1142,book travel
+1142,check if expense documents exist
+1142,upload travel expense documents
+1142,file travel expense report
+1142,confirm travel expense report
+1142,decide on travel expense approval
+1142,send original documents to archive
+1142,calculate payments
+1142,pay expenses
+1143,check if expense documents exist
+1143,upload travel expense documents
+1143,file travel expense report
+1143,confirm travel expense report
+1143,decide on travel expense approval
+1143,send original documents to archive
+1143,calculate payments
+1143,pay expenses
+1144,check booking proposal
+1144,book travel
+1144,check if expense documents exist
+1144,file travel expense report
+1144,confirm travel expense report
+1144,decide on travel expense approval
+1144,send original documents to archive
+1144,calculate payments
+1144,pay expenses
+1145,check if expense documents exist
+1145,upload travel expense documents
+1145,file travel expense report
+1145,confirm travel expense report
+1145,decide on travel expense approval
+1145,send request for travel expense correction
+1145,correct travel expense report
+1145,decide on travel expense approval
+1145,send request for travel expense correction
+1145,correct travel expense report
+1145,decide on travel expense approval
+1145,send original documents to archive
+1145,calculate payments
+1145,pay expenses
+1146,check booking proposal
+1146,book travel
+1146,check if expense documents exist
+1146,file travel expense report
+1146,confirm travel expense report
+1146,decide on travel expense approval
+1146,send original documents to archive
+1146,calculate payments
+1146,pay expenses
+1147,prepare booking proposal
+1147,send booking proposal to employee
+1147,check booking proposal
+1147,check if travel request is still needed and up to date
+1147,request update of the booking proposal
+1147,prepare booking proposal
+1147,send booking proposal to employee
+1147,check booking proposal
+1147,check if travel request is still needed and up to date
+1147,request update of the booking proposal
+1147,prepare booking proposal
+1147,send booking proposal to employee
+1147,check booking proposal
+1147,book travel
+1147,check if expense documents exist
+1147,upload travel expense documents
+1147,file travel expense report
+1147,confirm travel expense report
+1147,decide on travel expense approval
+1147,send original documents to archive
+1147,calculate payments
+1147,pay expenses
+1148,check if expense documents exist
+1148,upload travel expense documents
+1148,file travel expense report
+1148,confirm travel expense report
+1148,decide on travel expense approval
+1148,send request for travel expense correction
+1148,correct travel expense report
+1148,decide on travel expense approval
+1148,send original documents to archive
+1148,calculate payments
+1148,pay expenses
+1150,check if expense documents exist
+1150,upload travel expense documents
+1150,file travel expense report
+1150,confirm travel expense report
+1150,decide on travel expense approval
+1150,send original documents to archive
+1150,calculate payments
+1150,pay expenses
+1151,check if expense documents exist
+1151,upload travel expense documents
+1151,file travel expense report
+1151,confirm travel expense report
+1151,decide on travel expense approval
+1151,send original documents to archive
+1151,calculate payments
+1151,pay expenses
+1152,check if expense documents exist
+1152,upload travel expense documents
+1152,file travel expense report
+1152,confirm travel expense report
+1152,decide on travel expense approval
+1152,send original documents to archive
+1152,calculate payments
+1152,pay expenses
+1153,check if expense documents exist
+1153,upload travel expense documents
+1153,file travel expense report
+1153,confirm travel expense report
+1153,decide on travel expense approval
+1153,send original documents to archive
+1153,calculate payments
+1153,pay expenses
+1154,check if expense documents exist
+1154,upload travel expense documents
+1154,file travel expense report
+1154,confirm travel expense report
+1154,decide on travel expense approval
+1154,send original documents to archive
+1154,calculate payments
+1154,pay expenses
+1155,check if expense documents exist
+1155,upload travel expense documents
+1155,file travel expense report
+1155,confirm travel expense report
+1155,decide on travel expense approval
+1155,send request for travel expense correction
+1155,correct travel expense report
+1155,decide on travel expense approval
+1155,send original documents to archive
+1155,calculate payments
+1155,pay expenses
+1156,check if expense documents exist
+1156,upload travel expense documents
+1156,file travel expense report
+1156,confirm travel expense report
+1156,decide on travel expense approval
+1156,send original documents to archive
+1156,calculate payments
+1156,pay expenses
+1157,check if expense documents exist
+1157,upload travel expense documents
+1157,file travel expense report
+1157,confirm travel expense report
+1157,decide on travel expense approval
+1157,send original documents to archive
+1157,calculate payments
+1157,pay expenses
+1158,check if expense documents exist
+1158,upload travel expense documents
+1158,file travel expense report
+1158,confirm travel expense report
+1158,decide on travel expense approval
+1158,send original documents to archive
+1158,calculate payments
+1158,pay expenses
+1159,check if expense documents exist
+1159,upload travel expense documents
+1159,file travel expense report
+1159,confirm travel expense report
+1159,decide on travel expense approval
+1159,send original documents to archive
+1159,calculate payments
+1159,pay expenses
+1160,check if expense documents exist
+1160,file travel expense report
+1160,confirm travel expense report
+1160,decide on travel expense approval
+1160,send original documents to archive
+1160,calculate payments
+1160,pay expenses
+1161,check if expense documents exist
+1161,upload travel expense documents
+1161,file travel expense report
+1161,confirm travel expense report
+1161,decide on travel expense approval
+1161,send original documents to archive
+1161,calculate payments
+1161,pay expenses
+1162,check if expense documents exist
+1162,upload travel expense documents
+1162,file travel expense report
+1162,confirm travel expense report
+1162,decide on travel expense approval
+1162,send request for travel expense correction
+1162,correct travel expense report
+1162,decide on travel expense approval
+1162,send original documents to archive
+1162,calculate payments
+1162,pay expenses
+1163,book travel
+1163,check if expense documents exist
+1163,upload travel expense documents
+1163,file travel expense report
+1163,confirm travel expense report
+1163,decide on travel expense approval
+1163,send request for travel expense correction
+1163,correct travel expense report
+1163,decide on travel expense approval
+1163,send original documents to archive
+1163,calculate payments
+1163,pay expenses
+1164,check if expense documents exist
+1164,upload travel expense documents
+1164,file travel expense report
+1164,confirm travel expense report
+1164,decide on travel expense approval
+1164,send original documents to archive
+1164,calculate payments
+1164,pay expenses
+1165,check if expense documents exist
+1165,upload travel expense documents
+1165,file travel expense report
+1165,confirm travel expense report
+1165,decide on travel expense approval
+1165,send original documents to archive
+1165,calculate payments
+1165,pay expenses
+1166,check if expense documents exist
+1166,upload travel expense documents
+1166,file travel expense report
+1166,confirm travel expense report
+1166,decide on travel expense approval
+1166,send original documents to archive
+1166,calculate payments
+1166,pay expenses
+1167,upload travel expense documents
+1167,file travel expense report
+1167,confirm travel expense report
+1167,decide on travel expense approval
+1167,send original documents to archive
+1167,calculate payments
+1167,pay expenses
+1168,check if expense documents exist
+1168,upload travel expense documents
+1168,file travel expense report
+1168,confirm travel expense report
+1168,decide on travel expense approval
+1168,send original documents to archive
+1168,calculate payments
+1168,pay expenses
+1169,check if expense documents exist
+1169,file travel expense report
+1169,confirm travel expense report
+1169,decide on travel expense approval
+1169,send original documents to archive
+1169,calculate payments
+1169,pay expenses
+1170,check if expense documents exist
+1170,file travel expense report
+1170,confirm travel expense report
+1170,decide on travel expense approval
+1170,send original documents to archive
+1170,calculate payments
+1170,pay expenses
+1171,check if expense documents exist
+1171,upload travel expense documents
+1171,file travel expense report
+1171,confirm travel expense report
+1171,decide on travel expense approval
+1171,send original documents to archive
+1171,calculate payments
+1171,pay expenses
+1172,check if expense documents exist
+1172,file travel expense report
+1172,confirm travel expense report
+1172,decide on travel expense approval
+1172,send original documents to archive
+1172,calculate payments
+1172,pay expenses
+1173,check if expense documents exist
+1173,upload travel expense documents
+1173,file travel expense report
+1173,confirm travel expense report
+1173,decide on travel expense approval
+1173,send original documents to archive
+1173,calculate payments
+1173,pay expenses
+1174,check if expense documents exist
+1174,upload travel expense documents
+1174,file travel expense report
+1174,confirm travel expense report
+1174,decide on travel expense approval
+1174,send original documents to archive
+1174,calculate payments
+1174,pay expenses
+1175,check if expense documents exist
+1175,upload travel expense documents
+1175,file travel expense report
+1175,confirm travel expense report
+1175,decide on travel expense approval
+1175,send original documents to archive
+1175,calculate payments
+1175,pay expenses
+1176,check if expense documents exist
+1176,upload travel expense documents
+1176,file travel expense report
+1176,confirm travel expense report
+1176,decide on travel expense approval
+1176,send original documents to archive
+1176,calculate payments
+1176,pay expenses
+1178,check if expense documents exist
+1178,upload travel expense documents
+1178,file travel expense report
+1178,confirm travel expense report
+1178,decide on travel expense approval
+1178,send original documents to archive
+1178,calculate payments
+1178,pay expenses
+1179,check if expense documents exist
+1179,file travel expense report
+1179,confirm travel expense report
+1179,decide on travel expense approval
+1179,send original documents to archive
+1179,calculate payments
+1179,pay expenses
+1180,check if expense documents exist
+1180,file travel expense report
+1180,confirm travel expense report
+1180,decide on travel expense approval
+1180,send original documents to archive
+1180,calculate payments
+1180,pay expenses
+1181,check if expense documents exist
+1181,upload travel expense documents
+1181,file travel expense report
+1181,confirm travel expense report
+1181,decide on travel expense approval
+1181,send original documents to archive
+1181,calculate payments
+1181,pay expenses
+1182,check if expense documents exist
+1182,upload travel expense documents
+1182,file travel expense report
+1182,confirm travel expense report
+1182,decide on travel expense approval
+1182,send original documents to archive
+1182,calculate payments
+1182,pay expenses
+1183,check if expense documents exist
+1183,upload travel expense documents
+1183,file travel expense report
+1183,confirm travel expense report
+1183,decide on travel expense approval
+1183,calculate payments
+1183,send original documents to archive
+1183,pay expenses
+1184,check if expense documents exist
+1184,file travel expense report
+1184,confirm travel expense report
+1184,decide on travel expense approval
+1184,send request for travel expense correction
+1184,correct travel expense report
+1184,decide on travel expense approval
+1184,send original documents to archive
+1184,calculate payments
+1184,pay expenses
+1185,check if expense documents exist
+1185,file travel expense report
+1185,confirm travel expense report
+1185,decide on travel expense approval
+1185,send original documents to archive
+1185,calculate payments
+1185,pay expenses
+1186,check if expense documents exist
+1186,upload travel expense documents
+1186,file travel expense report
+1186,confirm travel expense report
+1186,decide on travel expense approval
+1186,send request for travel expense correction
+1186,correct travel expense report
+1186,decide on travel expense approval
+1186,send original documents to archive
+1186,calculate payments
+1186,pay expenses
+1187,check if expense documents exist
+1187,upload travel expense documents
+1187,file travel expense report
+1187,confirm travel expense report
+1187,decide on travel expense approval
+1187,send request for travel expense correction
+1187,correct travel expense report
+1187,decide on travel expense approval
+1187,send original documents to archive
+1187,calculate payments
+1187,pay expenses
+1188,check booking proposal
+1188,transform price inquiry to travel request
+1188,decide on approval requirements
+1188,check if booking is necessary
+1188,prepare booking proposal
+1188,send booking proposal to employee
+1188,check booking proposal
+1188,check if travel request is still needed and up to date
+1188,request update of the booking proposal
+1188,prepare booking proposal
+1188,send booking proposal to employee
+1188,check booking proposal
+1188,book travel
+1188,check if expense documents exist
+1188,upload travel expense documents
+1188,file travel expense report
+1188,confirm travel expense report
+1188,decide on travel expense approval
+1188,calculate payments
+1188,send original documents to archive
+1188,pay expenses
+1189,check if expense documents exist
+1189,file travel expense report
+1189,confirm travel expense report
+1189,decide on travel expense approval
+1189,send original documents to archive
+1189,calculate payments
+1189,pay expenses
+1190,check if expense documents exist
+1190,upload travel expense documents
+1190,file travel expense report
+1190,confirm travel expense report
+1190,decide on travel expense approval
+1190,send request for travel expense correction
+1190,correct travel expense report
+1190,decide on travel expense approval
+1190,send request for travel expense correction
+1190,correct travel expense report
+1190,decide on travel expense approval
+1190,send request for travel expense correction
+1190,correct travel expense report
+1190,decide on travel expense approval
+1190,send request for travel expense correction
+1190,correct travel expense report
+1190,decide on travel expense approval
+1190,send original documents to archive
+1190,calculate payments
+1190,pay expenses
+1191,check if expense documents exist
+1191,upload travel expense documents
+1191,file travel expense report
+1191,confirm travel expense report
+1191,decide on travel expense approval
+1191,send request for travel expense correction
+1191,correct travel expense report
+1191,decide on travel expense approval
+1191,send request for travel expense correction
+1191,correct travel expense report
+1191,decide on travel expense approval
+1191,send original documents to archive
+1191,calculate payments
+1191,pay expenses
+1192,check if expense documents exist
+1192,upload travel expense documents
+1192,file travel expense report
+1192,confirm travel expense report
+1192,decide on travel expense approval
+1192,send original documents to archive
+1192,calculate payments
+1192,pay expenses
+1193,check if expense documents exist
+1193,upload travel expense documents
+1193,file travel expense report
+1193,confirm travel expense report
+1193,decide on travel expense approval
+1193,send request for travel expense correction
+1193,correct travel expense report
+1193,decide on travel expense approval
+1193,send original documents to archive
+1193,calculate payments
+1193,pay expenses
+1194,send booking proposal to employee
+1194,check booking proposal
+1194,book travel
+1194,check if expense documents exist
+1194,file travel expense report
+1194,confirm travel expense report
+1194,decide on travel expense approval
+1194,send original documents to archive
+1194,calculate payments
+1194,pay expenses
+1195,check if expense documents exist
+1195,upload travel expense documents
+1195,file travel expense report
+1195,confirm travel expense report
+1195,decide on travel expense approval
+1195,send original documents to archive
+1195,calculate payments
+1195,pay expenses
+1196,file travel expense report
+1196,confirm travel expense report
+1196,decide on travel expense approval
+1196,send original documents to archive
+1196,calculate payments
+1196,pay expenses
+1197,check if expense documents exist
+1197,upload travel expense documents
+1197,file travel expense report
+1197,confirm travel expense report
+1197,decide on travel expense approval
+1197,send original documents to archive
+1197,calculate payments
+1197,pay expenses
+1198,check if expense documents exist
+1198,upload travel expense documents
+1198,file travel expense report
+1198,confirm travel expense report
+1198,decide on travel expense approval
+1198,send original documents to archive
+1198,calculate payments
+1198,pay expenses
+1199,check if expense documents exist
+1199,upload travel expense documents
+1199,file travel expense report
+1199,confirm travel expense report
+1199,decide on travel expense approval
+1199,send request for travel expense correction
+1199,correct travel expense report
+1199,decide on travel expense approval
+1199,send original documents to archive
+1199,calculate payments
+1199,pay expenses
+1200,check if expense documents exist
+1200,upload travel expense documents
+1200,file travel expense report
+1200,confirm travel expense report
+1200,decide on travel expense approval
+1200,send original documents to archive
+1200,calculate payments
+1200,pay expenses
+1201,check if expense documents exist
+1201,upload travel expense documents
+1201,file travel expense report
+1201,confirm travel expense report
+1201,decide on travel expense approval
+1201,send request for travel expense correction
+1201,correct travel expense report
+1201,decide on travel expense approval
+1201,send request for travel expense correction
+1201,correct travel expense report
+1201,decide on travel expense approval
+1201,send request for travel expense correction
+1201,correct travel expense report
+1201,decide on travel expense approval
+1201,send request for travel expense correction
+1201,correct travel expense report
+1201,decide on travel expense approval
+1201,send request for travel expense correction
+1201,correct travel expense report
+1201,decide on travel expense approval
+1201,send request for travel expense correction
+1201,correct travel expense report
+1201,decide on travel expense approval
+1201,send original documents to archive
+1201,calculate payments
+1201,pay expenses
+1202,check if expense documents exist
+1202,upload travel expense documents
+1202,file travel expense report
+1202,confirm travel expense report
+1202,decide on travel expense approval
+1202,send original documents to archive
+1202,calculate payments
+1202,pay expenses
+1203,check if expense documents exist
+1203,upload travel expense documents
+1203,file travel expense report
+1203,confirm travel expense report
+1203,decide on travel expense approval
+1203,send request for travel expense correction
+1203,correct travel expense report
+1203,decide on travel expense approval
+1203,send original documents to archive
+1203,calculate payments
+1203,pay expenses
+1204,prepare booking proposal
+1204,send booking proposal to employee
+1204,check booking proposal
+1204,book travel
+1204,check if expense documents exist
+1204,upload travel expense documents
+1204,file travel expense report
+1204,confirm travel expense report
+1204,decide on travel expense approval
+1204,send original documents to archive
+1204,calculate payments
+1204,pay expenses
+1205,request update of the booking proposal
+1205,prepare booking proposal
+1205,send booking proposal to employee
+1205,check booking proposal
+1205,book travel
+1205,check if expense documents exist
+1205,upload travel expense documents
+1205,file travel expense report
+1205,confirm travel expense report
+1205,decide on travel expense approval
+1205,send original documents to archive
+1205,calculate payments
+1205,pay expenses
+1206,check if expense documents exist
+1206,upload travel expense documents
+1206,file travel expense report
+1206,confirm travel expense report
+1206,decide on travel expense approval
+1206,send original documents to archive
+1206,calculate payments
+1206,pay expenses
+1207,check if expense documents exist
+1207,upload travel expense documents
+1207,file travel expense report
+1207,confirm travel expense report
+1207,decide on travel expense approval
+1207,send original documents to archive
+1207,calculate payments
+1207,pay expenses
+1208,prepare booking proposal
+1208,send booking proposal to employee
+1208,check booking proposal
+1208,book travel
+1208,check if expense documents exist
+1208,upload travel expense documents
+1208,file travel expense report
+1208,confirm travel expense report
+1208,decide on travel expense approval
+1208,send original documents to archive
+1208,calculate payments
+1208,pay expenses
+1209,check if expense documents exist
+1209,upload travel expense documents
+1209,file travel expense report
+1209,confirm travel expense report
+1209,decide on travel expense approval
+1209,send original documents to archive
+1209,calculate payments
+1209,pay expenses
+1210,check if expense documents exist
+1210,file travel expense report
+1210,confirm travel expense report
+1210,decide on travel expense approval
+1210,send original documents to archive
+1210,calculate payments
+1210,pay expenses
+1211,check if expense documents exist
+1211,upload travel expense documents
+1211,file travel expense report
+1211,confirm travel expense report
+1211,decide on travel expense approval
+1211,send original documents to archive
+1211,calculate payments
+1211,pay expenses
+1212,check if expense documents exist
+1212,upload travel expense documents
+1212,file travel expense report
+1212,confirm travel expense report
+1212,decide on travel expense approval
+1212,send request for travel expense correction
+1212,correct travel expense report
+1212,decide on travel expense approval
+1212,send request for travel expense correction
+1212,correct travel expense report
+1212,decide on travel expense approval
+1212,send original documents to archive
+1212,calculate payments
+1212,pay expenses
+1213,check if expense documents exist
+1213,file travel expense report
+1213,confirm travel expense report
+1213,decide on travel expense approval
+1213,send original documents to archive
+1213,calculate payments
+1213,pay expenses
+1214,check if expense documents exist
+1214,file travel expense report
+1214,confirm travel expense report
+1214,decide on travel expense approval
+1214,send original documents to archive
+1214,calculate payments
+1214,pay expenses
+1215,check if expense documents exist
+1215,upload travel expense documents
+1215,file travel expense report
+1215,confirm travel expense report
+1215,decide on travel expense approval
+1215,send request for travel expense correction
+1215,correct travel expense report
+1215,decide on travel expense approval
+1215,send original documents to archive
+1215,calculate payments
+1215,pay expenses
+1216,check booking proposal
+1216,book travel
+1216,check if expense documents exist
+1216,file travel expense report
+1216,confirm travel expense report
+1216,decide on travel expense approval
+1216,send request for travel expense correction
+1216,correct travel expense report
+1216,decide on travel expense approval
+1216,send original documents to archive
+1216,calculate payments
+1216,pay expenses
+1217,check if expense documents exist
+1217,upload travel expense documents
+1217,file travel expense report
+1217,confirm travel expense report
+1217,decide on travel expense approval
+1217,send original documents to archive
+1217,calculate payments
+1217,pay expenses
+1218,check if expense documents exist
+1218,file travel expense report
+1218,confirm travel expense report
+1218,decide on travel expense approval
+1218,send request for travel expense correction
+1218,correct travel expense report
+1218,decide on travel expense approval
+1218,send original documents to archive
+1218,calculate payments
+1218,pay expenses
+1220,request update of the booking proposal
+1220,prepare booking proposal
+1220,send booking proposal to employee
+1220,check booking proposal
+1220,transform price inquiry to travel request
+1220,decide on approval requirements
+1220,check if booking is necessary
+1220,check if expense documents exist
+1220,upload travel expense documents
+1220,file travel expense report
+1220,confirm travel expense report
+1220,decide on travel expense approval
+1220,send original documents to archive
+1220,calculate payments
+1220,pay expenses
+1221,send booking proposal to employee
+1221,check booking proposal
+1221,check if travel request is still needed and up to date
+1221,request update of the booking proposal
+1221,prepare booking proposal
+1221,send booking proposal to employee
+1221,check booking proposal
+1221,check if travel request is still needed and up to date
+1222,check if expense documents exist
+1222,file travel expense report
+1222,confirm travel expense report
+1222,decide on travel expense approval
+1222,send original documents to archive
+1222,calculate payments
+1222,pay expenses
+1223,prepare booking proposal
+1223,send booking proposal to employee
+1223,check booking proposal
+1223,check if travel request is still needed and up to date
+1223,request update of the booking proposal
+1223,prepare booking proposal
+1223,send booking proposal to employee
+1223,check booking proposal
+1223,book travel
+1223,check if expense documents exist
+1223,upload travel expense documents
+1223,file travel expense report
+1223,confirm travel expense report
+1223,decide on travel expense approval
+1223,send request for travel expense correction
+1223,correct travel expense report
+1223,decide on travel expense approval
+1223,send original documents to archive
+1223,calculate payments
+1223,pay expenses
+1224,check if expense documents exist
+1224,upload travel expense documents
+1224,file travel expense report
+1224,confirm travel expense report
+1224,decide on travel expense approval
+1224,send request for travel expense correction
+1224,correct travel expense report
+1224,decide on travel expense approval
+1224,send request for travel expense correction
+1224,correct travel expense report
+1224,decide on travel expense approval
+1224,send original documents to archive
+1224,calculate payments
+1224,pay expenses
+1225,check if expense documents exist
+1225,upload travel expense documents
+1225,file travel expense report
+1225,confirm travel expense report
+1225,decide on travel expense approval
+1225,send original documents to archive
+1225,calculate payments
+1225,pay expenses
+1226,check if expense documents exist
+1226,upload travel expense documents
+1226,file travel expense report
+1226,confirm travel expense report
+1226,decide on travel expense approval
+1226,send request for travel expense correction
+1226,correct travel expense report
+1226,decide on travel expense approval
+1226,send request for travel expense correction
+1226,correct travel expense report
+1226,decide on travel expense approval
+1226,send request for travel expense correction
+1226,correct travel expense report
+1226,decide on travel expense approval
+1226,send request for travel expense correction
+1226,correct travel expense report
+1226,decide on travel expense approval
+1226,send original documents to archive
+1226,calculate payments
+1226,pay expenses
+1227,check if expense documents exist
+1227,file travel expense report
+1227,confirm travel expense report
+1227,decide on travel expense approval
+1227,send original documents to archive
+1227,calculate payments
+1227,pay expenses
+1228,book travel
+1228,check if expense documents exist
+1228,file travel expense report
+1228,confirm travel expense report
+1228,decide on travel expense approval
+1228,send original documents to archive
+1228,calculate payments
+1228,pay expenses
+1229,check if expense documents exist
+1229,upload travel expense documents
+1229,file travel expense report
+1229,confirm travel expense report
+1229,decide on travel expense approval
+1229,send original documents to archive
+1229,calculate payments
+1229,pay expenses
+1230,check if expense documents exist
+1230,file travel expense report
+1230,confirm travel expense report
+1230,decide on travel expense approval
+1230,send original documents to archive
+1230,calculate payments
+1230,pay expenses
+1231,check if expense documents exist
+1231,upload travel expense documents
+1231,file travel expense report
+1231,confirm travel expense report
+1231,decide on travel expense approval
+1231,send original documents to archive
+1231,calculate payments
+1231,pay expenses
+1232,check if expense documents exist
+1232,upload travel expense documents
+1232,file travel expense report
+1232,confirm travel expense report
+1232,decide on travel expense approval
+1232,send original documents to archive
+1232,calculate payments
+1232,pay expenses
+1233,check if expense documents exist
+1233,file travel expense report
+1233,confirm travel expense report
+1233,decide on travel expense approval
+1233,send original documents to archive
+1233,calculate payments
+1233,pay expenses
+1234,check if expense documents exist
+1234,file travel expense report
+1234,confirm travel expense report
+1234,decide on travel expense approval
+1234,send original documents to archive
+1234,calculate payments
+1234,pay expenses
+1235,check booking proposal
+1235,book travel
+1235,check if expense documents exist
+1235,file travel expense report
+1235,confirm travel expense report
+1235,decide on travel expense approval
+1235,send original documents to archive
+1235,calculate payments
+1235,pay expenses
+1236,check if expense documents exist
+1236,file travel expense report
+1236,confirm travel expense report
+1236,decide on travel expense approval
+1236,send original documents to archive
+1236,calculate payments
+1236,pay expenses
+1237,check if expense documents exist
+1237,file travel expense report
+1237,confirm travel expense report
+1237,decide on travel expense approval
+1237,send original documents to archive
+1237,calculate payments
+1237,pay expenses
+1238,check if expense documents exist
+1238,file travel expense report
+1238,confirm travel expense report
+1238,decide on travel expense approval
+1238,send original documents to archive
+1238,calculate payments
+1238,pay expenses
+1239,check if expense documents exist
+1239,file travel expense report
+1239,confirm travel expense report
+1239,decide on travel expense approval
+1239,send original documents to archive
+1239,calculate payments
+1239,pay expenses
+1240,check if expense documents exist
+1240,upload travel expense documents
+1240,file travel expense report
+1240,confirm travel expense report
+1240,decide on travel expense approval
+1240,send request for travel expense correction
+1240,correct travel expense report
+1240,decide on travel expense approval
+1240,send request for travel expense correction
+1240,correct travel expense report
+1240,decide on travel expense approval
+1240,send request for travel expense correction
+1240,correct travel expense report
+1240,decide on travel expense approval
+1240,send original documents to archive
+1240,calculate payments
+1240,pay expenses
+1241,check if expense documents exist
+1241,file travel expense report
+1241,confirm travel expense report
+1241,decide on travel expense approval
+1241,send original documents to archive
+1241,calculate payments
+1241,pay expenses
+1242,check if expense documents exist
+1242,file travel expense report
+1242,confirm travel expense report
+1242,decide on travel expense approval
+1242,send original documents to archive
+1242,calculate payments
+1242,pay expenses
+1243,check if expense documents exist
+1243,file travel expense report
+1243,confirm travel expense report
+1243,decide on travel expense approval
+1243,send request for travel expense correction
+1243,correct travel expense report
+1243,decide on travel expense approval
+1243,send original documents to archive
+1243,calculate payments
+1243,pay expenses
+1244,prepare booking proposal
+1244,send booking proposal to employee
+1244,check booking proposal
+1244,book travel
+1244,check if expense documents exist
+1244,file travel expense report
+1244,confirm travel expense report
+1244,decide on travel expense approval
+1244,send original documents to archive
+1244,calculate payments
+1244,pay expenses
+1245,check if expense documents exist
+1245,upload travel expense documents
+1245,file travel expense report
+1245,confirm travel expense report
+1245,decide on travel expense approval
+1245,send original documents to archive
+1245,calculate payments
+1245,pay expenses
+1246,check if expense documents exist
+1246,file travel expense report
+1246,confirm travel expense report
+1246,decide on travel expense approval
+1246,send original documents to archive
+1246,calculate payments
+1246,pay expenses
+1247,book travel
+1247,check if expense documents exist
+1247,file travel expense report
+1247,confirm travel expense report
+1247,decide on travel expense approval
+1247,send original documents to archive
+1247,calculate payments
+1247,pay expenses
+1248,check if booking is necessary
+1248,prepare booking proposal
+1248,send booking proposal to employee
+1248,check booking proposal
+1248,book travel
+1248,check if expense documents exist
+1248,upload travel expense documents
+1248,file travel expense report
+1248,confirm travel expense report
+1248,decide on travel expense approval
+1248,calculate payments
+1248,send original documents to archive
+1248,pay expenses
+1249,check if expense documents exist
+1249,upload travel expense documents
+1249,file travel expense report
+1249,confirm travel expense report
+1249,decide on travel expense approval
+1249,send original documents to archive
+1249,calculate payments
+1249,pay expenses
+1250,send booking proposal to employee
+1250,check booking proposal
+1250,transform price inquiry to travel request
+1250,decide on approval requirements
+1250,check if booking is necessary
+1250,prepare booking proposal
+1250,send booking proposal to employee
+1250,check booking proposal
+1250,book travel
+1250,check if expense documents exist
+1250,upload travel expense documents
+1250,file travel expense report
+1250,confirm travel expense report
+1250,decide on travel expense approval
+1250,send original documents to archive
+1250,calculate payments
+1250,pay expenses
+1251,check booking proposal
+1251,book travel
+1251,check if expense documents exist
+1251,upload travel expense documents
+1251,file travel expense report
+1251,confirm travel expense report
+1251,decide on travel expense approval
+1251,send original documents to archive
+1251,calculate payments
+1251,pay expenses
+1252,check if expense documents exist
+1252,file travel expense report
+1252,confirm travel expense report
+1252,decide on travel expense approval
+1252,send original documents to archive
+1252,calculate payments
+1252,pay expenses
+1253,send booking proposal to employee
+1253,check booking proposal
+1253,check if price inquiry is still needed and up to date
+1253,request update of the booking proposal
+1253,prepare booking proposal
+1253,send booking proposal to employee
+1253,check booking proposal
+1253,transform price inquiry to travel request
+1253,decide on approval requirements
+1253,check if booking is necessary
+1253,prepare booking proposal
+1253,send booking proposal to employee
+1253,check booking proposal
+1253,check if travel request is still needed and up to date
+1253,request update of the booking proposal
+1253,prepare booking proposal
+1253,send booking proposal to employee
+1253,check booking proposal
+1253,book travel
+1253,check if expense documents exist
+1253,upload travel expense documents
+1253,file travel expense report
+1253,confirm travel expense report
+1253,decide on travel expense approval
+1253,send original documents to archive
+1253,calculate payments
+1253,pay expenses
+1254,check if expense documents exist
+1254,upload travel expense documents
+1254,file travel expense report
+1254,confirm travel expense report
+1254,decide on travel expense approval
+1254,send request for travel expense correction
+1254,correct travel expense report
+1254,decide on travel expense approval
+1254,send original documents to archive
+1254,calculate payments
+1254,pay expenses
+1255,check if expense documents exist
+1255,upload travel expense documents
+1255,file travel expense report
+1255,confirm travel expense report
+1255,decide on travel expense approval
+1255,send original documents to archive
+1255,calculate payments
+1255,pay expenses
+1256,check if expense documents exist
+1256,upload travel expense documents
+1256,file travel expense report
+1256,confirm travel expense report
+1256,decide on travel expense approval
+1256,send request for travel expense correction
+1256,correct travel expense report
+1256,decide on travel expense approval
+1256,send request for travel expense correction
+1256,correct travel expense report
+1256,decide on travel expense approval
+1256,send original documents to archive
+1256,calculate payments
+1256,pay expenses
+1257,check if expense documents exist
+1257,upload travel expense documents
+1257,file travel expense report
+1257,confirm travel expense report
+1257,decide on travel expense approval
+1257,send request for travel expense correction
+1257,correct travel expense report
+1257,decide on travel expense approval
+1257,send original documents to archive
+1257,calculate payments
+1257,pay expenses
+1258,check if expense documents exist
+1258,file travel expense report
+1258,confirm travel expense report
+1258,decide on travel expense approval
+1258,send original documents to archive
+1258,calculate payments
+1258,pay expenses
+1259,send booking proposal to employee
+1259,check booking proposal
+1259,book travel
+1259,check if expense documents exist
+1259,upload travel expense documents
+1259,file travel expense report
+1259,confirm travel expense report
+1259,decide on travel expense approval
+1259,send request for travel expense correction
+1259,correct travel expense report
+1259,decide on travel expense approval
+1259,send request for travel expense correction
+1259,correct travel expense report
+1259,decide on travel expense approval
+1259,send request for travel expense correction
+1259,correct travel expense report
+1259,decide on travel expense approval
+1259,send original documents to archive
+1259,calculate payments
+1259,pay expenses
+1261,check if expense documents exist
+1261,upload travel expense documents
+1261,file travel expense report
+1261,confirm travel expense report
+1261,decide on travel expense approval
+1261,send request for travel expense correction
+1261,correct travel expense report
+1261,decide on travel expense approval
+1261,send request for travel expense correction
+1261,correct travel expense report
+1261,decide on travel expense approval
+1261,send original documents to archive
+1261,calculate payments
+1261,pay expenses
+1262,check if expense documents exist
+1262,upload travel expense documents
+1262,file travel expense report
+1262,confirm travel expense report
+1262,decide on travel expense approval
+1262,send request for travel expense correction
+1262,correct travel expense report
+1262,decide on travel expense approval
+1262,send original documents to archive
+1262,calculate payments
+1262,pay expenses
+1263,check if expense documents exist
+1263,file travel expense report
+1263,confirm travel expense report
+1263,decide on travel expense approval
+1263,send original documents to archive
+1263,calculate payments
+1263,pay expenses
+1264,check if expense documents exist
+1264,upload travel expense documents
+1264,file travel expense report
+1264,confirm travel expense report
+1264,decide on travel expense approval
+1264,send request for travel expense correction
+1264,correct travel expense report
+1264,decide on travel expense approval
+1264,send original documents to archive
+1264,calculate payments
+1264,pay expenses
+1265,request update of the booking proposal
+1265,prepare booking proposal
+1265,send booking proposal to employee
+1265,check booking proposal
+1265,check if travel request is still needed and up to date
+1265,request update of the booking proposal
+1265,prepare booking proposal
+1265,send booking proposal to employee
+1265,check booking proposal
+1265,book travel
+1265,check if expense documents exist
+1265,upload travel expense documents
+1265,file travel expense report
+1265,confirm travel expense report
+1265,decide on travel expense approval
+1265,calculate payments
+1265,send original documents to archive
+1265,pay expenses
+1266,check if expense documents exist
+1266,upload travel expense documents
+1266,file travel expense report
+1266,confirm travel expense report
+1266,decide on travel expense approval
+1266,send original documents to archive
+1266,calculate payments
+1266,pay expenses
+1267,request update of the booking proposal
+1267,prepare booking proposal
+1267,send booking proposal to employee
+1267,check booking proposal
+1267,book travel
+1267,check if expense documents exist
+1267,upload travel expense documents
+1267,file travel expense report
+1267,confirm travel expense report
+1267,decide on travel expense approval
+1267,send original documents to archive
+1267,calculate payments
+1267,pay expenses
+1268,check if expense documents exist
+1268,upload travel expense documents
+1268,file travel expense report
+1268,confirm travel expense report
+1268,decide on travel expense approval
+1268,send original documents to archive
+1268,calculate payments
+1268,pay expenses
+1269,request update of the booking proposal
+1269,prepare booking proposal
+1269,send booking proposal to employee
+1269,check booking proposal
+1269,book travel
+1269,check if expense documents exist
+1269,file travel expense report
+1269,confirm travel expense report
+1269,decide on travel expense approval
+1269,send original documents to archive
+1269,calculate payments
+1269,pay expenses
+1270,check if expense documents exist
+1270,upload travel expense documents
+1270,file travel expense report
+1270,confirm travel expense report
+1270,decide on travel expense approval
+1270,send original documents to archive
+1270,calculate payments
+1270,pay expenses
+1271,request update of the booking proposal
+1271,prepare booking proposal
+1271,send booking proposal to employee
+1271,check booking proposal
+1271,book travel
+1271,check if expense documents exist
+1271,upload travel expense documents
+1271,file travel expense report
+1271,confirm travel expense report
+1271,decide on travel expense approval
+1271,send request for travel expense correction
+1271,correct travel expense report
+1271,decide on travel expense approval
+1271,send original documents to archive
+1271,calculate payments
+1271,pay expenses
+1272,check if expense documents exist
+1272,file travel expense report
+1272,confirm travel expense report
+1272,decide on travel expense approval
+1272,send request for travel expense correction
+1272,correct travel expense report
+1272,decide on travel expense approval
+1272,send original documents to archive
+1272,calculate payments
+1272,pay expenses
+1273,check if expense documents exist
+1273,upload travel expense documents
+1273,file travel expense report
+1273,confirm travel expense report
+1273,decide on travel expense approval
+1273,send request for travel expense correction
+1273,correct travel expense report
+1273,decide on travel expense approval
+1273,send original documents to archive
+1273,calculate payments
+1273,pay expenses
+1274,check if expense documents exist
+1274,upload travel expense documents
+1274,file travel expense report
+1274,confirm travel expense report
+1274,decide on travel expense approval
+1274,send original documents to archive
+1274,calculate payments
+1274,pay expenses
+1275,check if expense documents exist
+1275,file travel expense report
+1275,confirm travel expense report
+1275,decide on travel expense approval
+1275,send original documents to archive
+1275,calculate payments
+1275,pay expenses
+1276,check if expense documents exist
+1276,upload travel expense documents
+1276,file travel expense report
+1276,confirm travel expense report
+1276,decide on travel expense approval
+1276,send request for travel expense correction
+1276,correct travel expense report
+1276,decide on travel expense approval
+1276,send original documents to archive
+1276,calculate payments
+1276,pay expenses
+1277,check if expense documents exist
+1277,file travel expense report
+1277,confirm travel expense report
+1277,decide on travel expense approval
+1277,send request for travel expense correction
+1277,correct travel expense report
+1277,decide on travel expense approval
+1277,send original documents to archive
+1277,calculate payments
+1277,pay expenses
+1278,check if expense documents exist
+1278,file travel expense report
+1278,confirm travel expense report
+1278,decide on travel expense approval
+1278,send original documents to archive
+1278,calculate payments
+1278,pay expenses
+1279,send booking proposal to employee
+1279,check booking proposal
+1279,transform price inquiry to travel request
+1279,decide on approval requirements
+1279,check if booking is necessary
+1279,check if expense documents exist
+1279,upload travel expense documents
+1279,file travel expense report
+1279,confirm travel expense report
+1279,decide on travel expense approval
+1279,send original documents to archive
+1279,calculate payments
+1279,pay expenses
+1280,check if expense documents exist
+1280,upload travel expense documents
+1280,file travel expense report
+1280,confirm travel expense report
+1280,decide on travel expense approval
+1280,send original documents to archive
+1280,calculate payments
+1280,pay expenses
+1281,check if expense documents exist
+1281,upload travel expense documents
+1281,file travel expense report
+1281,confirm travel expense report
+1281,decide on travel expense approval
+1281,send request for travel expense correction
+1281,correct travel expense report
+1281,decide on travel expense approval
+1281,send request for travel expense correction
+1281,correct travel expense report
+1281,decide on travel expense approval
+1281,send request for travel expense correction
+1281,correct travel expense report
+1281,decide on travel expense approval
+1281,send original documents to archive
+1281,calculate payments
+1281,pay expenses
+1282,check if expense documents exist
+1282,upload travel expense documents
+1282,file travel expense report
+1282,confirm travel expense report
+1282,decide on travel expense approval
+1282,send original documents to archive
+1282,calculate payments
+1282,pay expenses
+1283,request update of the booking proposal
+1283,prepare booking proposal
+1283,send booking proposal to employee
+1283,check booking proposal
+1283,book travel
+1283,check if expense documents exist
+1283,upload travel expense documents
+1283,file travel expense report
+1283,confirm travel expense report
+1283,decide on travel expense approval
+1283,send request for travel expense correction
+1283,correct travel expense report
+1283,decide on travel expense approval
+1283,send original documents to archive
+1283,calculate payments
+1283,pay expenses
+1284,check if expense documents exist
+1284,upload travel expense documents
+1284,file travel expense report
+1284,confirm travel expense report
+1284,decide on travel expense approval
+1284,send original documents to archive
+1284,calculate payments
+1284,pay expenses
+1285,check if expense documents exist
+1285,upload travel expense documents
+1285,file travel expense report
+1285,confirm travel expense report
+1285,decide on travel expense approval
+1285,send original documents to archive
+1285,calculate payments
+1285,pay expenses
+1286,check if booking is necessary
+1286,prepare booking proposal
+1286,send booking proposal to employee
+1286,check booking proposal
+1286,book travel
+1286,check if expense documents exist
+1286,upload travel expense documents
+1286,file travel expense report
+1286,confirm travel expense report
+1286,decide on travel expense approval
+1286,send original documents to archive
+1286,calculate payments
+1286,pay expenses
+1287,check if expense documents exist
+1287,upload travel expense documents
+1287,file travel expense report
+1287,confirm travel expense report
+1287,decide on travel expense approval
+1287,send original documents to archive
+1287,calculate payments
+1287,pay expenses
+1288,check if expense documents exist
+1288,upload travel expense documents
+1288,file travel expense report
+1288,confirm travel expense report
+1288,decide on travel expense approval
+1288,send request for travel expense correction
+1288,correct travel expense report
+1288,decide on travel expense approval
+1288,send original documents to archive
+1288,calculate payments
+1288,pay expenses
+1289,check if expense documents exist
+1289,upload travel expense documents
+1289,file travel expense report
+1289,confirm travel expense report
+1289,decide on travel expense approval
+1289,send original documents to archive
+1289,calculate payments
+1289,pay expenses
+1290,book travel
+1290,check if expense documents exist
+1290,upload travel expense documents
+1290,file travel expense report
+1290,confirm travel expense report
+1290,decide on travel expense approval
+1290,send request for travel expense correction
+1290,correct travel expense report
+1290,decide on travel expense approval
+1290,send original documents to archive
+1290,calculate payments
+1290,pay expenses
+1291,send booking proposal to employee
+1291,check booking proposal
+1291,book travel
+1291,check if expense documents exist
+1291,upload travel expense documents
+1291,file travel expense report
+1291,confirm travel expense report
+1291,decide on travel expense approval
+1291,send original documents to archive
+1291,calculate payments
+1291,pay expenses
+1292,check if expense documents exist
+1292,file travel expense report
+1292,confirm travel expense report
+1292,decide on travel expense approval
+1292,send request for travel expense correction
+1292,correct travel expense report
+1292,decide on travel expense approval
+1292,send original documents to archive
+1292,calculate payments
+1292,pay expenses
+1293,check if expense documents exist
+1293,upload travel expense documents
+1293,file travel expense report
+1293,confirm travel expense report
+1293,decide on travel expense approval
+1293,send request for travel expense correction
+1293,correct travel expense report
+1293,decide on travel expense approval
+1293,send original documents to archive
+1293,calculate payments
+1293,pay expenses
+1294,check if expense documents exist
+1294,upload travel expense documents
+1294,file travel expense report
+1294,confirm travel expense report
+1294,decide on travel expense approval
+1294,send original documents to archive
+1294,calculate payments
+1294,pay expenses
+1295,check if expense documents exist
+1295,upload travel expense documents
+1295,file travel expense report
+1295,confirm travel expense report
+1295,decide on travel expense approval
+1295,send original documents to archive
+1295,calculate payments
+1295,pay expenses
+1296,check if expense documents exist
+1296,upload travel expense documents
+1296,file travel expense report
+1296,confirm travel expense report
+1296,decide on travel expense approval
+1296,send original documents to archive
+1296,calculate payments
+1296,pay expenses
+1297,check if booking is necessary
+1297,check if expense documents exist
+1297,upload travel expense documents
+1297,file travel expense report
+1297,confirm travel expense report
+1297,decide on travel expense approval
+1297,send original documents to archive
+1297,calculate payments
+1297,pay expenses
+1298,book travel
+1298,check if expense documents exist
+1298,upload travel expense documents
+1298,file travel expense report
+1298,confirm travel expense report
+1298,decide on travel expense approval
+1298,send request for travel expense correction
+1298,correct travel expense report
+1298,decide on travel expense approval
+1298,send original documents to archive
+1298,calculate payments
+1298,pay expenses
+1299,check if expense documents exist
+1299,upload travel expense documents
+1299,file travel expense report
+1299,confirm travel expense report
+1299,decide on travel expense approval
+1299,send request for travel expense correction
+1299,correct travel expense report
+1299,decide on travel expense approval
+1299,send request for travel expense correction
+1299,correct travel expense report
+1299,decide on travel expense approval
+1299,send request for travel expense correction
+1299,correct travel expense report
+1299,decide on travel expense approval
+1299,send original documents to archive
+1299,calculate payments
+1299,pay expenses
+1300,check if expense documents exist
+1300,upload travel expense documents
+1300,file travel expense report
+1300,confirm travel expense report
+1300,decide on travel expense approval
+1300,send request for travel expense correction
+1300,correct travel expense report
+1300,decide on travel expense approval
+1300,send original documents to archive
+1300,calculate payments
+1300,pay expenses
+1301,prepare booking proposal
+1301,send booking proposal to employee
+1301,check booking proposal
+1301,book travel
+1301,check if expense documents exist
+1301,file travel expense report
+1301,confirm travel expense report
+1301,decide on travel expense approval
+1301,send original documents to archive
+1301,calculate payments
+1301,pay expenses
+1302,check if expense documents exist
+1302,upload travel expense documents
+1302,file travel expense report
+1302,confirm travel expense report
+1302,decide on travel expense approval
+1302,send request for travel expense correction
+1302,correct travel expense report
+1302,decide on travel expense approval
+1302,calculate payments
+1302,send original documents to archive
+1302,pay expenses
+1303,check if expense documents exist
+1303,upload travel expense documents
+1303,file travel expense report
+1303,confirm travel expense report
+1303,decide on travel expense approval
+1303,send original documents to archive
+1303,calculate payments
+1303,pay expenses
+1304,check if expense documents exist
+1304,upload travel expense documents
+1304,file travel expense report
+1304,confirm travel expense report
+1304,decide on travel expense approval
+1304,send request for travel expense correction
+1304,correct travel expense report
+1304,decide on travel expense approval
+1304,send request for travel expense correction
+1304,correct travel expense report
+1304,decide on travel expense approval
+1304,send original documents to archive
+1304,calculate payments
+1304,pay expenses
+1305,check if expense documents exist
+1305,file travel expense report
+1305,confirm travel expense report
+1305,decide on travel expense approval
+1305,calculate payments
+1305,send original documents to archive
+1305,pay expenses
+1306,check if expense documents exist
+1306,upload travel expense documents
+1306,file travel expense report
+1306,confirm travel expense report
+1306,decide on travel expense approval
+1306,send original documents to archive
+1306,calculate payments
+1306,pay expenses
+1307,check if expense documents exist
+1307,upload travel expense documents
+1307,file travel expense report
+1307,confirm travel expense report
+1307,decide on travel expense approval
+1307,send request for travel expense correction
+1307,correct travel expense report
+1307,decide on travel expense approval
+1307,send original documents to archive
+1307,calculate payments
+1307,pay expenses
+1308,check if expense documents exist
+1308,file travel expense report
+1308,confirm travel expense report
+1308,decide on travel expense approval
+1308,send original documents to archive
+1308,calculate payments
+1308,pay expenses
+1309,check if expense documents exist
+1309,upload travel expense documents
+1309,file travel expense report
+1309,confirm travel expense report
+1309,decide on travel expense approval
+1309,send request for travel expense correction
+1309,correct travel expense report
+1309,decide on travel expense approval
+1309,send original documents to archive
+1309,calculate payments
+1309,pay expenses
+1310,check if expense documents exist
+1310,upload travel expense documents
+1310,file travel expense report
+1310,confirm travel expense report
+1310,decide on travel expense approval
+1310,send request for travel expense correction
+1310,correct travel expense report
+1310,decide on travel expense approval
+1310,send original documents to archive
+1310,calculate payments
+1310,pay expenses
+1311,book travel
+1311,check if expense documents exist
+1311,file travel expense report
+1311,confirm travel expense report
+1311,decide on travel expense approval
+1311,send original documents to archive
+1311,calculate payments
+1311,pay expenses
+1312,check if expense documents exist
+1312,file travel expense report
+1312,confirm travel expense report
+1312,decide on travel expense approval
+1312,send request for travel expense correction
+1312,correct travel expense report
+1312,decide on travel expense approval
+1312,send original documents to archive
+1312,calculate payments
+1312,pay expenses
+1313,check if price inquiry is still needed and up to date
+1313,request update of the booking proposal
+1313,prepare booking proposal
+1313,send booking proposal to employee
+1313,check booking proposal
+1313,transform price inquiry to travel request
+1313,decide on approval requirements
+1313,check if booking is necessary
+1313,prepare booking proposal
+1313,send booking proposal to employee
+1313,check booking proposal
+1313,book travel
+1313,check if expense documents exist
+1313,file travel expense report
+1313,confirm travel expense report
+1313,decide on travel expense approval
+1313,send original documents to archive
+1313,calculate payments
+1313,pay expenses
