@@ -18,7 +18,9 @@ Detailed results can be found in the folder "results", including a xlsx-file sum
 2. Install dependencies (Python 3.8.8)
    - ```pip install -r requirements.txt```
 
-3. How to:
+3. Unzip the sample event logs
+
+4. How to:
     1. Run the script lstm.py with the following flags
         - *--task*: "next_activity", 
         - *--contextual_info*: "True" if you want to exploit contextual features, "False" otherwise (default: False),
