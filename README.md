@@ -51,7 +51,7 @@ The fundamental implementation and structure is from Fani Sani et al. This inclu
 The file lstm.py is based on next_activity_prediction_with_neural_networks.py and code was incorporated to include the chosen sampling methods and the calculation of the example leakage.
 Fani Sani, M., Vazifehdoostirani, M., Park, G., Pegoraro, M., Van Zelst, S. J., & Van Der Aalst, W. M. P. (2023). Performance-preserving event log sampling for predictive monitoring. J Intell Inf Syst, 61(1), 53–82. https://doi.org/10.1007/s10844-022-00775-9
 
-Relevance-based Sampling:
+Relevance guided Sampling:
 The folder "Relevance_based_sampling" contains the necessary code for this sampling technique. 
 All classes were implemented by:
 Kabierski, M., Nguyen, H. L., Grunske, L., & Weidlich, M. (2021). Sampling What Matters: Relevance-guided Sampling of Event Logs. 2021 3rd International Conference on Process Mining (ICPM), 64–71. https://doi.org/10.1109/ICPM53251.
